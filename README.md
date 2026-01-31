@@ -182,7 +182,7 @@ Score = 0.4×RFM + 0.2×Availability + 0.2×Segment_Match + 0.1×Blood_Match + 0
 
 | Name | Roll Number |
 |------|-------------|
-| Jasleen (Leader) | 10045 |
+| Jasleen | 10045 |
 | Manasvi | 10406 |
 | Akshat | 10060 |
 | Ankita | 10062 |

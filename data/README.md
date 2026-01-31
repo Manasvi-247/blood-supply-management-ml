@@ -1,9 +1,24 @@
 # Data Sources
 
 ## Google Drive Link
-**[INSERT YOUR GOOGLE DRIVE LINK HERE]**
+**[Download Data](https://drive.google.com/drive/folders/1YCR5Gx2r8faHEW5MoG0KJKrkmc40PyGs?usp=sharing)**
 
-Upload the following files to Google Drive and paste the link above.
+---
+
+## Original Data Sources
+
+| Dataset | Link |
+|---------|------|
+| UCI Blood Transfusion | https://archive.ics.uci.edu/dataset/176/blood+transfusion+service+center |
+| Kaggle Blood Demand | https://www.kaggle.com/datasets/rishi2003das/blood-demand-dataset |
+| Kaggle Blood Donor | https://www.kaggle.com/datasets/ahmadmehmod/blood-donor-dataset |
+
+## Research References
+
+| Source | Link |
+|--------|------|
+| NBCUS 2019 Report | https://www.hhs.gov/sites/default/files/2019-nbcus-report.pdf |
+| WHO Blood Safety | https://www.who.int/news-room/fact-sheets/detail/blood-safety-and-availability |
 
 ---
 
@@ -99,4 +114,26 @@ Synthetic data was generated using statistics from:
 To regenerate:
 ```bash
 python src/generate_datasets.py
+```
+
+---
+
+## Viewing the Report
+
+### PDF Report
+The `report/report.pdf` file can be opened with any PDF viewer.
+
+### Interactive HTML Report
+The `report/report.html` file provides a styled, interactive version of the report.
+
+**To view:**
+1. Navigate to the `report/` folder
+2. Double-click `report.html` to open in your default browser
+3. Or right-click → Open with → Choose your preferred browser
+
+**Alternative:** Run from terminal:
+```bash
+open report/report.html  # macOS
+start report/report.html # Windows
+xdg-open report/report.html # Linux
 ```
