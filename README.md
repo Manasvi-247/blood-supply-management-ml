@@ -35,14 +35,12 @@ This project addresses the critical challenge of **blood shortage and wastage** 
 blood-supply-management/
 ├── data/
 │   ├── uci_transfusion.csv          # UCI real dataset (748 records)
-│   ├── donor_registry.csv           # Synthetic donors (10K records)
-│   ├── rfm_dataset.csv              # RFM features
-│   ├── demand_daily.csv             # Daily demand (3 years)
-│   ├── demand_detailed.csv          # Demand by blood type
-│   ├── supply_inventory.csv         # Supply and wastage
-│   ├── donor_segments.csv           # Segmented donors
-│   ├── recommendations_C001-C005.csv # Campaign recommendations
-│   └── campaign_metrics.csv         # Campaign performance
+│   ├── visualizations/              # 27 PNG visualizations
+│   │   ├── demand_*.png             # Demand analysis plots
+│   │   ├── donor_*.png              # Donor analysis plots
+│   │   ├── *_forecast.png           # Forecasting results
+│   │   └── ...                      # Segmentation, clustering, etc.
+│   └── README.md                    # Data documentation & sources
 ├── notebooks/
 │   ├── 01_data_exploration.ipynb    # EDA & visualization
 │   ├── 02_demand_forecasting.ipynb  # SARIMA, Prophet, ML models
@@ -53,11 +51,13 @@ blood-supply-management/
 │   ├── utils.py                     # Helper functions
 │   └── generate_datasets.py         # Synthetic data generation
 ├── report/
-│   ├── report.pdf                   # Final report (9 pages)
-│   └── *.png                        # 27 visualizations
+│   ├── report.pdf                   # Final report (7 pages)
+│   └── report.html                  # Interactive HTML report
 ├── requirements.txt
 └── README.md
 ```
+
+**Note:** Large CSV files are stored in [Google Drive](https://drive.google.com/drive/folders/1YCR5Gx2r8faHEW5MoG0KJKrkmc40PyGs?usp=sharing)
 
 ---
 

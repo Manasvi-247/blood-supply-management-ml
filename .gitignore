@@ -22,3 +22,16 @@ Thumbs.db
 
 # Large files (if needed)
 *.zip
+
+# Large CSV files (stored in Google Drive)
+data/demand_detailed.csv
+data/donor_registry.csv
+data/donor_segments.csv
+data/supply_inventory.csv
+data/rfm_dataset.csv
+data/demand_daily.csv
+
+# Generated output files
+data/recommendations_*.csv
+data/campaign_metrics.csv
+data/forecasting_results.csv
