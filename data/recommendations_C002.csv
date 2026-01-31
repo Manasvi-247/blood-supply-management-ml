@@ -1,0 +1,101 @@
+donor_id,name,blood_type,segment,rfm_score,recommendation_score,expected_response_rate,city,email,expected_donation
+D07732,Nicole Gould,O-,Loyal,0.8888888888888888,0.9144444444444445,0.7,Ahmedabad,christopher22@example.com,0.7
+D07804,Brian Stephens,O-,Loyal,0.8888888888888888,0.9144444444444445,0.7,Pune,lisa60@example.org,0.7
+D07644,Melissa Zuniga,O-,Loyal,0.8888888888888888,0.9144444444444445,0.7,Pune,wilsonlisa@example.org,0.7
+D02392,Leslie Gray,O-,Loyal,0.8888888888888888,0.9144444444444445,0.7,Mumbai,xjackson@example.com,0.7
+D00189,Angel Fry,O-,Loyal,0.8888888888888888,0.9144444444444445,0.7,Indore,mluna@example.net,0.7
+D00237,Michelle Brock,O-,Loyal,0.8888888888888888,0.9144444444444445,0.7,Indore,mchase@example.org,0.7
+D05555,Tabitha Wilcox,O-,Loyal,0.8888888888888888,0.9144444444444445,0.7,Chandigarh,lweaver@example.net,0.7
+D05694,Shaun Johnson,O-,Loyal,0.7777777777777779,0.858888888888889,0.7,Hyderabad,melissatorres@example.com,0.7
+D08397,Gregory Hernandez,O-,Loyal,0.7777777777777779,0.858888888888889,0.7,Mumbai,hnichols@example.com,0.7
+D08694,Keith Williams,O-,Loyal,0.7777777777777779,0.858888888888889,0.7,Jaipur,zimmermanmelissa@example.com,0.7
+D08907,Becky Brooks,O-,Loyal,0.7777777777777779,0.858888888888889,0.7,Nagpur,christinasmith@example.com,0.7
+D00904,Amber Chapman,O-,Loyal,0.7777777777777779,0.858888888888889,0.7,Chennai,qmartinez@example.org,0.7
+D06455,Karen Tucker,O-,Loyal,0.7777777777777779,0.858888888888889,0.7,Kolkata,kristopher52@example.com,0.7
+D05150,Julie Brown,O-,Loyal,0.7777777777777779,0.858888888888889,0.7,Pune,myerswesley@example.net,0.7
+D09749,Charles Ortiz,O-,Loyal,0.7777777777777779,0.858888888888889,0.7,Chandigarh,dixonregina@example.com,0.7
+D09692,Nicholas Maxwell,O-,Loyal,0.7777777777777779,0.858888888888889,0.7,Pune,mark31@example.net,0.7
+D08192,Renee Martin,O-,Loyal,0.6666666666666667,0.8033333333333333,0.7,Bhopal,troy01@example.com,0.7
+D04707,Amy Smith,O-,Loyal,0.6666666666666667,0.8033333333333333,0.7,Kochi,duffydavid@example.com,0.7
+D01000,Amy Lara,O-,Loyal,0.6666666666666667,0.8033333333333333,0.7,Bhopal,andrewjackson@example.org,0.7
+D07224,Nicholas Evans,O-,Loyal,0.6666666666666667,0.8033333333333333,0.7,Chennai,edelacruz@example.org,0.7
+D07337,Jose Schmidt,O-,Loyal,0.6666666666666667,0.8033333333333333,0.7,Chennai,jamesdeleon@example.net,0.7
+D01355,Linda Ingram,O-,Loyal,0.6666666666666667,0.8033333333333333,0.7,Mumbai,madisonchristensen@example.net,0.7
+D06625,Raven Ramos,O-,Loyal,0.6666666666666667,0.8033333333333333,0.7,Bangalore,nealrobert@example.com,0.7
+D02893,Alison Armstrong,O-,Loyal,0.6666666666666667,0.8033333333333333,0.7,Chandigarh,slevy@example.net,0.7
+D02779,Robert Johns,O-,Loyal,0.6666666666666667,0.8033333333333333,0.7,Delhi,justingoodman@example.com,0.7
+D02896,Miss Angela Newman,O-,Loyal,0.6666666666666667,0.8033333333333333,0.7,Kochi,halljacob@example.com,0.7
+D02162,James Gutierrez,O-,Loyal,0.6666666666666667,0.8033333333333333,0.7,Kolkata,samantha46@example.net,0.7
+D01553,Aaron Williamson,O-,Loyal,0.6666666666666667,0.8033333333333333,0.7,Mumbai,piercedevin@example.com,0.7
+D01573,Tonya Spears,O-,Loyal,0.6666666666666667,0.8033333333333333,0.7,Chandigarh,kedwards@example.com,0.7
+D06666,Mrs. Brooke Weaver,O-,Loyal,0.6666666666666667,0.8033333333333333,0.7,Bhopal,xsaunders@example.org,0.7
+D01930,Alan Collins,O-,Loyal,0.6666666666666667,0.8033333333333333,0.7,Chandigarh,williamsbrenda@example.net,0.7
+D08439,Manuel Ferguson,O-,Loyal,0.6666666666666667,0.8033333333333333,0.7,Chandigarh,kaylee17@example.net,0.7
+D04671,Christopher Kane,O-,Loyal,0.6666666666666667,0.8033333333333333,0.7,Mumbai,johnnyli@example.net,0.7
+D05255,Marissa Carter,O-,Loyal,0.7777777777777779,0.7867735042735043,0.7,Hyderabad,matthew69@example.org,0.7
+D03125,Donald Martinez,O-,Loyal,0.7777777777777779,0.7867735042735043,0.7,Mumbai,margaret97@example.net,0.7
+D03725,Jon Smith,O-,Loyal,0.5555555555555556,0.7477777777777779,0.7,Nagpur,gibarra@example.net,0.7
+D03593,Phillip Hatfield,O-,Loyal,0.5555555555555556,0.7477777777777779,0.7,Bhopal,sabrinawright@example.org,0.7
+D04257,Joseph Peters,O-,Loyal,0.5555555555555556,0.7477777777777779,0.7,Jaipur,wdennis@example.org,0.7
+D02114,Robert Olson,O-,Loyal,0.5555555555555556,0.7477777777777779,0.7,Kochi,traciwalls@example.com,0.7
+D04649,Benjamin Garcia,O-,Loyal,0.5555555555555556,0.7477777777777779,0.7,Lucknow,veronica25@example.net,0.7
+D03270,Debra Serrano,O-,Loyal,0.5555555555555556,0.7477777777777779,0.7,Mumbai,harrisoneric@example.org,0.7
+D09292,Danielle Ho,O-,Loyal,0.5555555555555556,0.7477777777777779,0.7,Jaipur,jasonhanson@example.org,0.7
+D08069,Cheryl Hamilton,O-,Loyal,0.5555555555555556,0.7477777777777779,0.7,Ahmedabad,wwilson@example.net,0.7
+D02453,Michael Garza,O-,New Donors,0.8888888888888888,0.7444444444444445,0.3,Chennai,belltheresa@example.com,0.3
+D05872,Robert Martin,O-,New Donors,0.8888888888888888,0.7444444444444445,0.3,Hyderabad,qnelson@example.org,0.3
+D09039,Juan Gardner,O-,Loyal,0.6666666666666667,0.7312179487179488,0.7,Pune,andersonkathleen@example.net,0.7
+D01391,Adrian Snow,O-,Loyal,0.6666666666666667,0.7312179487179488,0.7,Bangalore,bankskyle@example.com,0.7
+D04624,Timothy Ruiz,O-,Loyal,0.6666666666666667,0.7312179487179488,0.7,Pune,amanda98@example.org,0.7
+D07614,Cassandra Caldwell,O-,Loyal,0.6666666666666667,0.7312179487179488,0.7,Hyderabad,monique61@example.com,0.7
+D06840,Ellen Burgess,O-,At Risk,0.5555555555555556,0.7177777777777778,0.35,Pune,holmesjacqueline@example.org,0.35
+D00071,Steven Cooper,O-,At Risk,0.5555555555555556,0.7177777777777778,0.35,Bangalore,wagnergerald@example.org,0.35
+D02223,Grace Martinez,O-,At Risk,0.5555555555555556,0.7177777777777778,0.35,Indore,elizabeth42@example.com,0.35
+D00508,Kathryn Edwards,O-,At Risk,0.5555555555555556,0.7177777777777778,0.35,Lucknow,iswanson@example.net,0.35
+D00103,Julie Lee,O-,At Risk,0.5555555555555556,0.7177777777777778,0.35,Delhi,riverajessica@example.net,0.35
+D00712,David Palmer,O-,At Risk,0.5555555555555556,0.7177777777777778,0.35,Kochi,burnsrebecca@example.org,0.35
+D06848,Nancy Lawson,O-,At Risk,0.5555555555555556,0.7177777777777778,0.35,Pune,robertcook@example.org,0.35
+D06960,Danielle Bates,O-,At Risk,0.5555555555555556,0.7177777777777778,0.35,Kochi,elizabeth73@example.net,0.35
+D06509,Emily Choi,O-,At Risk,0.5555555555555556,0.7177777777777778,0.35,Indore,ianfields@example.net,0.35
+D09969,Alyssa Rivas,O-,At Risk,0.5555555555555556,0.7177777777777778,0.35,Indore,kennethbrown@example.com,0.35
+D06540,David Charles,O-,At Risk,0.5555555555555556,0.7177777777777778,0.35,Pune,catherinemurphy@example.net,0.35
+D00806,Brandon Duffy,O-,At Risk,0.5555555555555556,0.7177777777777778,0.35,Kochi,rodriguezthomas@example.com,0.35
+D01808,Richard Scott,O-,At Risk,0.5555555555555556,0.7177777777777778,0.35,Pune,jodi42@example.org,0.35
+D05143,Joseph Hart,O-,New Donors,0.7777777777777779,0.688888888888889,0.3,Bhopal,emedina@example.org,0.3
+D09146,Bryan King,O-,New Donors,0.7777777777777779,0.688888888888889,0.3,Hyderabad,katelynjohnson@example.net,0.3
+D00545,Noah Chavez,O-,New Donors,0.7777777777777779,0.688888888888889,0.3,Bhopal,veronica47@example.com,0.3
+D08628,Pamela Copeland,O-,New Donors,0.7777777777777779,0.688888888888889,0.3,Chandigarh,zmartin@example.org,0.3
+D01490,Michelle Martinez,O-,New Donors,0.7777777777777779,0.688888888888889,0.3,Hyderabad,janetmontes@example.com,0.3
+D08983,Robin Perez,O-,New Donors,0.7777777777777779,0.688888888888889,0.3,Bhopal,seth98@example.org,0.3
+D09221,Robert Underwood,O-,Loyal,0.5555555555555556,0.6756623931623932,0.7,Bangalore,alvin33@example.net,0.7
+D06441,George Garcia,O-,New Donors,0.8888888888888888,0.6723290598290599,0.3,Bhopal,ian89@example.com,0.3
+D02323,John Olson,O-,New Donors,0.7222222222222223,0.6611111111111111,0.3,Delhi,xsmall@example.net,0.3
+D08255,Derek Long,O-,New Donors,0.7222222222222223,0.6611111111111111,0.3,Bangalore,williamjennings@example.net,0.3
+D07422,Mark Graves,O-,New Donors,0.7222222222222223,0.6611111111111111,0.3,Jaipur,deaton@example.com,0.3
+D06276,Dale Brown,O-,New Donors,0.7222222222222223,0.6611111111111111,0.3,Indore,justinboyd@example.com,0.3
+D05211,Laurie Ward,O-,New Donors,0.7222222222222223,0.6611111111111111,0.3,Chennai,wgilbert@example.com,0.3
+D00686,Patricia Jones,O-,New Donors,0.7222222222222223,0.6611111111111111,0.3,Lucknow,morenojessica@example.net,0.3
+D07051,Karen Walker,O-,At Risk,0.5555555555555556,0.6456623931623932,0.35,Bhopal,cynthia47@example.net,0.35
+D08319,Devon Mullins,O-,At Risk,0.5555555555555556,0.6456623931623932,0.35,Bangalore,wrightbrittany@example.com,0.35
+D01022,Suzanne Hardy,O-,At Risk,0.5555555555555556,0.6456623931623932,0.35,Hyderabad,staceywashington@example.net,0.35
+D06963,Kimberly Diaz,O-,At Risk,0.3888888888888889,0.6344444444444444,0.35,Bhopal,troy88@example.org,0.35
+D05519,Arthur Lam,O-,At Risk,0.3888888888888889,0.6344444444444444,0.35,Bhopal,erinmays@example.com,0.35
+D01712,Robert Peters,O-,At Risk,0.3888888888888889,0.6344444444444444,0.35,Pune,harold72@example.org,0.35
+D01402,Debbie Tanner,O-,At Risk,0.3888888888888889,0.6344444444444444,0.35,Jaipur,jamesbenson@example.com,0.35
+D07590,Nancy Harris,O-,At Risk,0.3888888888888889,0.6344444444444444,0.35,Indore,jennifer73@example.net,0.35
+D02233,Whitney Morrison,O-,At Risk,0.3888888888888889,0.6344444444444444,0.35,Indore,rellis@example.com,0.35
+D05707,Charles Torres,O-,At Risk,0.3888888888888889,0.6344444444444444,0.35,Kochi,ghull@example.com,0.35
+D03779,Sara Wallace,O-,At Risk,0.3888888888888889,0.6344444444444444,0.35,Hyderabad,aguirremary@example.com,0.35
+D00559,Catherine Erickson,O-,At Risk,0.3888888888888889,0.6344444444444444,0.35,Kochi,david59@example.net,0.35
+D07508,Teresa Moyer,O-,At Risk,0.3888888888888889,0.6344444444444444,0.35,Bangalore,jennawright@example.com,0.35
+D01856,Steven Branch,O-,At Risk,0.3888888888888889,0.6344444444444444,0.35,Bangalore,moorejohn@example.org,0.35
+D01649,Randall Marks,O-,At Risk,0.3888888888888889,0.6344444444444444,0.35,Bhopal,ulewis@example.net,0.35
+D04247,Jeremy Smith,O-,New Donors,0.6666666666666667,0.6333333333333334,0.3,Jaipur,campbellrobert@example.org,0.3
+D06626,David Keller,O-,New Donors,0.6666666666666667,0.6333333333333334,0.3,Lucknow,billyvillarreal@example.net,0.3
+D05067,Brenda Doyle,O-,New Donors,0.6666666666666667,0.6333333333333334,0.3,Bhopal,cjackson@example.com,0.3
+D09499,Kathleen Lang,O-,New Donors,0.6666666666666667,0.6333333333333334,0.3,Indore,michelle30@example.com,0.3
+D01468,Tanya Hall,O-,New Donors,0.6666666666666667,0.6333333333333334,0.3,Indore,amy84@example.org,0.3
+D04264,Michael Ramsey,O-,New Donors,0.6666666666666667,0.6333333333333334,0.3,Bhopal,susan69@example.com,0.3
+D09488,Eddie Hernandez,O-,New Donors,0.6666666666666667,0.6333333333333334,0.3,Jaipur,jjohnson@example.net,0.3
+D02011,Barry Collins,O-,New Donors,0.6666666666666667,0.6333333333333334,0.3,Indore,vdavila@example.net,0.3
+D04942,Kelly Wells,O-,New Donors,0.6111111111111112,0.6055555555555556,0.3,Chandigarh,jnelson@example.com,0.3

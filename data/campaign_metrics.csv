@@ -1,0 +1,6 @@
+campaign_id,campaign_name,donors_to_contact,expected_responses,expected_units,target_units,target_achievement_pct,segment_breakdown,avg_recommendation_score
+C001,Winter Blood Drive,100,70.0,70.0,500,14.0,{'Loyal': 100},0.877
+C002,O-Negative Emergency Drive,100,50.6,50.6,100,50.6,"{'At Risk': 28, 'Loyal': 48, 'New Donors': 24}",0.738
+C003,Platelet Donation Week,100,70.0,70.0,200,35.0,{'Loyal': 100},0.873
+C004,Summer Stock Building,100,70.0,70.0,800,8.8,{'Loyal': 100},0.86
+C005,We Miss You Campaign,100,35.0,35.0,300,11.7,{'At Risk': 100},0.744

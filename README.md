@@ -10,9 +10,10 @@ Team: **IDGAF** (Section A & B)
 
 This project addresses the critical challenge of blood shortage and wastage in healthcare through:
 
-1. **Demand Forecasting** - Predicting short and medium-term blood demand using time-series analysis
-2. **Donor Segmentation** - Clustering donors using RFM (Recency, Frequency, Monetary) metrics
-3. **Inventory Optimization** - Generating recommendations for optimal stock management
+1. **Demand Forecasting** - Predicting blood demand using time-series analysis (SARIMA, Prophet, ML)
+2. **Donor Segmentation** - Clustering donors using RFM metrics (K-Means)
+3. **Recommender System** - Donor-Campaign matching for targeted outreach
+4. **Anomaly Detection** - Change point detection in demand patterns
 
 ### Key Results
 
@@ -38,7 +39,8 @@ blood-supply-management/
 │   ├── 01_data_exploration.ipynb
 │   ├── 02_demand_forecasting.ipynb
 │   ├── 03_donor_segmentation.ipynb
-│   └── 04_insights_recommendations.ipynb
+│   ├── 04_insights_recommendations.ipynb
+│   └── 05_recommender_system.ipynb
 ├── src/
 │   ├── utils.py                 # Helper functions
 │   └── generate_datasets.py     # Data generation script
@@ -91,6 +93,7 @@ This creates realistic synthetic datasets based on:
 2. **02_demand_forecasting.ipynb** - Train SARIMA, Prophet, ML models
 3. **03_donor_segmentation.ipynb** - RFM analysis and clustering
 4. **04_insights_recommendations.ipynb** - Business insights
+5. **05_recommender_system.ipynb** - Donor-Campaign recommender + anomaly detection
 
 ```bash
 jupyter notebook notebooks/
@@ -130,6 +133,11 @@ jupyter notebook notebooks/
 - **RFM Scoring** - Quintile-based scoring (1-5)
 - **K-Means Clustering** - Optimal K via elbow/silhouette
 - **Segment Labels:** Champions, Loyal, Potential, At-Risk, Hibernating, New
+
+### Recommender System
+- **Hybrid Approach** - Rule-based filtering + weighted scoring
+- **Donor-Campaign Matching** - Match donors to blood drives based on RFM, blood type, availability
+- **Change Point Detection** - Rolling Z-score for demand anomalies
 
 ---
 
