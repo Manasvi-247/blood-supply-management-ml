@@ -219,5 +219,3 @@ Score = 0.4×RFM + 0.2×Availability + 0.2×Segment_Match + 0.1×Blood_Match + 0
 Educational project for Advanced ML Course.
 
 ---
-
-> *"Advanced ML is not about prediction accuracy alone. It is about discovering structure, extracting insights, and supporting decision-making in complex data."*
