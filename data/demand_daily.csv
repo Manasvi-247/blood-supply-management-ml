@@ -1,0 +1,4381 @@
+date,component,demand_units,day_of_week,month,is_weekend,is_holiday_season
+2021-01-01,Cryoprecipitate,16,4,1,0,0
+2021-01-01,Fresh Frozen Plasma,34,4,1,0,0
+2021-01-01,Packed RBC,120,4,1,0,0
+2021-01-01,Platelets,33,4,1,0,0
+2021-01-02,Cryoprecipitate,10,5,1,1,0
+2021-01-02,Fresh Frozen Plasma,32,5,1,1,0
+2021-01-02,Packed RBC,73,5,1,1,0
+2021-01-02,Platelets,33,5,1,1,0
+2021-01-03,Cryoprecipitate,13,6,1,1,0
+2021-01-03,Fresh Frozen Plasma,21,6,1,1,0
+2021-01-03,Packed RBC,72,6,1,1,0
+2021-01-03,Platelets,29,6,1,1,0
+2021-01-04,Cryoprecipitate,15,0,1,0,0
+2021-01-04,Fresh Frozen Plasma,36,0,1,0,0
+2021-01-04,Packed RBC,127,0,1,0,0
+2021-01-04,Platelets,95,0,1,0,0
+2021-01-05,Cryoprecipitate,13,1,1,0,0
+2021-01-05,Fresh Frozen Plasma,31,1,1,0,0
+2021-01-05,Packed RBC,128,1,1,0,0
+2021-01-05,Platelets,42,1,1,0,0
+2021-01-06,Cryoprecipitate,19,2,1,0,0
+2021-01-06,Fresh Frozen Plasma,26,2,1,0,0
+2021-01-06,Packed RBC,105,2,1,0,0
+2021-01-06,Platelets,55,2,1,0,0
+2021-01-07,Cryoprecipitate,12,3,1,0,0
+2021-01-07,Fresh Frozen Plasma,27,3,1,0,0
+2021-01-07,Packed RBC,81,3,1,0,0
+2021-01-07,Platelets,37,3,1,0,0
+2021-01-08,Cryoprecipitate,13,4,1,0,0
+2021-01-08,Fresh Frozen Plasma,21,4,1,0,0
+2021-01-08,Packed RBC,83,4,1,0,0
+2021-01-08,Platelets,40,4,1,0,0
+2021-01-09,Cryoprecipitate,11,5,1,1,0
+2021-01-09,Fresh Frozen Plasma,23,5,1,1,0
+2021-01-09,Packed RBC,71,5,1,1,0
+2021-01-09,Platelets,25,5,1,1,0
+2021-01-10,Cryoprecipitate,11,6,1,1,0
+2021-01-10,Fresh Frozen Plasma,17,6,1,1,0
+2021-01-10,Packed RBC,68,6,1,1,0
+2021-01-10,Platelets,20,6,1,1,0
+2021-01-11,Cryoprecipitate,9,0,1,0,0
+2021-01-11,Fresh Frozen Plasma,34,0,1,0,0
+2021-01-11,Packed RBC,109,0,1,0,0
+2021-01-11,Platelets,29,0,1,0,0
+2021-01-12,Cryoprecipitate,14,1,1,0,0
+2021-01-12,Fresh Frozen Plasma,25,1,1,0,0
+2021-01-12,Packed RBC,81,1,1,0,0
+2021-01-12,Platelets,29,1,1,0,0
+2021-01-13,Cryoprecipitate,13,2,1,0,0
+2021-01-13,Fresh Frozen Plasma,31,2,1,0,0
+2021-01-13,Packed RBC,73,2,1,0,0
+2021-01-13,Platelets,40,2,1,0,0
+2021-01-14,Cryoprecipitate,12,3,1,0,0
+2021-01-14,Fresh Frozen Plasma,29,3,1,0,0
+2021-01-14,Packed RBC,115,3,1,0,0
+2021-01-14,Platelets,30,3,1,0,0
+2021-01-15,Cryoprecipitate,14,4,1,0,0
+2021-01-15,Fresh Frozen Plasma,27,4,1,0,0
+2021-01-15,Packed RBC,57,4,1,0,0
+2021-01-15,Platelets,42,4,1,0,0
+2021-01-16,Cryoprecipitate,12,5,1,1,0
+2021-01-16,Fresh Frozen Plasma,21,5,1,1,0
+2021-01-16,Packed RBC,72,5,1,1,0
+2021-01-16,Platelets,28,5,1,1,0
+2021-01-17,Cryoprecipitate,9,6,1,1,0
+2021-01-17,Fresh Frozen Plasma,21,6,1,1,0
+2021-01-17,Packed RBC,46,6,1,1,0
+2021-01-17,Platelets,60,6,1,1,0
+2021-01-18,Cryoprecipitate,13,0,1,0,0
+2021-01-18,Fresh Frozen Plasma,23,0,1,0,0
+2021-01-18,Packed RBC,84,0,1,0,0
+2021-01-18,Platelets,30,0,1,0,0
+2021-01-19,Cryoprecipitate,15,1,1,0,0
+2021-01-19,Fresh Frozen Plasma,26,1,1,0,0
+2021-01-19,Packed RBC,92,1,1,0,0
+2021-01-19,Platelets,38,1,1,0,0
+2021-01-20,Cryoprecipitate,14,2,1,0,0
+2021-01-20,Fresh Frozen Plasma,31,2,1,0,0
+2021-01-20,Packed RBC,84,2,1,0,0
+2021-01-20,Platelets,35,2,1,0,0
+2021-01-21,Cryoprecipitate,13,3,1,0,0
+2021-01-21,Fresh Frozen Plasma,24,3,1,0,0
+2021-01-21,Packed RBC,87,3,1,0,0
+2021-01-21,Platelets,38,3,1,0,0
+2021-01-22,Cryoprecipitate,15,4,1,0,0
+2021-01-22,Fresh Frozen Plasma,28,4,1,0,0
+2021-01-22,Packed RBC,78,4,1,0,0
+2021-01-22,Platelets,40,4,1,0,0
+2021-01-23,Cryoprecipitate,12,5,1,1,0
+2021-01-23,Fresh Frozen Plasma,38,5,1,1,0
+2021-01-23,Packed RBC,72,5,1,1,0
+2021-01-23,Platelets,30,5,1,1,0
+2021-01-24,Cryoprecipitate,12,6,1,1,0
+2021-01-24,Fresh Frozen Plasma,18,6,1,1,0
+2021-01-24,Packed RBC,59,6,1,1,0
+2021-01-24,Platelets,31,6,1,1,0
+2021-01-25,Cryoprecipitate,13,0,1,0,0
+2021-01-25,Fresh Frozen Plasma,38,0,1,0,0
+2021-01-25,Packed RBC,80,0,1,0,0
+2021-01-25,Platelets,26,0,1,0,0
+2021-01-26,Cryoprecipitate,14,1,1,0,0
+2021-01-26,Fresh Frozen Plasma,26,1,1,0,0
+2021-01-26,Packed RBC,105,1,1,0,0
+2021-01-26,Platelets,41,1,1,0,0
+2021-01-27,Cryoprecipitate,13,2,1,0,0
+2021-01-27,Fresh Frozen Plasma,23,2,1,0,0
+2021-01-27,Packed RBC,92,2,1,0,0
+2021-01-27,Platelets,33,2,1,0,0
+2021-01-28,Cryoprecipitate,16,3,1,0,0
+2021-01-28,Fresh Frozen Plasma,31,3,1,0,0
+2021-01-28,Packed RBC,106,3,1,0,0
+2021-01-28,Platelets,32,3,1,0,0
+2021-01-29,Cryoprecipitate,10,4,1,0,0
+2021-01-29,Fresh Frozen Plasma,31,4,1,0,0
+2021-01-29,Packed RBC,92,4,1,0,0
+2021-01-29,Platelets,37,4,1,0,0
+2021-01-30,Cryoprecipitate,11,5,1,1,0
+2021-01-30,Fresh Frozen Plasma,23,5,1,1,0
+2021-01-30,Packed RBC,41,5,1,1,0
+2021-01-30,Platelets,26,5,1,1,0
+2021-01-31,Cryoprecipitate,9,6,1,1,0
+2021-01-31,Fresh Frozen Plasma,22,6,1,1,0
+2021-01-31,Packed RBC,66,6,1,1,0
+2021-01-31,Platelets,25,6,1,1,0
+2021-02-01,Cryoprecipitate,14,0,2,0,0
+2021-02-01,Fresh Frozen Plasma,32,0,2,0,0
+2021-02-01,Packed RBC,89,0,2,0,0
+2021-02-01,Platelets,33,0,2,0,0
+2021-02-02,Cryoprecipitate,12,1,2,0,0
+2021-02-02,Fresh Frozen Plasma,29,1,2,0,0
+2021-02-02,Packed RBC,94,1,2,0,0
+2021-02-02,Platelets,29,1,2,0,0
+2021-02-03,Cryoprecipitate,13,2,2,0,0
+2021-02-03,Fresh Frozen Plasma,26,2,2,0,0
+2021-02-03,Packed RBC,120,2,2,0,0
+2021-02-03,Platelets,31,2,2,0,0
+2021-02-04,Cryoprecipitate,14,3,2,0,0
+2021-02-04,Fresh Frozen Plasma,21,3,2,0,0
+2021-02-04,Packed RBC,79,3,2,0,0
+2021-02-04,Platelets,60,3,2,0,0
+2021-02-05,Cryoprecipitate,17,4,2,0,0
+2021-02-05,Fresh Frozen Plasma,24,4,2,0,0
+2021-02-05,Packed RBC,91,4,2,0,0
+2021-02-05,Platelets,41,4,2,0,0
+2021-02-06,Cryoprecipitate,10,5,2,1,0
+2021-02-06,Fresh Frozen Plasma,27,5,2,1,0
+2021-02-06,Packed RBC,61,5,2,1,0
+2021-02-06,Platelets,25,5,2,1,0
+2021-02-07,Cryoprecipitate,12,6,2,1,0
+2021-02-07,Fresh Frozen Plasma,24,6,2,1,0
+2021-02-07,Packed RBC,50,6,2,1,0
+2021-02-07,Platelets,18,6,2,1,0
+2021-02-08,Cryoprecipitate,16,0,2,0,0
+2021-02-08,Fresh Frozen Plasma,30,0,2,0,0
+2021-02-08,Packed RBC,80,0,2,0,0
+2021-02-08,Platelets,37,0,2,0,0
+2021-02-09,Cryoprecipitate,10,1,2,0,0
+2021-02-09,Fresh Frozen Plasma,23,1,2,0,0
+2021-02-09,Packed RBC,97,1,2,0,0
+2021-02-09,Platelets,39,1,2,0,0
+2021-02-10,Cryoprecipitate,14,2,2,0,0
+2021-02-10,Fresh Frozen Plasma,30,2,2,0,0
+2021-02-10,Packed RBC,91,2,2,0,0
+2021-02-10,Platelets,28,2,2,0,0
+2021-02-11,Cryoprecipitate,13,3,2,0,0
+2021-02-11,Fresh Frozen Plasma,31,3,2,0,0
+2021-02-11,Packed RBC,118,3,2,0,0
+2021-02-11,Platelets,32,3,2,0,0
+2021-02-12,Cryoprecipitate,13,4,2,0,0
+2021-02-12,Fresh Frozen Plasma,24,4,2,0,0
+2021-02-12,Packed RBC,106,4,2,0,0
+2021-02-12,Platelets,36,4,2,0,0
+2021-02-13,Cryoprecipitate,15,5,2,1,0
+2021-02-13,Fresh Frozen Plasma,56,5,2,1,0
+2021-02-13,Packed RBC,61,5,2,1,0
+2021-02-13,Platelets,23,5,2,1,0
+2021-02-14,Cryoprecipitate,9,6,2,1,0
+2021-02-14,Fresh Frozen Plasma,17,6,2,1,0
+2021-02-14,Packed RBC,70,6,2,1,0
+2021-02-14,Platelets,26,6,2,1,0
+2021-02-15,Cryoprecipitate,10,0,2,0,0
+2021-02-15,Fresh Frozen Plasma,26,0,2,0,0
+2021-02-15,Packed RBC,73,0,2,0,0
+2021-02-15,Platelets,34,0,2,0,0
+2021-02-16,Cryoprecipitate,13,1,2,0,0
+2021-02-16,Fresh Frozen Plasma,31,1,2,0,0
+2021-02-16,Packed RBC,87,1,2,0,0
+2021-02-16,Platelets,35,1,2,0,0
+2021-02-17,Cryoprecipitate,14,2,2,0,0
+2021-02-17,Fresh Frozen Plasma,26,2,2,0,0
+2021-02-17,Packed RBC,103,2,2,0,0
+2021-02-17,Platelets,31,2,2,0,0
+2021-02-18,Cryoprecipitate,14,3,2,0,0
+2021-02-18,Fresh Frozen Plasma,39,3,2,0,0
+2021-02-18,Packed RBC,86,3,2,0,0
+2021-02-18,Platelets,36,3,2,0,0
+2021-02-19,Cryoprecipitate,12,4,2,0,0
+2021-02-19,Fresh Frozen Plasma,34,4,2,0,0
+2021-02-19,Packed RBC,96,4,2,0,0
+2021-02-19,Platelets,31,4,2,0,0
+2021-02-20,Cryoprecipitate,10,5,2,1,0
+2021-02-20,Fresh Frozen Plasma,20,5,2,1,0
+2021-02-20,Packed RBC,72,5,2,1,0
+2021-02-20,Platelets,22,5,2,1,0
+2021-02-21,Cryoprecipitate,10,6,2,1,0
+2021-02-21,Fresh Frozen Plasma,18,6,2,1,0
+2021-02-21,Packed RBC,76,6,2,1,0
+2021-02-21,Platelets,31,6,2,1,0
+2021-02-22,Cryoprecipitate,13,0,2,0,0
+2021-02-22,Fresh Frozen Plasma,27,0,2,0,0
+2021-02-22,Packed RBC,92,0,2,0,0
+2021-02-22,Platelets,40,0,2,0,0
+2021-02-23,Cryoprecipitate,11,1,2,0,0
+2021-02-23,Fresh Frozen Plasma,32,1,2,0,0
+2021-02-23,Packed RBC,73,1,2,0,0
+2021-02-23,Platelets,23,1,2,0,0
+2021-02-24,Cryoprecipitate,9,2,2,0,0
+2021-02-24,Fresh Frozen Plasma,28,2,2,0,0
+2021-02-24,Packed RBC,87,2,2,0,0
+2021-02-24,Platelets,31,2,2,0,0
+2021-02-25,Cryoprecipitate,11,3,2,0,0
+2021-02-25,Fresh Frozen Plasma,26,3,2,0,0
+2021-02-25,Packed RBC,82,3,2,0,0
+2021-02-25,Platelets,36,3,2,0,0
+2021-02-26,Cryoprecipitate,10,4,2,0,0
+2021-02-26,Fresh Frozen Plasma,33,4,2,0,0
+2021-02-26,Packed RBC,99,4,2,0,0
+2021-02-26,Platelets,28,4,2,0,0
+2021-02-27,Cryoprecipitate,8,5,2,1,0
+2021-02-27,Fresh Frozen Plasma,21,5,2,1,0
+2021-02-27,Packed RBC,69,5,2,1,0
+2021-02-27,Platelets,18,5,2,1,0
+2021-02-28,Cryoprecipitate,12,6,2,1,0
+2021-02-28,Fresh Frozen Plasma,21,6,2,1,0
+2021-02-28,Packed RBC,69,6,2,1,0
+2021-02-28,Platelets,25,6,2,1,0
+2021-03-01,Cryoprecipitate,13,0,3,0,0
+2021-03-01,Fresh Frozen Plasma,22,0,3,0,0
+2021-03-01,Packed RBC,80,0,3,0,0
+2021-03-01,Platelets,33,0,3,0,0
+2021-03-02,Cryoprecipitate,11,1,3,0,0
+2021-03-02,Fresh Frozen Plasma,26,1,3,0,0
+2021-03-02,Packed RBC,65,1,3,0,0
+2021-03-02,Platelets,20,1,3,0,0
+2021-03-03,Cryoprecipitate,13,2,3,0,0
+2021-03-03,Fresh Frozen Plasma,27,2,3,0,0
+2021-03-03,Packed RBC,60,2,3,0,0
+2021-03-03,Platelets,29,2,3,0,0
+2021-03-04,Cryoprecipitate,13,3,3,0,0
+2021-03-04,Fresh Frozen Plasma,24,3,3,0,0
+2021-03-04,Packed RBC,88,3,3,0,0
+2021-03-04,Platelets,29,3,3,0,0
+2021-03-05,Cryoprecipitate,14,4,3,0,0
+2021-03-05,Fresh Frozen Plasma,27,4,3,0,0
+2021-03-05,Packed RBC,113,4,3,0,0
+2021-03-05,Platelets,32,4,3,0,0
+2021-03-06,Cryoprecipitate,19,5,3,1,0
+2021-03-06,Fresh Frozen Plasma,18,5,3,1,0
+2021-03-06,Packed RBC,65,5,3,1,0
+2021-03-06,Platelets,19,5,3,1,0
+2021-03-07,Cryoprecipitate,12,6,3,1,0
+2021-03-07,Fresh Frozen Plasma,13,6,3,1,0
+2021-03-07,Packed RBC,57,6,3,1,0
+2021-03-07,Platelets,15,6,3,1,0
+2021-03-08,Cryoprecipitate,13,0,3,0,0
+2021-03-08,Fresh Frozen Plasma,24,0,3,0,0
+2021-03-08,Packed RBC,91,0,3,0,0
+2021-03-08,Platelets,35,0,3,0,0
+2021-03-09,Cryoprecipitate,16,1,3,0,0
+2021-03-09,Fresh Frozen Plasma,26,1,3,0,0
+2021-03-09,Packed RBC,61,1,3,0,0
+2021-03-09,Platelets,21,1,3,0,0
+2021-03-10,Cryoprecipitate,17,2,3,0,0
+2021-03-10,Fresh Frozen Plasma,30,2,3,0,0
+2021-03-10,Packed RBC,101,2,3,0,0
+2021-03-10,Platelets,24,2,3,0,0
+2021-03-11,Cryoprecipitate,11,3,3,0,0
+2021-03-11,Fresh Frozen Plasma,26,3,3,0,0
+2021-03-11,Packed RBC,71,3,3,0,0
+2021-03-11,Platelets,28,3,3,0,0
+2021-03-12,Cryoprecipitate,11,4,3,0,0
+2021-03-12,Fresh Frozen Plasma,23,4,3,0,0
+2021-03-12,Packed RBC,54,4,3,0,0
+2021-03-12,Platelets,29,4,3,0,0
+2021-03-13,Cryoprecipitate,9,5,3,1,0
+2021-03-13,Fresh Frozen Plasma,19,5,3,1,0
+2021-03-13,Packed RBC,65,5,3,1,0
+2021-03-13,Platelets,21,5,3,1,0
+2021-03-14,Cryoprecipitate,13,6,3,1,0
+2021-03-14,Fresh Frozen Plasma,19,6,3,1,0
+2021-03-14,Packed RBC,53,6,3,1,0
+2021-03-14,Platelets,22,6,3,1,0
+2021-03-15,Cryoprecipitate,12,0,3,0,0
+2021-03-15,Fresh Frozen Plasma,27,0,3,0,0
+2021-03-15,Packed RBC,78,0,3,0,0
+2021-03-15,Platelets,32,0,3,0,0
+2021-03-16,Cryoprecipitate,9,1,3,0,0
+2021-03-16,Fresh Frozen Plasma,34,1,3,0,0
+2021-03-16,Packed RBC,66,1,3,0,0
+2021-03-16,Platelets,24,1,3,0,0
+2021-03-17,Cryoprecipitate,11,2,3,0,0
+2021-03-17,Fresh Frozen Plasma,24,2,3,0,0
+2021-03-17,Packed RBC,86,2,3,0,0
+2021-03-17,Platelets,36,2,3,0,0
+2021-03-18,Cryoprecipitate,12,3,3,0,0
+2021-03-18,Fresh Frozen Plasma,20,3,3,0,0
+2021-03-18,Packed RBC,64,3,3,0,0
+2021-03-18,Platelets,33,3,3,0,0
+2021-03-19,Cryoprecipitate,15,4,3,0,0
+2021-03-19,Fresh Frozen Plasma,30,4,3,0,0
+2021-03-19,Packed RBC,76,4,3,0,0
+2021-03-19,Platelets,28,4,3,0,0
+2021-03-20,Cryoprecipitate,8,5,3,1,0
+2021-03-20,Fresh Frozen Plasma,16,5,3,1,0
+2021-03-20,Packed RBC,59,5,3,1,0
+2021-03-20,Platelets,23,5,3,1,0
+2021-03-21,Cryoprecipitate,9,6,3,1,0
+2021-03-21,Fresh Frozen Plasma,17,6,3,1,0
+2021-03-21,Packed RBC,54,6,3,1,0
+2021-03-21,Platelets,23,6,3,1,0
+2021-03-22,Cryoprecipitate,12,0,3,0,0
+2021-03-22,Fresh Frozen Plasma,33,0,3,0,0
+2021-03-22,Packed RBC,96,0,3,0,0
+2021-03-22,Platelets,27,0,3,0,0
+2021-03-23,Cryoprecipitate,14,1,3,0,0
+2021-03-23,Fresh Frozen Plasma,31,1,3,0,0
+2021-03-23,Packed RBC,88,1,3,0,0
+2021-03-23,Platelets,37,1,3,0,0
+2021-03-24,Cryoprecipitate,13,2,3,0,0
+2021-03-24,Fresh Frozen Plasma,27,2,3,0,0
+2021-03-24,Packed RBC,80,2,3,0,0
+2021-03-24,Platelets,34,2,3,0,0
+2021-03-25,Cryoprecipitate,13,3,3,0,0
+2021-03-25,Fresh Frozen Plasma,35,3,3,0,0
+2021-03-25,Packed RBC,94,3,3,0,0
+2021-03-25,Platelets,30,3,3,0,0
+2021-03-26,Cryoprecipitate,11,4,3,0,0
+2021-03-26,Fresh Frozen Plasma,31,4,3,0,0
+2021-03-26,Packed RBC,85,4,3,0,0
+2021-03-26,Platelets,33,4,3,0,0
+2021-03-27,Cryoprecipitate,10,5,3,1,0
+2021-03-27,Fresh Frozen Plasma,21,5,3,1,0
+2021-03-27,Packed RBC,44,5,3,1,0
+2021-03-27,Platelets,23,5,3,1,0
+2021-03-28,Cryoprecipitate,11,6,3,1,0
+2021-03-28,Fresh Frozen Plasma,18,6,3,1,0
+2021-03-28,Packed RBC,66,6,3,1,0
+2021-03-28,Platelets,16,6,3,1,0
+2021-03-29,Cryoprecipitate,15,0,3,0,0
+2021-03-29,Fresh Frozen Plasma,26,0,3,0,0
+2021-03-29,Packed RBC,77,0,3,0,0
+2021-03-29,Platelets,34,0,3,0,0
+2021-03-30,Cryoprecipitate,10,1,3,0,0
+2021-03-30,Fresh Frozen Plasma,23,1,3,0,0
+2021-03-30,Packed RBC,71,1,3,0,0
+2021-03-30,Platelets,28,1,3,0,0
+2021-03-31,Cryoprecipitate,15,2,3,0,0
+2021-03-31,Fresh Frozen Plasma,21,2,3,0,0
+2021-03-31,Packed RBC,75,2,3,0,0
+2021-03-31,Platelets,23,2,3,0,0
+2021-04-01,Cryoprecipitate,9,3,4,0,0
+2021-04-01,Fresh Frozen Plasma,27,3,4,0,0
+2021-04-01,Packed RBC,76,3,4,0,0
+2021-04-01,Platelets,36,3,4,0,0
+2021-04-02,Cryoprecipitate,13,4,4,0,0
+2021-04-02,Fresh Frozen Plasma,29,4,4,0,0
+2021-04-02,Packed RBC,101,4,4,0,0
+2021-04-02,Platelets,31,4,4,0,0
+2021-04-03,Cryoprecipitate,9,5,4,1,0
+2021-04-03,Fresh Frozen Plasma,20,5,4,1,0
+2021-04-03,Packed RBC,65,5,4,1,0
+2021-04-03,Platelets,21,5,4,1,0
+2021-04-04,Cryoprecipitate,8,6,4,1,0
+2021-04-04,Fresh Frozen Plasma,21,6,4,1,0
+2021-04-04,Packed RBC,56,6,4,1,0
+2021-04-04,Platelets,22,6,4,1,0
+2021-04-05,Cryoprecipitate,11,0,4,0,0
+2021-04-05,Fresh Frozen Plasma,26,0,4,0,0
+2021-04-05,Packed RBC,54,0,4,0,0
+2021-04-05,Platelets,22,0,4,0,0
+2021-04-06,Cryoprecipitate,10,1,4,0,0
+2021-04-06,Fresh Frozen Plasma,19,1,4,0,0
+2021-04-06,Packed RBC,95,1,4,0,0
+2021-04-06,Platelets,27,1,4,0,0
+2021-04-07,Cryoprecipitate,12,2,4,0,0
+2021-04-07,Fresh Frozen Plasma,29,2,4,0,0
+2021-04-07,Packed RBC,67,2,4,0,0
+2021-04-07,Platelets,28,2,4,0,0
+2021-04-08,Cryoprecipitate,9,3,4,0,0
+2021-04-08,Fresh Frozen Plasma,21,3,4,0,0
+2021-04-08,Packed RBC,74,3,4,0,0
+2021-04-08,Platelets,28,3,4,0,0
+2021-04-09,Cryoprecipitate,10,4,4,0,0
+2021-04-09,Fresh Frozen Plasma,25,4,4,0,0
+2021-04-09,Packed RBC,83,4,4,0,0
+2021-04-09,Platelets,36,4,4,0,0
+2021-04-10,Cryoprecipitate,9,5,4,1,0
+2021-04-10,Fresh Frozen Plasma,17,5,4,1,0
+2021-04-10,Packed RBC,53,5,4,1,0
+2021-04-10,Platelets,22,5,4,1,0
+2021-04-11,Cryoprecipitate,9,6,4,1,0
+2021-04-11,Fresh Frozen Plasma,16,6,4,1,0
+2021-04-11,Packed RBC,63,6,4,1,0
+2021-04-11,Platelets,21,6,4,1,0
+2021-04-12,Cryoprecipitate,11,0,4,0,0
+2021-04-12,Fresh Frozen Plasma,23,0,4,0,0
+2021-04-12,Packed RBC,54,0,4,0,0
+2021-04-12,Platelets,34,0,4,0,0
+2021-04-13,Cryoprecipitate,12,1,4,0,0
+2021-04-13,Fresh Frozen Plasma,20,1,4,0,0
+2021-04-13,Packed RBC,69,1,4,0,0
+2021-04-13,Platelets,30,1,4,0,0
+2021-04-14,Cryoprecipitate,10,2,4,0,0
+2021-04-14,Fresh Frozen Plasma,24,2,4,0,0
+2021-04-14,Packed RBC,80,2,4,0,0
+2021-04-14,Platelets,28,2,4,0,0
+2021-04-15,Cryoprecipitate,16,3,4,0,0
+2021-04-15,Fresh Frozen Plasma,21,3,4,0,0
+2021-04-15,Packed RBC,84,3,4,0,0
+2021-04-15,Platelets,27,3,4,0,0
+2021-04-16,Cryoprecipitate,11,4,4,0,0
+2021-04-16,Fresh Frozen Plasma,19,4,4,0,0
+2021-04-16,Packed RBC,82,4,4,0,0
+2021-04-16,Platelets,17,4,4,0,0
+2021-04-17,Cryoprecipitate,11,5,4,1,0
+2021-04-17,Fresh Frozen Plasma,14,5,4,1,0
+2021-04-17,Packed RBC,53,5,4,1,0
+2021-04-17,Platelets,21,5,4,1,0
+2021-04-18,Cryoprecipitate,13,6,4,1,0
+2021-04-18,Fresh Frozen Plasma,18,6,4,1,0
+2021-04-18,Packed RBC,62,6,4,1,0
+2021-04-18,Platelets,26,6,4,1,0
+2021-04-19,Cryoprecipitate,14,0,4,0,0
+2021-04-19,Fresh Frozen Plasma,28,0,4,0,0
+2021-04-19,Packed RBC,51,0,4,0,0
+2021-04-19,Platelets,30,0,4,0,0
+2021-04-20,Cryoprecipitate,18,1,4,0,0
+2021-04-20,Fresh Frozen Plasma,24,1,4,0,0
+2021-04-20,Packed RBC,70,1,4,0,0
+2021-04-20,Platelets,33,1,4,0,0
+2021-04-21,Cryoprecipitate,12,2,4,0,0
+2021-04-21,Fresh Frozen Plasma,26,2,4,0,0
+2021-04-21,Packed RBC,89,2,4,0,0
+2021-04-21,Platelets,23,2,4,0,0
+2021-04-22,Cryoprecipitate,14,3,4,0,0
+2021-04-22,Fresh Frozen Plasma,29,3,4,0,0
+2021-04-22,Packed RBC,66,3,4,0,0
+2021-04-22,Platelets,23,3,4,0,0
+2021-04-23,Cryoprecipitate,14,4,4,0,0
+2021-04-23,Fresh Frozen Plasma,30,4,4,0,0
+2021-04-23,Packed RBC,61,4,4,0,0
+2021-04-23,Platelets,24,4,4,0,0
+2021-04-24,Cryoprecipitate,12,5,4,1,0
+2021-04-24,Fresh Frozen Plasma,19,5,4,1,0
+2021-04-24,Packed RBC,52,5,4,1,0
+2021-04-24,Platelets,27,5,4,1,0
+2021-04-25,Cryoprecipitate,8,6,4,1,0
+2021-04-25,Fresh Frozen Plasma,14,6,4,1,0
+2021-04-25,Packed RBC,57,6,4,1,0
+2021-04-25,Platelets,18,6,4,1,0
+2021-04-26,Cryoprecipitate,13,0,4,0,0
+2021-04-26,Fresh Frozen Plasma,26,0,4,0,0
+2021-04-26,Packed RBC,95,0,4,0,0
+2021-04-26,Platelets,34,0,4,0,0
+2021-04-27,Cryoprecipitate,13,1,4,0,0
+2021-04-27,Fresh Frozen Plasma,23,1,4,0,0
+2021-04-27,Packed RBC,96,1,4,0,0
+2021-04-27,Platelets,28,1,4,0,0
+2021-04-28,Cryoprecipitate,12,2,4,0,0
+2021-04-28,Fresh Frozen Plasma,23,2,4,0,0
+2021-04-28,Packed RBC,97,2,4,0,0
+2021-04-28,Platelets,30,2,4,0,0
+2021-04-29,Cryoprecipitate,10,3,4,0,0
+2021-04-29,Fresh Frozen Plasma,21,3,4,0,0
+2021-04-29,Packed RBC,56,3,4,0,0
+2021-04-29,Platelets,35,3,4,0,0
+2021-04-30,Cryoprecipitate,13,4,4,0,0
+2021-04-30,Fresh Frozen Plasma,21,4,4,0,0
+2021-04-30,Packed RBC,91,4,4,0,0
+2021-04-30,Platelets,28,4,4,0,0
+2021-05-01,Cryoprecipitate,12,5,5,1,0
+2021-05-01,Fresh Frozen Plasma,17,5,5,1,0
+2021-05-01,Packed RBC,175,5,5,1,0
+2021-05-01,Platelets,20,5,5,1,0
+2021-05-02,Cryoprecipitate,9,6,5,1,0
+2021-05-02,Fresh Frozen Plasma,13,6,5,1,0
+2021-05-02,Packed RBC,51,6,5,1,0
+2021-05-02,Platelets,19,6,5,1,0
+2021-05-03,Cryoprecipitate,12,0,5,0,0
+2021-05-03,Fresh Frozen Plasma,27,0,5,0,0
+2021-05-03,Packed RBC,54,0,5,0,0
+2021-05-03,Platelets,27,0,5,0,0
+2021-05-04,Cryoprecipitate,13,1,5,0,0
+2021-05-04,Fresh Frozen Plasma,28,1,5,0,0
+2021-05-04,Packed RBC,93,1,5,0,0
+2021-05-04,Platelets,28,1,5,0,0
+2021-05-05,Cryoprecipitate,11,2,5,0,0
+2021-05-05,Fresh Frozen Plasma,19,2,5,0,0
+2021-05-05,Packed RBC,63,2,5,0,0
+2021-05-05,Platelets,32,2,5,0,0
+2021-05-06,Cryoprecipitate,13,3,5,0,0
+2021-05-06,Fresh Frozen Plasma,23,3,5,0,0
+2021-05-06,Packed RBC,74,3,5,0,0
+2021-05-06,Platelets,34,3,5,0,0
+2021-05-07,Cryoprecipitate,12,4,5,0,0
+2021-05-07,Fresh Frozen Plasma,22,4,5,0,0
+2021-05-07,Packed RBC,102,4,5,0,0
+2021-05-07,Platelets,34,4,5,0,0
+2021-05-08,Cryoprecipitate,11,5,5,1,0
+2021-05-08,Fresh Frozen Plasma,20,5,5,1,0
+2021-05-08,Packed RBC,63,5,5,1,0
+2021-05-08,Platelets,19,5,5,1,0
+2021-05-09,Cryoprecipitate,9,6,5,1,0
+2021-05-09,Fresh Frozen Plasma,19,6,5,1,0
+2021-05-09,Packed RBC,73,6,5,1,0
+2021-05-09,Platelets,26,6,5,1,0
+2021-05-10,Cryoprecipitate,9,0,5,0,0
+2021-05-10,Fresh Frozen Plasma,20,0,5,0,0
+2021-05-10,Packed RBC,73,0,5,0,0
+2021-05-10,Platelets,21,0,5,0,0
+2021-05-11,Cryoprecipitate,14,1,5,0,0
+2021-05-11,Fresh Frozen Plasma,18,1,5,0,0
+2021-05-11,Packed RBC,71,1,5,0,0
+2021-05-11,Platelets,27,1,5,0,0
+2021-05-12,Cryoprecipitate,8,2,5,0,0
+2021-05-12,Fresh Frozen Plasma,24,2,5,0,0
+2021-05-12,Packed RBC,71,2,5,0,0
+2021-05-12,Platelets,34,2,5,0,0
+2021-05-13,Cryoprecipitate,15,3,5,0,0
+2021-05-13,Fresh Frozen Plasma,29,3,5,0,0
+2021-05-13,Packed RBC,86,3,5,0,0
+2021-05-13,Platelets,24,3,5,0,0
+2021-05-14,Cryoprecipitate,13,4,5,0,0
+2021-05-14,Fresh Frozen Plasma,28,4,5,0,0
+2021-05-14,Packed RBC,89,4,5,0,0
+2021-05-14,Platelets,29,4,5,0,0
+2021-05-15,Cryoprecipitate,9,5,5,1,0
+2021-05-15,Fresh Frozen Plasma,23,5,5,1,0
+2021-05-15,Packed RBC,64,5,5,1,0
+2021-05-15,Platelets,17,5,5,1,0
+2021-05-16,Cryoprecipitate,8,6,5,1,0
+2021-05-16,Fresh Frozen Plasma,16,6,5,1,0
+2021-05-16,Packed RBC,53,6,5,1,0
+2021-05-16,Platelets,17,6,5,1,0
+2021-05-17,Cryoprecipitate,12,0,5,0,0
+2021-05-17,Fresh Frozen Plasma,23,0,5,0,0
+2021-05-17,Packed RBC,74,0,5,0,0
+2021-05-17,Platelets,28,0,5,0,0
+2021-05-18,Cryoprecipitate,11,1,5,0,0
+2021-05-18,Fresh Frozen Plasma,25,1,5,0,0
+2021-05-18,Packed RBC,69,1,5,0,0
+2021-05-18,Platelets,26,1,5,0,0
+2021-05-19,Cryoprecipitate,11,2,5,0,0
+2021-05-19,Fresh Frozen Plasma,24,2,5,0,0
+2021-05-19,Packed RBC,68,2,5,0,0
+2021-05-19,Platelets,17,2,5,0,0
+2021-05-20,Cryoprecipitate,14,3,5,0,0
+2021-05-20,Fresh Frozen Plasma,26,3,5,0,0
+2021-05-20,Packed RBC,70,3,5,0,0
+2021-05-20,Platelets,34,3,5,0,0
+2021-05-21,Cryoprecipitate,11,4,5,0,0
+2021-05-21,Fresh Frozen Plasma,24,4,5,0,0
+2021-05-21,Packed RBC,56,4,5,0,0
+2021-05-21,Platelets,22,4,5,0,0
+2021-05-22,Cryoprecipitate,9,5,5,1,0
+2021-05-22,Fresh Frozen Plasma,16,5,5,1,0
+2021-05-22,Packed RBC,46,5,5,1,0
+2021-05-22,Platelets,14,5,5,1,0
+2021-05-23,Cryoprecipitate,9,6,5,1,0
+2021-05-23,Fresh Frozen Plasma,30,6,5,1,0
+2021-05-23,Packed RBC,51,6,5,1,0
+2021-05-23,Platelets,27,6,5,1,0
+2021-05-24,Cryoprecipitate,18,0,5,0,0
+2021-05-24,Fresh Frozen Plasma,29,0,5,0,0
+2021-05-24,Packed RBC,76,0,5,0,0
+2021-05-24,Platelets,35,0,5,0,0
+2021-05-25,Cryoprecipitate,11,1,5,0,0
+2021-05-25,Fresh Frozen Plasma,27,1,5,0,0
+2021-05-25,Packed RBC,73,1,5,0,0
+2021-05-25,Platelets,24,1,5,0,0
+2021-05-26,Cryoprecipitate,8,2,5,0,0
+2021-05-26,Fresh Frozen Plasma,19,2,5,0,0
+2021-05-26,Packed RBC,64,2,5,0,0
+2021-05-26,Platelets,30,2,5,0,0
+2021-05-27,Cryoprecipitate,12,3,5,0,0
+2021-05-27,Fresh Frozen Plasma,20,3,5,0,0
+2021-05-27,Packed RBC,81,3,5,0,0
+2021-05-27,Platelets,31,3,5,0,0
+2021-05-28,Cryoprecipitate,14,4,5,0,0
+2021-05-28,Fresh Frozen Plasma,23,4,5,0,0
+2021-05-28,Packed RBC,61,4,5,0,0
+2021-05-28,Platelets,36,4,5,0,0
+2021-05-29,Cryoprecipitate,8,5,5,1,0
+2021-05-29,Fresh Frozen Plasma,21,5,5,1,0
+2021-05-29,Packed RBC,45,5,5,1,0
+2021-05-29,Platelets,25,5,5,1,0
+2021-05-30,Cryoprecipitate,10,6,5,1,0
+2021-05-30,Fresh Frozen Plasma,21,6,5,1,0
+2021-05-30,Packed RBC,47,6,5,1,0
+2021-05-30,Platelets,16,6,5,1,0
+2021-05-31,Cryoprecipitate,10,0,5,0,0
+2021-05-31,Fresh Frozen Plasma,18,0,5,0,0
+2021-05-31,Packed RBC,93,0,5,0,0
+2021-05-31,Platelets,25,0,5,0,0
+2021-06-01,Cryoprecipitate,13,1,6,0,0
+2021-06-01,Fresh Frozen Plasma,32,1,6,0,0
+2021-06-01,Packed RBC,125,1,6,0,0
+2021-06-01,Platelets,25,1,6,0,0
+2021-06-02,Cryoprecipitate,13,2,6,0,0
+2021-06-02,Fresh Frozen Plasma,26,2,6,0,0
+2021-06-02,Packed RBC,74,2,6,0,0
+2021-06-02,Platelets,37,2,6,0,0
+2021-06-03,Cryoprecipitate,10,3,6,0,0
+2021-06-03,Fresh Frozen Plasma,27,3,6,0,0
+2021-06-03,Packed RBC,99,3,6,0,0
+2021-06-03,Platelets,25,3,6,0,0
+2021-06-04,Cryoprecipitate,10,4,6,0,0
+2021-06-04,Fresh Frozen Plasma,25,4,6,0,0
+2021-06-04,Packed RBC,104,4,6,0,0
+2021-06-04,Platelets,30,4,6,0,0
+2021-06-05,Cryoprecipitate,12,5,6,1,0
+2021-06-05,Fresh Frozen Plasma,18,5,6,1,0
+2021-06-05,Packed RBC,64,5,6,1,0
+2021-06-05,Platelets,20,5,6,1,0
+2021-06-06,Cryoprecipitate,9,6,6,1,0
+2021-06-06,Fresh Frozen Plasma,18,6,6,1,0
+2021-06-06,Packed RBC,53,6,6,1,0
+2021-06-06,Platelets,29,6,6,1,0
+2021-06-07,Cryoprecipitate,13,0,6,0,0
+2021-06-07,Fresh Frozen Plasma,26,0,6,0,0
+2021-06-07,Packed RBC,114,0,6,0,0
+2021-06-07,Platelets,38,0,6,0,0
+2021-06-08,Cryoprecipitate,10,1,6,0,0
+2021-06-08,Fresh Frozen Plasma,33,1,6,0,0
+2021-06-08,Packed RBC,108,1,6,0,0
+2021-06-08,Platelets,36,1,6,0,0
+2021-06-09,Cryoprecipitate,17,2,6,0,0
+2021-06-09,Fresh Frozen Plasma,29,2,6,0,0
+2021-06-09,Packed RBC,89,2,6,0,0
+2021-06-09,Platelets,36,2,6,0,0
+2021-06-10,Cryoprecipitate,12,3,6,0,0
+2021-06-10,Fresh Frozen Plasma,28,3,6,0,0
+2021-06-10,Packed RBC,76,3,6,0,0
+2021-06-10,Platelets,40,3,6,0,0
+2021-06-11,Cryoprecipitate,14,4,6,0,0
+2021-06-11,Fresh Frozen Plasma,35,4,6,0,0
+2021-06-11,Packed RBC,82,4,6,0,0
+2021-06-11,Platelets,31,4,6,0,0
+2021-06-12,Cryoprecipitate,10,5,6,1,0
+2021-06-12,Fresh Frozen Plasma,19,5,6,1,0
+2021-06-12,Packed RBC,57,5,6,1,0
+2021-06-12,Platelets,26,5,6,1,0
+2021-06-13,Cryoprecipitate,11,6,6,1,0
+2021-06-13,Fresh Frozen Plasma,18,6,6,1,0
+2021-06-13,Packed RBC,60,6,6,1,0
+2021-06-13,Platelets,18,6,6,1,0
+2021-06-14,Cryoprecipitate,17,0,6,0,0
+2021-06-14,Fresh Frozen Plasma,21,0,6,0,0
+2021-06-14,Packed RBC,97,0,6,0,0
+2021-06-14,Platelets,37,0,6,0,0
+2021-06-15,Cryoprecipitate,13,1,6,0,0
+2021-06-15,Fresh Frozen Plasma,29,1,6,0,0
+2021-06-15,Packed RBC,91,1,6,0,0
+2021-06-15,Platelets,32,1,6,0,0
+2021-06-16,Cryoprecipitate,11,2,6,0,0
+2021-06-16,Fresh Frozen Plasma,26,2,6,0,0
+2021-06-16,Packed RBC,82,2,6,0,0
+2021-06-16,Platelets,20,2,6,0,0
+2021-06-17,Cryoprecipitate,11,3,6,0,0
+2021-06-17,Fresh Frozen Plasma,28,3,6,0,0
+2021-06-17,Packed RBC,97,3,6,0,0
+2021-06-17,Platelets,25,3,6,0,0
+2021-06-18,Cryoprecipitate,9,4,6,0,0
+2021-06-18,Fresh Frozen Plasma,31,4,6,0,0
+2021-06-18,Packed RBC,98,4,6,0,0
+2021-06-18,Platelets,30,4,6,0,0
+2021-06-19,Cryoprecipitate,9,5,6,1,0
+2021-06-19,Fresh Frozen Plasma,16,5,6,1,0
+2021-06-19,Packed RBC,50,5,6,1,0
+2021-06-19,Platelets,29,5,6,1,0
+2021-06-20,Cryoprecipitate,11,6,6,1,0
+2021-06-20,Fresh Frozen Plasma,17,6,6,1,0
+2021-06-20,Packed RBC,65,6,6,1,0
+2021-06-20,Platelets,22,6,6,1,0
+2021-06-21,Cryoprecipitate,10,0,6,0,0
+2021-06-21,Fresh Frozen Plasma,29,0,6,0,0
+2021-06-21,Packed RBC,91,0,6,0,0
+2021-06-21,Platelets,33,0,6,0,0
+2021-06-22,Cryoprecipitate,11,1,6,0,0
+2021-06-22,Fresh Frozen Plasma,26,1,6,0,0
+2021-06-22,Packed RBC,90,1,6,0,0
+2021-06-22,Platelets,36,1,6,0,0
+2021-06-23,Cryoprecipitate,12,2,6,0,0
+2021-06-23,Fresh Frozen Plasma,29,2,6,0,0
+2021-06-23,Packed RBC,96,2,6,0,0
+2021-06-23,Platelets,37,2,6,0,0
+2021-06-24,Cryoprecipitate,11,3,6,0,0
+2021-06-24,Fresh Frozen Plasma,35,3,6,0,0
+2021-06-24,Packed RBC,66,3,6,0,0
+2021-06-24,Platelets,36,3,6,0,0
+2021-06-25,Cryoprecipitate,13,4,6,0,0
+2021-06-25,Fresh Frozen Plasma,26,4,6,0,0
+2021-06-25,Packed RBC,75,4,6,0,0
+2021-06-25,Platelets,32,4,6,0,0
+2021-06-26,Cryoprecipitate,10,5,6,1,0
+2021-06-26,Fresh Frozen Plasma,25,5,6,1,0
+2021-06-26,Packed RBC,68,5,6,1,0
+2021-06-26,Platelets,23,5,6,1,0
+2021-06-27,Cryoprecipitate,19,6,6,1,0
+2021-06-27,Fresh Frozen Plasma,19,6,6,1,0
+2021-06-27,Packed RBC,65,6,6,1,0
+2021-06-27,Platelets,23,6,6,1,0
+2021-06-28,Cryoprecipitate,15,0,6,0,0
+2021-06-28,Fresh Frozen Plasma,40,0,6,0,0
+2021-06-28,Packed RBC,73,0,6,0,0
+2021-06-28,Platelets,31,0,6,0,0
+2021-06-29,Cryoprecipitate,14,1,6,0,0
+2021-06-29,Fresh Frozen Plasma,22,1,6,0,0
+2021-06-29,Packed RBC,68,1,6,0,0
+2021-06-29,Platelets,26,1,6,0,0
+2021-06-30,Cryoprecipitate,13,2,6,0,0
+2021-06-30,Fresh Frozen Plasma,29,2,6,0,0
+2021-06-30,Packed RBC,111,2,6,0,0
+2021-06-30,Platelets,33,2,6,0,0
+2021-07-01,Cryoprecipitate,11,3,7,0,0
+2021-07-01,Fresh Frozen Plasma,27,3,7,0,0
+2021-07-01,Packed RBC,57,3,7,0,0
+2021-07-01,Platelets,36,3,7,0,0
+2021-07-02,Cryoprecipitate,13,4,7,0,0
+2021-07-02,Fresh Frozen Plasma,30,4,7,0,0
+2021-07-02,Packed RBC,102,4,7,0,0
+2021-07-02,Platelets,38,4,7,0,0
+2021-07-03,Cryoprecipitate,10,5,7,1,0
+2021-07-03,Fresh Frozen Plasma,29,5,7,1,0
+2021-07-03,Packed RBC,64,5,7,1,0
+2021-07-03,Platelets,25,5,7,1,0
+2021-07-04,Cryoprecipitate,12,6,7,1,0
+2021-07-04,Fresh Frozen Plasma,21,6,7,1,0
+2021-07-04,Packed RBC,64,6,7,1,0
+2021-07-04,Platelets,19,6,7,1,0
+2021-07-05,Cryoprecipitate,11,0,7,0,0
+2021-07-05,Fresh Frozen Plasma,37,0,7,0,0
+2021-07-05,Packed RBC,86,0,7,0,0
+2021-07-05,Platelets,35,0,7,0,0
+2021-07-06,Cryoprecipitate,16,1,7,0,0
+2021-07-06,Fresh Frozen Plasma,34,1,7,0,0
+2021-07-06,Packed RBC,83,1,7,0,0
+2021-07-06,Platelets,28,1,7,0,0
+2021-07-07,Cryoprecipitate,15,2,7,0,0
+2021-07-07,Fresh Frozen Plasma,33,2,7,0,0
+2021-07-07,Packed RBC,95,2,7,0,0
+2021-07-07,Platelets,27,2,7,0,0
+2021-07-08,Cryoprecipitate,11,3,7,0,0
+2021-07-08,Fresh Frozen Plasma,47,3,7,0,0
+2021-07-08,Packed RBC,87,3,7,0,0
+2021-07-08,Platelets,37,3,7,0,0
+2021-07-09,Cryoprecipitate,11,4,7,0,0
+2021-07-09,Fresh Frozen Plasma,25,4,7,0,0
+2021-07-09,Packed RBC,65,4,7,0,0
+2021-07-09,Platelets,35,4,7,0,0
+2021-07-10,Cryoprecipitate,9,5,7,1,0
+2021-07-10,Fresh Frozen Plasma,19,5,7,1,0
+2021-07-10,Packed RBC,52,5,7,1,0
+2021-07-10,Platelets,29,5,7,1,0
+2021-07-11,Cryoprecipitate,8,6,7,1,0
+2021-07-11,Fresh Frozen Plasma,16,6,7,1,0
+2021-07-11,Packed RBC,57,6,7,1,0
+2021-07-11,Platelets,22,6,7,1,0
+2021-07-12,Cryoprecipitate,11,0,7,0,0
+2021-07-12,Fresh Frozen Plasma,22,0,7,0,0
+2021-07-12,Packed RBC,109,0,7,0,0
+2021-07-12,Platelets,28,0,7,0,0
+2021-07-13,Cryoprecipitate,9,1,7,0,0
+2021-07-13,Fresh Frozen Plasma,22,1,7,0,0
+2021-07-13,Packed RBC,88,1,7,0,0
+2021-07-13,Platelets,30,1,7,0,0
+2021-07-14,Cryoprecipitate,12,2,7,0,0
+2021-07-14,Fresh Frozen Plasma,26,2,7,0,0
+2021-07-14,Packed RBC,84,2,7,0,0
+2021-07-14,Platelets,29,2,7,0,0
+2021-07-15,Cryoprecipitate,15,3,7,0,0
+2021-07-15,Fresh Frozen Plasma,27,3,7,0,0
+2021-07-15,Packed RBC,90,3,7,0,0
+2021-07-15,Platelets,30,3,7,0,0
+2021-07-16,Cryoprecipitate,11,4,7,0,0
+2021-07-16,Fresh Frozen Plasma,32,4,7,0,0
+2021-07-16,Packed RBC,99,4,7,0,0
+2021-07-16,Platelets,26,4,7,0,0
+2021-07-17,Cryoprecipitate,12,5,7,1,0
+2021-07-17,Fresh Frozen Plasma,25,5,7,1,0
+2021-07-17,Packed RBC,51,5,7,1,0
+2021-07-17,Platelets,27,5,7,1,0
+2021-07-18,Cryoprecipitate,9,6,7,1,0
+2021-07-18,Fresh Frozen Plasma,15,6,7,1,0
+2021-07-18,Packed RBC,68,6,7,1,0
+2021-07-18,Platelets,21,6,7,1,0
+2021-07-19,Cryoprecipitate,11,0,7,0,0
+2021-07-19,Fresh Frozen Plasma,27,0,7,0,0
+2021-07-19,Packed RBC,88,0,7,0,0
+2021-07-19,Platelets,31,0,7,0,0
+2021-07-20,Cryoprecipitate,13,1,7,0,0
+2021-07-20,Fresh Frozen Plasma,23,1,7,0,0
+2021-07-20,Packed RBC,108,1,7,0,0
+2021-07-20,Platelets,30,1,7,0,0
+2021-07-21,Cryoprecipitate,16,2,7,0,0
+2021-07-21,Fresh Frozen Plasma,27,2,7,0,0
+2021-07-21,Packed RBC,103,2,7,0,0
+2021-07-21,Platelets,33,2,7,0,0
+2021-07-22,Cryoprecipitate,13,3,7,0,0
+2021-07-22,Fresh Frozen Plasma,27,3,7,0,0
+2021-07-22,Packed RBC,105,3,7,0,0
+2021-07-22,Platelets,46,3,7,0,0
+2021-07-23,Cryoprecipitate,12,4,7,0,0
+2021-07-23,Fresh Frozen Plasma,33,4,7,0,0
+2021-07-23,Packed RBC,73,4,7,0,0
+2021-07-23,Platelets,31,4,7,0,0
+2021-07-24,Cryoprecipitate,8,5,7,1,0
+2021-07-24,Fresh Frozen Plasma,23,5,7,1,0
+2021-07-24,Packed RBC,60,5,7,1,0
+2021-07-24,Platelets,26,5,7,1,0
+2021-07-25,Cryoprecipitate,10,6,7,1,0
+2021-07-25,Fresh Frozen Plasma,24,6,7,1,0
+2021-07-25,Packed RBC,52,6,7,1,0
+2021-07-25,Platelets,27,6,7,1,0
+2021-07-26,Cryoprecipitate,14,0,7,0,0
+2021-07-26,Fresh Frozen Plasma,27,0,7,0,0
+2021-07-26,Packed RBC,95,0,7,0,0
+2021-07-26,Platelets,35,0,7,0,0
+2021-07-27,Cryoprecipitate,14,1,7,0,0
+2021-07-27,Fresh Frozen Plasma,18,1,7,0,0
+2021-07-27,Packed RBC,64,1,7,0,0
+2021-07-27,Platelets,30,1,7,0,0
+2021-07-28,Cryoprecipitate,15,2,7,0,0
+2021-07-28,Fresh Frozen Plasma,30,2,7,0,0
+2021-07-28,Packed RBC,101,2,7,0,0
+2021-07-28,Platelets,34,2,7,0,0
+2021-07-29,Cryoprecipitate,11,3,7,0,0
+2021-07-29,Fresh Frozen Plasma,19,3,7,0,0
+2021-07-29,Packed RBC,75,3,7,0,0
+2021-07-29,Platelets,38,3,7,0,0
+2021-07-30,Cryoprecipitate,11,4,7,0,0
+2021-07-30,Fresh Frozen Plasma,36,4,7,0,0
+2021-07-30,Packed RBC,72,4,7,0,0
+2021-07-30,Platelets,38,4,7,0,0
+2021-07-31,Cryoprecipitate,11,5,7,1,0
+2021-07-31,Fresh Frozen Plasma,21,5,7,1,0
+2021-07-31,Packed RBC,66,5,7,1,0
+2021-07-31,Platelets,19,5,7,1,0
+2021-08-01,Cryoprecipitate,10,6,8,1,0
+2021-08-01,Fresh Frozen Plasma,20,6,8,1,0
+2021-08-01,Packed RBC,63,6,8,1,0
+2021-08-01,Platelets,24,6,8,1,0
+2021-08-02,Cryoprecipitate,11,0,8,0,0
+2021-08-02,Fresh Frozen Plasma,31,0,8,0,0
+2021-08-02,Packed RBC,92,0,8,0,0
+2021-08-02,Platelets,27,0,8,0,0
+2021-08-03,Cryoprecipitate,12,1,8,0,0
+2021-08-03,Fresh Frozen Plasma,24,1,8,0,0
+2021-08-03,Packed RBC,110,1,8,0,0
+2021-08-03,Platelets,32,1,8,0,0
+2021-08-04,Cryoprecipitate,14,2,8,0,0
+2021-08-04,Fresh Frozen Plasma,22,2,8,0,0
+2021-08-04,Packed RBC,130,2,8,0,0
+2021-08-04,Platelets,22,2,8,0,0
+2021-08-05,Cryoprecipitate,11,3,8,0,0
+2021-08-05,Fresh Frozen Plasma,32,3,8,0,0
+2021-08-05,Packed RBC,87,3,8,0,0
+2021-08-05,Platelets,31,3,8,0,0
+2021-08-06,Cryoprecipitate,16,4,8,0,0
+2021-08-06,Fresh Frozen Plasma,28,4,8,0,0
+2021-08-06,Packed RBC,111,4,8,0,0
+2021-08-06,Platelets,30,4,8,0,0
+2021-08-07,Cryoprecipitate,9,5,8,1,0
+2021-08-07,Fresh Frozen Plasma,20,5,8,1,0
+2021-08-07,Packed RBC,76,5,8,1,0
+2021-08-07,Platelets,28,5,8,1,0
+2021-08-08,Cryoprecipitate,11,6,8,1,0
+2021-08-08,Fresh Frozen Plasma,23,6,8,1,0
+2021-08-08,Packed RBC,50,6,8,1,0
+2021-08-08,Platelets,26,6,8,1,0
+2021-08-09,Cryoprecipitate,17,0,8,0,0
+2021-08-09,Fresh Frozen Plasma,23,0,8,0,0
+2021-08-09,Packed RBC,94,0,8,0,0
+2021-08-09,Platelets,31,0,8,0,0
+2021-08-10,Cryoprecipitate,13,1,8,0,0
+2021-08-10,Fresh Frozen Plasma,32,1,8,0,0
+2021-08-10,Packed RBC,90,1,8,0,0
+2021-08-10,Platelets,27,1,8,0,0
+2021-08-11,Cryoprecipitate,14,2,8,0,0
+2021-08-11,Fresh Frozen Plasma,28,2,8,0,0
+2021-08-11,Packed RBC,61,2,8,0,0
+2021-08-11,Platelets,32,2,8,0,0
+2021-08-12,Cryoprecipitate,16,3,8,0,0
+2021-08-12,Fresh Frozen Plasma,26,3,8,0,0
+2021-08-12,Packed RBC,112,3,8,0,0
+2021-08-12,Platelets,59,3,8,0,0
+2021-08-13,Cryoprecipitate,10,4,8,0,0
+2021-08-13,Fresh Frozen Plasma,29,4,8,0,0
+2021-08-13,Packed RBC,89,4,8,0,0
+2021-08-13,Platelets,39,4,8,0,0
+2021-08-14,Cryoprecipitate,10,5,8,1,0
+2021-08-14,Fresh Frozen Plasma,25,5,8,1,0
+2021-08-14,Packed RBC,62,5,8,1,0
+2021-08-14,Platelets,19,5,8,1,0
+2021-08-15,Cryoprecipitate,8,6,8,1,0
+2021-08-15,Fresh Frozen Plasma,21,6,8,1,0
+2021-08-15,Packed RBC,62,6,8,1,0
+2021-08-15,Platelets,21,6,8,1,0
+2021-08-16,Cryoprecipitate,15,0,8,0,0
+2021-08-16,Fresh Frozen Plasma,27,0,8,0,0
+2021-08-16,Packed RBC,80,0,8,0,0
+2021-08-16,Platelets,33,0,8,0,0
+2021-08-17,Cryoprecipitate,10,1,8,0,0
+2021-08-17,Fresh Frozen Plasma,24,1,8,0,0
+2021-08-17,Packed RBC,80,1,8,0,0
+2021-08-17,Platelets,34,1,8,0,0
+2021-08-18,Cryoprecipitate,12,2,8,0,0
+2021-08-18,Fresh Frozen Plasma,55,2,8,0,0
+2021-08-18,Packed RBC,86,2,8,0,0
+2021-08-18,Platelets,32,2,8,0,0
+2021-08-19,Cryoprecipitate,13,3,8,0,0
+2021-08-19,Fresh Frozen Plasma,33,3,8,0,0
+2021-08-19,Packed RBC,79,3,8,0,0
+2021-08-19,Platelets,39,3,8,0,0
+2021-08-20,Cryoprecipitate,13,4,8,0,0
+2021-08-20,Fresh Frozen Plasma,28,4,8,0,0
+2021-08-20,Packed RBC,89,4,8,0,0
+2021-08-20,Platelets,38,4,8,0,0
+2021-08-21,Cryoprecipitate,13,5,8,1,0
+2021-08-21,Fresh Frozen Plasma,21,5,8,1,0
+2021-08-21,Packed RBC,71,5,8,1,0
+2021-08-21,Platelets,25,5,8,1,0
+2021-08-22,Cryoprecipitate,11,6,8,1,0
+2021-08-22,Fresh Frozen Plasma,15,6,8,1,0
+2021-08-22,Packed RBC,58,6,8,1,0
+2021-08-22,Platelets,21,6,8,1,0
+2021-08-23,Cryoprecipitate,12,0,8,0,0
+2021-08-23,Fresh Frozen Plasma,24,0,8,0,0
+2021-08-23,Packed RBC,80,0,8,0,0
+2021-08-23,Platelets,38,0,8,0,0
+2021-08-24,Cryoprecipitate,11,1,8,0,0
+2021-08-24,Fresh Frozen Plasma,26,1,8,0,0
+2021-08-24,Packed RBC,73,1,8,0,0
+2021-08-24,Platelets,32,1,8,0,0
+2021-08-25,Cryoprecipitate,10,2,8,0,0
+2021-08-25,Fresh Frozen Plasma,27,2,8,0,0
+2021-08-25,Packed RBC,79,2,8,0,0
+2021-08-25,Platelets,32,2,8,0,0
+2021-08-26,Cryoprecipitate,15,3,8,0,0
+2021-08-26,Fresh Frozen Plasma,31,3,8,0,0
+2021-08-26,Packed RBC,64,3,8,0,0
+2021-08-26,Platelets,39,3,8,0,0
+2021-08-27,Cryoprecipitate,13,4,8,0,0
+2021-08-27,Fresh Frozen Plasma,22,4,8,0,0
+2021-08-27,Packed RBC,211,4,8,0,0
+2021-08-27,Platelets,24,4,8,0,0
+2021-08-28,Cryoprecipitate,12,5,8,1,0
+2021-08-28,Fresh Frozen Plasma,27,5,8,1,0
+2021-08-28,Packed RBC,54,5,8,1,0
+2021-08-28,Platelets,20,5,8,1,0
+2021-08-29,Cryoprecipitate,11,6,8,1,0
+2021-08-29,Fresh Frozen Plasma,22,6,8,1,0
+2021-08-29,Packed RBC,60,6,8,1,0
+2021-08-29,Platelets,19,6,8,1,0
+2021-08-30,Cryoprecipitate,16,0,8,0,0
+2021-08-30,Fresh Frozen Plasma,25,0,8,0,0
+2021-08-30,Packed RBC,57,0,8,0,0
+2021-08-30,Platelets,26,0,8,0,0
+2021-08-31,Cryoprecipitate,14,1,8,0,0
+2021-08-31,Fresh Frozen Plasma,31,1,8,0,0
+2021-08-31,Packed RBC,98,1,8,0,0
+2021-08-31,Platelets,28,1,8,0,0
+2021-09-01,Cryoprecipitate,15,2,9,0,0
+2021-09-01,Fresh Frozen Plasma,23,2,9,0,0
+2021-09-01,Packed RBC,85,2,9,0,0
+2021-09-01,Platelets,28,2,9,0,0
+2021-09-02,Cryoprecipitate,17,3,9,0,0
+2021-09-02,Fresh Frozen Plasma,20,3,9,0,0
+2021-09-02,Packed RBC,97,3,9,0,0
+2021-09-02,Platelets,27,3,9,0,0
+2021-09-03,Cryoprecipitate,10,4,9,0,0
+2021-09-03,Fresh Frozen Plasma,26,4,9,0,0
+2021-09-03,Packed RBC,73,4,9,0,0
+2021-09-03,Platelets,25,4,9,0,0
+2021-09-04,Cryoprecipitate,9,5,9,1,0
+2021-09-04,Fresh Frozen Plasma,19,5,9,1,0
+2021-09-04,Packed RBC,55,5,9,1,0
+2021-09-04,Platelets,23,5,9,1,0
+2021-09-05,Cryoprecipitate,8,6,9,1,0
+2021-09-05,Fresh Frozen Plasma,15,6,9,1,0
+2021-09-05,Packed RBC,57,6,9,1,0
+2021-09-05,Platelets,19,6,9,1,0
+2021-09-06,Cryoprecipitate,13,0,9,0,0
+2021-09-06,Fresh Frozen Plasma,21,0,9,0,0
+2021-09-06,Packed RBC,64,0,9,0,0
+2021-09-06,Platelets,28,0,9,0,0
+2021-09-07,Cryoprecipitate,15,1,9,0,0
+2021-09-07,Fresh Frozen Plasma,18,1,9,0,0
+2021-09-07,Packed RBC,84,1,9,0,0
+2021-09-07,Platelets,26,1,9,0,0
+2021-09-08,Cryoprecipitate,13,2,9,0,0
+2021-09-08,Fresh Frozen Plasma,26,2,9,0,0
+2021-09-08,Packed RBC,70,2,9,0,0
+2021-09-08,Platelets,32,2,9,0,0
+2021-09-09,Cryoprecipitate,12,3,9,0,0
+2021-09-09,Fresh Frozen Plasma,32,3,9,0,0
+2021-09-09,Packed RBC,78,3,9,0,0
+2021-09-09,Platelets,30,3,9,0,0
+2021-09-10,Cryoprecipitate,12,4,9,0,0
+2021-09-10,Fresh Frozen Plasma,18,4,9,0,0
+2021-09-10,Packed RBC,67,4,9,0,0
+2021-09-10,Platelets,31,4,9,0,0
+2021-09-11,Cryoprecipitate,9,5,9,1,0
+2021-09-11,Fresh Frozen Plasma,16,5,9,1,0
+2021-09-11,Packed RBC,72,5,9,1,0
+2021-09-11,Platelets,23,5,9,1,0
+2021-09-12,Cryoprecipitate,9,6,9,1,0
+2021-09-12,Fresh Frozen Plasma,20,6,9,1,0
+2021-09-12,Packed RBC,67,6,9,1,0
+2021-09-12,Platelets,17,6,9,1,0
+2021-09-13,Cryoprecipitate,13,0,9,0,0
+2021-09-13,Fresh Frozen Plasma,18,0,9,0,0
+2021-09-13,Packed RBC,76,0,9,0,0
+2021-09-13,Platelets,23,0,9,0,0
+2021-09-14,Cryoprecipitate,14,1,9,0,0
+2021-09-14,Fresh Frozen Plasma,30,1,9,0,0
+2021-09-14,Packed RBC,102,1,9,0,0
+2021-09-14,Platelets,30,1,9,0,0
+2021-09-15,Cryoprecipitate,10,2,9,0,0
+2021-09-15,Fresh Frozen Plasma,19,2,9,0,0
+2021-09-15,Packed RBC,79,2,9,0,0
+2021-09-15,Platelets,27,2,9,0,0
+2021-09-16,Cryoprecipitate,13,3,9,0,0
+2021-09-16,Fresh Frozen Plasma,25,3,9,0,0
+2021-09-16,Packed RBC,81,3,9,0,0
+2021-09-16,Platelets,34,3,9,0,0
+2021-09-17,Cryoprecipitate,13,4,9,0,0
+2021-09-17,Fresh Frozen Plasma,27,4,9,0,0
+2021-09-17,Packed RBC,80,4,9,0,0
+2021-09-17,Platelets,28,4,9,0,0
+2021-09-18,Cryoprecipitate,10,5,9,1,0
+2021-09-18,Fresh Frozen Plasma,19,5,9,1,0
+2021-09-18,Packed RBC,60,5,9,1,0
+2021-09-18,Platelets,28,5,9,1,0
+2021-09-19,Cryoprecipitate,10,6,9,1,0
+2021-09-19,Fresh Frozen Plasma,24,6,9,1,0
+2021-09-19,Packed RBC,50,6,9,1,0
+2021-09-19,Platelets,37,6,9,1,0
+2021-09-20,Cryoprecipitate,11,0,9,0,0
+2021-09-20,Fresh Frozen Plasma,36,0,9,0,0
+2021-09-20,Packed RBC,83,0,9,0,0
+2021-09-20,Platelets,27,0,9,0,0
+2021-09-21,Cryoprecipitate,12,1,9,0,0
+2021-09-21,Fresh Frozen Plasma,24,1,9,0,0
+2021-09-21,Packed RBC,73,1,9,0,0
+2021-09-21,Platelets,30,1,9,0,0
+2021-09-22,Cryoprecipitate,13,2,9,0,0
+2021-09-22,Fresh Frozen Plasma,25,2,9,0,0
+2021-09-22,Packed RBC,61,2,9,0,0
+2021-09-22,Platelets,31,2,9,0,0
+2021-09-23,Cryoprecipitate,9,3,9,0,0
+2021-09-23,Fresh Frozen Plasma,30,3,9,0,0
+2021-09-23,Packed RBC,71,3,9,0,0
+2021-09-23,Platelets,29,3,9,0,0
+2021-09-24,Cryoprecipitate,14,4,9,0,0
+2021-09-24,Fresh Frozen Plasma,22,4,9,0,0
+2021-09-24,Packed RBC,73,4,9,0,0
+2021-09-24,Platelets,30,4,9,0,0
+2021-09-25,Cryoprecipitate,9,5,9,1,0
+2021-09-25,Fresh Frozen Plasma,19,5,9,1,0
+2021-09-25,Packed RBC,52,5,9,1,0
+2021-09-25,Platelets,16,5,9,1,0
+2021-09-26,Cryoprecipitate,8,6,9,1,0
+2021-09-26,Fresh Frozen Plasma,18,6,9,1,0
+2021-09-26,Packed RBC,47,6,9,1,0
+2021-09-26,Platelets,24,6,9,1,0
+2021-09-27,Cryoprecipitate,16,0,9,0,0
+2021-09-27,Fresh Frozen Plasma,27,0,9,0,0
+2021-09-27,Packed RBC,74,0,9,0,0
+2021-09-27,Platelets,33,0,9,0,0
+2021-09-28,Cryoprecipitate,15,1,9,0,0
+2021-09-28,Fresh Frozen Plasma,22,1,9,0,0
+2021-09-28,Packed RBC,89,1,9,0,0
+2021-09-28,Platelets,38,1,9,0,0
+2021-09-29,Cryoprecipitate,11,2,9,0,0
+2021-09-29,Fresh Frozen Plasma,20,2,9,0,0
+2021-09-29,Packed RBC,75,2,9,0,0
+2021-09-29,Platelets,33,2,9,0,0
+2021-09-30,Cryoprecipitate,8,3,9,0,0
+2021-09-30,Fresh Frozen Plasma,25,3,9,0,0
+2021-09-30,Packed RBC,75,3,9,0,0
+2021-09-30,Platelets,30,3,9,0,0
+2021-10-01,Cryoprecipitate,16,4,10,0,0
+2021-10-01,Fresh Frozen Plasma,29,4,10,0,0
+2021-10-01,Packed RBC,87,4,10,0,0
+2021-10-01,Platelets,26,4,10,0,0
+2021-10-02,Cryoprecipitate,10,5,10,1,0
+2021-10-02,Fresh Frozen Plasma,20,5,10,1,0
+2021-10-02,Packed RBC,56,5,10,1,0
+2021-10-02,Platelets,24,5,10,1,0
+2021-10-03,Cryoprecipitate,10,6,10,1,0
+2021-10-03,Fresh Frozen Plasma,16,6,10,1,0
+2021-10-03,Packed RBC,42,6,10,1,0
+2021-10-03,Platelets,17,6,10,1,0
+2021-10-04,Cryoprecipitate,8,0,10,0,0
+2021-10-04,Fresh Frozen Plasma,29,0,10,0,0
+2021-10-04,Packed RBC,80,0,10,0,0
+2021-10-04,Platelets,31,0,10,0,0
+2021-10-05,Cryoprecipitate,11,1,10,0,0
+2021-10-05,Fresh Frozen Plasma,20,1,10,0,0
+2021-10-05,Packed RBC,75,1,10,0,0
+2021-10-05,Platelets,27,1,10,0,0
+2021-10-06,Cryoprecipitate,10,2,10,0,0
+2021-10-06,Fresh Frozen Plasma,31,2,10,0,0
+2021-10-06,Packed RBC,72,2,10,0,0
+2021-10-06,Platelets,19,2,10,0,0
+2021-10-07,Cryoprecipitate,12,3,10,0,0
+2021-10-07,Fresh Frozen Plasma,25,3,10,0,0
+2021-10-07,Packed RBC,84,3,10,0,0
+2021-10-07,Platelets,33,3,10,0,0
+2021-10-08,Cryoprecipitate,11,4,10,0,0
+2021-10-08,Fresh Frozen Plasma,29,4,10,0,0
+2021-10-08,Packed RBC,71,4,10,0,0
+2021-10-08,Platelets,35,4,10,0,0
+2021-10-09,Cryoprecipitate,9,5,10,1,0
+2021-10-09,Fresh Frozen Plasma,16,5,10,1,0
+2021-10-09,Packed RBC,45,5,10,1,0
+2021-10-09,Platelets,25,5,10,1,0
+2021-10-10,Cryoprecipitate,10,6,10,1,0
+2021-10-10,Fresh Frozen Plasma,18,6,10,1,0
+2021-10-10,Packed RBC,56,6,10,1,0
+2021-10-10,Platelets,19,6,10,1,0
+2021-10-11,Cryoprecipitate,14,0,10,0,0
+2021-10-11,Fresh Frozen Plasma,26,0,10,0,0
+2021-10-11,Packed RBC,77,0,10,0,0
+2021-10-11,Platelets,34,0,10,0,0
+2021-10-12,Cryoprecipitate,14,1,10,0,0
+2021-10-12,Fresh Frozen Plasma,28,1,10,0,0
+2021-10-12,Packed RBC,70,1,10,0,0
+2021-10-12,Platelets,36,1,10,0,0
+2021-10-13,Cryoprecipitate,14,2,10,0,0
+2021-10-13,Fresh Frozen Plasma,23,2,10,0,0
+2021-10-13,Packed RBC,65,2,10,0,0
+2021-10-13,Platelets,33,2,10,0,0
+2021-10-14,Cryoprecipitate,9,3,10,0,0
+2021-10-14,Fresh Frozen Plasma,27,3,10,0,0
+2021-10-14,Packed RBC,85,3,10,0,0
+2021-10-14,Platelets,23,3,10,0,0
+2021-10-15,Cryoprecipitate,19,4,10,0,0
+2021-10-15,Fresh Frozen Plasma,31,4,10,0,0
+2021-10-15,Packed RBC,84,4,10,0,0
+2021-10-15,Platelets,35,4,10,0,0
+2021-10-16,Cryoprecipitate,13,5,10,1,0
+2021-10-16,Fresh Frozen Plasma,23,5,10,1,0
+2021-10-16,Packed RBC,68,5,10,1,0
+2021-10-16,Platelets,29,5,10,1,0
+2021-10-17,Cryoprecipitate,11,6,10,1,0
+2021-10-17,Fresh Frozen Plasma,20,6,10,1,0
+2021-10-17,Packed RBC,59,6,10,1,0
+2021-10-17,Platelets,21,6,10,1,0
+2021-10-18,Cryoprecipitate,13,0,10,0,0
+2021-10-18,Fresh Frozen Plasma,20,0,10,0,0
+2021-10-18,Packed RBC,92,0,10,0,0
+2021-10-18,Platelets,24,0,10,0,0
+2021-10-19,Cryoprecipitate,13,1,10,0,0
+2021-10-19,Fresh Frozen Plasma,33,1,10,0,0
+2021-10-19,Packed RBC,124,1,10,0,0
+2021-10-19,Platelets,36,1,10,0,0
+2021-10-20,Cryoprecipitate,16,2,10,0,0
+2021-10-20,Fresh Frozen Plasma,30,2,10,0,0
+2021-10-20,Packed RBC,92,2,10,0,0
+2021-10-20,Platelets,40,2,10,0,0
+2021-10-21,Cryoprecipitate,14,3,10,0,0
+2021-10-21,Fresh Frozen Plasma,26,3,10,0,0
+2021-10-21,Packed RBC,85,3,10,0,0
+2021-10-21,Platelets,49,3,10,0,0
+2021-10-22,Cryoprecipitate,15,4,10,0,0
+2021-10-22,Fresh Frozen Plasma,25,4,10,0,0
+2021-10-22,Packed RBC,84,4,10,0,0
+2021-10-22,Platelets,35,4,10,0,0
+2021-10-23,Cryoprecipitate,11,5,10,1,0
+2021-10-23,Fresh Frozen Plasma,25,5,10,1,0
+2021-10-23,Packed RBC,59,5,10,1,0
+2021-10-23,Platelets,32,5,10,1,0
+2021-10-24,Cryoprecipitate,15,6,10,1,0
+2021-10-24,Fresh Frozen Plasma,19,6,10,1,0
+2021-10-24,Packed RBC,79,6,10,1,0
+2021-10-24,Platelets,25,6,10,1,0
+2021-10-25,Cryoprecipitate,15,0,10,0,0
+2021-10-25,Fresh Frozen Plasma,32,0,10,0,0
+2021-10-25,Packed RBC,86,0,10,0,0
+2021-10-25,Platelets,36,0,10,0,0
+2021-10-26,Cryoprecipitate,12,1,10,0,0
+2021-10-26,Fresh Frozen Plasma,28,1,10,0,0
+2021-10-26,Packed RBC,106,1,10,0,0
+2021-10-26,Platelets,36,1,10,0,0
+2021-10-27,Cryoprecipitate,10,2,10,0,0
+2021-10-27,Fresh Frozen Plasma,33,2,10,0,0
+2021-10-27,Packed RBC,107,2,10,0,0
+2021-10-27,Platelets,28,2,10,0,0
+2021-10-28,Cryoprecipitate,13,3,10,0,0
+2021-10-28,Fresh Frozen Plasma,31,3,10,0,0
+2021-10-28,Packed RBC,95,3,10,0,0
+2021-10-28,Platelets,24,3,10,0,0
+2021-10-29,Cryoprecipitate,14,4,10,0,0
+2021-10-29,Fresh Frozen Plasma,29,4,10,0,0
+2021-10-29,Packed RBC,82,4,10,0,0
+2021-10-29,Platelets,33,4,10,0,0
+2021-10-30,Cryoprecipitate,12,5,10,1,0
+2021-10-30,Fresh Frozen Plasma,28,5,10,1,0
+2021-10-30,Packed RBC,52,5,10,1,0
+2021-10-30,Platelets,26,5,10,1,0
+2021-10-31,Cryoprecipitate,9,6,10,1,0
+2021-10-31,Fresh Frozen Plasma,18,6,10,1,0
+2021-10-31,Packed RBC,49,6,10,1,0
+2021-10-31,Platelets,20,6,10,1,0
+2021-11-01,Cryoprecipitate,13,0,11,0,1
+2021-11-01,Fresh Frozen Plasma,25,0,11,0,1
+2021-11-01,Packed RBC,77,0,11,0,1
+2021-11-01,Platelets,35,0,11,0,1
+2021-11-02,Cryoprecipitate,14,1,11,0,1
+2021-11-02,Fresh Frozen Plasma,30,1,11,0,1
+2021-11-02,Packed RBC,89,1,11,0,1
+2021-11-02,Platelets,27,1,11,0,1
+2021-11-03,Cryoprecipitate,12,2,11,0,1
+2021-11-03,Fresh Frozen Plasma,26,2,11,0,1
+2021-11-03,Packed RBC,69,2,11,0,1
+2021-11-03,Platelets,30,2,11,0,1
+2021-11-04,Cryoprecipitate,13,3,11,0,1
+2021-11-04,Fresh Frozen Plasma,24,3,11,0,1
+2021-11-04,Packed RBC,87,3,11,0,1
+2021-11-04,Platelets,34,3,11,0,1
+2021-11-05,Cryoprecipitate,11,4,11,0,1
+2021-11-05,Fresh Frozen Plasma,26,4,11,0,1
+2021-11-05,Packed RBC,64,4,11,0,1
+2021-11-05,Platelets,19,4,11,0,1
+2021-11-06,Cryoprecipitate,12,5,11,1,1
+2021-11-06,Fresh Frozen Plasma,17,5,11,1,1
+2021-11-06,Packed RBC,53,5,11,1,1
+2021-11-06,Platelets,22,5,11,1,1
+2021-11-07,Cryoprecipitate,12,6,11,1,1
+2021-11-07,Fresh Frozen Plasma,18,6,11,1,1
+2021-11-07,Packed RBC,57,6,11,1,1
+2021-11-07,Platelets,22,6,11,1,1
+2021-11-08,Cryoprecipitate,9,0,11,0,1
+2021-11-08,Fresh Frozen Plasma,27,0,11,0,1
+2021-11-08,Packed RBC,63,0,11,0,1
+2021-11-08,Platelets,31,0,11,0,1
+2021-11-09,Cryoprecipitate,8,1,11,0,1
+2021-11-09,Fresh Frozen Plasma,21,1,11,0,1
+2021-11-09,Packed RBC,72,1,11,0,1
+2021-11-09,Platelets,38,1,11,0,1
+2021-11-10,Cryoprecipitate,13,2,11,0,1
+2021-11-10,Fresh Frozen Plasma,27,2,11,0,1
+2021-11-10,Packed RBC,48,2,11,0,1
+2021-11-10,Platelets,24,2,11,0,1
+2021-11-11,Cryoprecipitate,10,3,11,0,1
+2021-11-11,Fresh Frozen Plasma,22,3,11,0,1
+2021-11-11,Packed RBC,70,3,11,0,1
+2021-11-11,Platelets,24,3,11,0,1
+2021-11-12,Cryoprecipitate,14,4,11,0,1
+2021-11-12,Fresh Frozen Plasma,18,4,11,0,1
+2021-11-12,Packed RBC,97,4,11,0,1
+2021-11-12,Platelets,31,4,11,0,1
+2021-11-13,Cryoprecipitate,10,5,11,1,1
+2021-11-13,Fresh Frozen Plasma,19,5,11,1,1
+2021-11-13,Packed RBC,55,5,11,1,1
+2021-11-13,Platelets,16,5,11,1,1
+2021-11-14,Cryoprecipitate,9,6,11,1,1
+2021-11-14,Fresh Frozen Plasma,14,6,11,1,1
+2021-11-14,Packed RBC,61,6,11,1,1
+2021-11-14,Platelets,19,6,11,1,1
+2021-11-15,Cryoprecipitate,11,0,11,0,1
+2021-11-15,Fresh Frozen Plasma,32,0,11,0,1
+2021-11-15,Packed RBC,96,0,11,0,1
+2021-11-15,Platelets,30,0,11,0,1
+2021-11-16,Cryoprecipitate,15,1,11,0,1
+2021-11-16,Fresh Frozen Plasma,24,1,11,0,1
+2021-11-16,Packed RBC,77,1,11,0,1
+2021-11-16,Platelets,34,1,11,0,1
+2021-11-17,Cryoprecipitate,13,2,11,0,1
+2021-11-17,Fresh Frozen Plasma,31,2,11,0,1
+2021-11-17,Packed RBC,100,2,11,0,1
+2021-11-17,Platelets,37,2,11,0,1
+2021-11-18,Cryoprecipitate,14,3,11,0,1
+2021-11-18,Fresh Frozen Plasma,23,3,11,0,1
+2021-11-18,Packed RBC,110,3,11,0,1
+2021-11-18,Platelets,33,3,11,0,1
+2021-11-19,Cryoprecipitate,14,4,11,0,1
+2021-11-19,Fresh Frozen Plasma,33,4,11,0,1
+2021-11-19,Packed RBC,111,4,11,0,1
+2021-11-19,Platelets,38,4,11,0,1
+2021-11-20,Cryoprecipitate,14,5,11,1,1
+2021-11-20,Fresh Frozen Plasma,15,5,11,1,1
+2021-11-20,Packed RBC,63,5,11,1,1
+2021-11-20,Platelets,26,5,11,1,1
+2021-11-21,Cryoprecipitate,10,6,11,1,1
+2021-11-21,Fresh Frozen Plasma,22,6,11,1,1
+2021-11-21,Packed RBC,53,6,11,1,1
+2021-11-21,Platelets,30,6,11,1,1
+2021-11-22,Cryoprecipitate,15,0,11,0,1
+2021-11-22,Fresh Frozen Plasma,29,0,11,0,1
+2021-11-22,Packed RBC,92,0,11,0,1
+2021-11-22,Platelets,42,0,11,0,1
+2021-11-23,Cryoprecipitate,14,1,11,0,1
+2021-11-23,Fresh Frozen Plasma,22,1,11,0,1
+2021-11-23,Packed RBC,97,1,11,0,1
+2021-11-23,Platelets,34,1,11,0,1
+2021-11-24,Cryoprecipitate,12,2,11,0,1
+2021-11-24,Fresh Frozen Plasma,30,2,11,0,1
+2021-11-24,Packed RBC,102,2,11,0,1
+2021-11-24,Platelets,37,2,11,0,1
+2021-11-25,Cryoprecipitate,14,3,11,0,1
+2021-11-25,Fresh Frozen Plasma,26,3,11,0,1
+2021-11-25,Packed RBC,107,3,11,0,1
+2021-11-25,Platelets,24,3,11,0,1
+2021-11-26,Cryoprecipitate,12,4,11,0,1
+2021-11-26,Fresh Frozen Plasma,29,4,11,0,1
+2021-11-26,Packed RBC,101,4,11,0,1
+2021-11-26,Platelets,39,4,11,0,1
+2021-11-27,Cryoprecipitate,12,5,11,1,1
+2021-11-27,Fresh Frozen Plasma,23,5,11,1,1
+2021-11-27,Packed RBC,57,5,11,1,1
+2021-11-27,Platelets,22,5,11,1,1
+2021-11-28,Cryoprecipitate,14,6,11,1,1
+2021-11-28,Fresh Frozen Plasma,22,6,11,1,1
+2021-11-28,Packed RBC,69,6,11,1,1
+2021-11-28,Platelets,23,6,11,1,1
+2021-11-29,Cryoprecipitate,12,0,11,0,1
+2021-11-29,Fresh Frozen Plasma,34,0,11,0,1
+2021-11-29,Packed RBC,109,0,11,0,1
+2021-11-29,Platelets,36,0,11,0,1
+2021-11-30,Cryoprecipitate,13,1,11,0,1
+2021-11-30,Fresh Frozen Plasma,33,1,11,0,1
+2021-11-30,Packed RBC,134,1,11,0,1
+2021-11-30,Platelets,30,1,11,0,1
+2021-12-01,Cryoprecipitate,8,2,12,0,1
+2021-12-01,Fresh Frozen Plasma,28,2,12,0,1
+2021-12-01,Packed RBC,87,2,12,0,1
+2021-12-01,Platelets,48,2,12,0,1
+2021-12-02,Cryoprecipitate,13,3,12,0,1
+2021-12-02,Fresh Frozen Plasma,27,3,12,0,1
+2021-12-02,Packed RBC,108,3,12,0,1
+2021-12-02,Platelets,34,3,12,0,1
+2021-12-03,Cryoprecipitate,15,4,12,0,1
+2021-12-03,Fresh Frozen Plasma,30,4,12,0,1
+2021-12-03,Packed RBC,94,4,12,0,1
+2021-12-03,Platelets,39,4,12,0,1
+2021-12-04,Cryoprecipitate,11,5,12,1,1
+2021-12-04,Fresh Frozen Plasma,19,5,12,1,1
+2021-12-04,Packed RBC,62,5,12,1,1
+2021-12-04,Platelets,27,5,12,1,1
+2021-12-05,Cryoprecipitate,8,6,12,1,1
+2021-12-05,Fresh Frozen Plasma,18,6,12,1,1
+2021-12-05,Packed RBC,57,6,12,1,1
+2021-12-05,Platelets,27,6,12,1,1
+2021-12-06,Cryoprecipitate,18,0,12,0,1
+2021-12-06,Fresh Frozen Plasma,30,0,12,0,1
+2021-12-06,Packed RBC,81,0,12,0,1
+2021-12-06,Platelets,30,0,12,0,1
+2021-12-07,Cryoprecipitate,13,1,12,0,1
+2021-12-07,Fresh Frozen Plasma,28,1,12,0,1
+2021-12-07,Packed RBC,74,1,12,0,1
+2021-12-07,Platelets,30,1,12,0,1
+2021-12-08,Cryoprecipitate,17,2,12,0,1
+2021-12-08,Fresh Frozen Plasma,27,2,12,0,1
+2021-12-08,Packed RBC,94,2,12,0,1
+2021-12-08,Platelets,42,2,12,0,1
+2021-12-09,Cryoprecipitate,15,3,12,0,1
+2021-12-09,Fresh Frozen Plasma,31,3,12,0,1
+2021-12-09,Packed RBC,112,3,12,0,1
+2021-12-09,Platelets,34,3,12,0,1
+2021-12-10,Cryoprecipitate,19,4,12,0,1
+2021-12-10,Fresh Frozen Plasma,32,4,12,0,1
+2021-12-10,Packed RBC,75,4,12,0,1
+2021-12-10,Platelets,42,4,12,0,1
+2021-12-11,Cryoprecipitate,10,5,12,1,1
+2021-12-11,Fresh Frozen Plasma,19,5,12,1,1
+2021-12-11,Packed RBC,55,5,12,1,1
+2021-12-11,Platelets,19,5,12,1,1
+2021-12-12,Cryoprecipitate,10,6,12,1,1
+2021-12-12,Fresh Frozen Plasma,24,6,12,1,1
+2021-12-12,Packed RBC,52,6,12,1,1
+2021-12-12,Platelets,27,6,12,1,1
+2021-12-13,Cryoprecipitate,17,0,12,0,1
+2021-12-13,Fresh Frozen Plasma,43,0,12,0,1
+2021-12-13,Packed RBC,80,0,12,0,1
+2021-12-13,Platelets,25,0,12,0,1
+2021-12-14,Cryoprecipitate,15,1,12,0,1
+2021-12-14,Fresh Frozen Plasma,54,1,12,0,1
+2021-12-14,Packed RBC,114,1,12,0,1
+2021-12-14,Platelets,35,1,12,0,1
+2021-12-15,Cryoprecipitate,17,2,12,0,1
+2021-12-15,Fresh Frozen Plasma,29,2,12,0,1
+2021-12-15,Packed RBC,96,2,12,0,1
+2021-12-15,Platelets,37,2,12,0,1
+2021-12-16,Cryoprecipitate,13,3,12,0,1
+2021-12-16,Fresh Frozen Plasma,31,3,12,0,1
+2021-12-16,Packed RBC,77,3,12,0,1
+2021-12-16,Platelets,29,3,12,0,1
+2021-12-17,Cryoprecipitate,18,4,12,0,1
+2021-12-17,Fresh Frozen Plasma,31,4,12,0,1
+2021-12-17,Packed RBC,85,4,12,0,1
+2021-12-17,Platelets,24,4,12,0,1
+2021-12-18,Cryoprecipitate,12,5,12,1,1
+2021-12-18,Fresh Frozen Plasma,22,5,12,1,1
+2021-12-18,Packed RBC,65,5,12,1,1
+2021-12-18,Platelets,28,5,12,1,1
+2021-12-19,Cryoprecipitate,12,6,12,1,1
+2021-12-19,Fresh Frozen Plasma,21,6,12,1,1
+2021-12-19,Packed RBC,70,6,12,1,1
+2021-12-19,Platelets,26,6,12,1,1
+2021-12-20,Cryoprecipitate,19,0,12,0,1
+2021-12-20,Fresh Frozen Plasma,50,0,12,0,1
+2021-12-20,Packed RBC,208,0,12,0,1
+2021-12-20,Platelets,47,0,12,0,1
+2021-12-21,Cryoprecipitate,15,1,12,0,1
+2021-12-21,Fresh Frozen Plasma,44,1,12,0,1
+2021-12-21,Packed RBC,94,1,12,0,1
+2021-12-21,Platelets,47,1,12,0,1
+2021-12-22,Cryoprecipitate,18,2,12,0,1
+2021-12-22,Fresh Frozen Plasma,37,2,12,0,1
+2021-12-22,Packed RBC,116,2,12,0,1
+2021-12-22,Platelets,50,2,12,0,1
+2021-12-23,Cryoprecipitate,28,3,12,0,1
+2021-12-23,Fresh Frozen Plasma,34,3,12,0,1
+2021-12-23,Packed RBC,108,3,12,0,1
+2021-12-23,Platelets,35,3,12,0,1
+2021-12-24,Cryoprecipitate,12,4,12,0,1
+2021-12-24,Fresh Frozen Plasma,34,4,12,0,1
+2021-12-24,Packed RBC,125,4,12,0,1
+2021-12-24,Platelets,35,4,12,0,1
+2021-12-25,Cryoprecipitate,13,5,12,1,1
+2021-12-25,Fresh Frozen Plasma,17,5,12,1,1
+2021-12-25,Packed RBC,213,5,12,1,1
+2021-12-25,Platelets,31,5,12,1,1
+2021-12-26,Cryoprecipitate,14,6,12,1,1
+2021-12-26,Fresh Frozen Plasma,25,6,12,1,1
+2021-12-26,Packed RBC,93,6,12,1,1
+2021-12-26,Platelets,30,6,12,1,1
+2021-12-27,Cryoprecipitate,12,0,12,0,1
+2021-12-27,Fresh Frozen Plasma,36,0,12,0,1
+2021-12-27,Packed RBC,107,0,12,0,1
+2021-12-27,Platelets,31,0,12,0,1
+2021-12-28,Cryoprecipitate,18,1,12,0,1
+2021-12-28,Fresh Frozen Plasma,37,1,12,0,1
+2021-12-28,Packed RBC,132,1,12,0,1
+2021-12-28,Platelets,49,1,12,0,1
+2021-12-29,Cryoprecipitate,15,2,12,0,1
+2021-12-29,Fresh Frozen Plasma,33,2,12,0,1
+2021-12-29,Packed RBC,83,2,12,0,1
+2021-12-29,Platelets,57,2,12,0,1
+2021-12-30,Cryoprecipitate,15,3,12,0,1
+2021-12-30,Fresh Frozen Plasma,37,3,12,0,1
+2021-12-30,Packed RBC,87,3,12,0,1
+2021-12-30,Platelets,36,3,12,0,1
+2021-12-31,Cryoprecipitate,18,4,12,0,1
+2021-12-31,Fresh Frozen Plasma,37,4,12,0,1
+2021-12-31,Packed RBC,63,4,12,0,1
+2021-12-31,Platelets,46,4,12,0,1
+2022-01-01,Cryoprecipitate,14,5,1,1,0
+2022-01-01,Fresh Frozen Plasma,29,5,1,1,0
+2022-01-01,Packed RBC,65,5,1,1,0
+2022-01-01,Platelets,36,5,1,1,0
+2022-01-02,Cryoprecipitate,11,6,1,1,0
+2022-01-02,Fresh Frozen Plasma,23,6,1,1,0
+2022-01-02,Packed RBC,77,6,1,1,0
+2022-01-02,Platelets,26,6,1,1,0
+2022-01-03,Cryoprecipitate,19,0,1,0,0
+2022-01-03,Fresh Frozen Plasma,39,0,1,0,0
+2022-01-03,Packed RBC,108,0,1,0,0
+2022-01-03,Platelets,42,0,1,0,0
+2022-01-04,Cryoprecipitate,14,1,1,0,0
+2022-01-04,Fresh Frozen Plasma,39,1,1,0,0
+2022-01-04,Packed RBC,125,1,1,0,0
+2022-01-04,Platelets,43,1,1,0,0
+2022-01-05,Cryoprecipitate,17,2,1,0,0
+2022-01-05,Fresh Frozen Plasma,36,2,1,0,0
+2022-01-05,Packed RBC,137,2,1,0,0
+2022-01-05,Platelets,115,2,1,0,0
+2022-01-06,Cryoprecipitate,15,3,1,0,0
+2022-01-06,Fresh Frozen Plasma,31,3,1,0,0
+2022-01-06,Packed RBC,77,3,1,0,0
+2022-01-06,Platelets,29,3,1,0,0
+2022-01-07,Cryoprecipitate,9,4,1,0,0
+2022-01-07,Fresh Frozen Plasma,27,4,1,0,0
+2022-01-07,Packed RBC,97,4,1,0,0
+2022-01-07,Platelets,35,4,1,0,0
+2022-01-08,Cryoprecipitate,10,5,1,1,0
+2022-01-08,Fresh Frozen Plasma,28,5,1,1,0
+2022-01-08,Packed RBC,62,5,1,1,0
+2022-01-08,Platelets,26,5,1,1,0
+2022-01-09,Cryoprecipitate,11,6,1,1,0
+2022-01-09,Fresh Frozen Plasma,26,6,1,1,0
+2022-01-09,Packed RBC,53,6,1,1,0
+2022-01-09,Platelets,22,6,1,1,0
+2022-01-10,Cryoprecipitate,12,0,1,0,0
+2022-01-10,Fresh Frozen Plasma,29,0,1,0,0
+2022-01-10,Packed RBC,99,0,1,0,0
+2022-01-10,Platelets,37,0,1,0,0
+2022-01-11,Cryoprecipitate,14,1,1,0,0
+2022-01-11,Fresh Frozen Plasma,24,1,1,0,0
+2022-01-11,Packed RBC,97,1,1,0,0
+2022-01-11,Platelets,37,1,1,0,0
+2022-01-12,Cryoprecipitate,15,2,1,0,0
+2022-01-12,Fresh Frozen Plasma,26,2,1,0,0
+2022-01-12,Packed RBC,95,2,1,0,0
+2022-01-12,Platelets,32,2,1,0,0
+2022-01-13,Cryoprecipitate,12,3,1,0,0
+2022-01-13,Fresh Frozen Plasma,30,3,1,0,0
+2022-01-13,Packed RBC,91,3,1,0,0
+2022-01-13,Platelets,39,3,1,0,0
+2022-01-14,Cryoprecipitate,14,4,1,0,0
+2022-01-14,Fresh Frozen Plasma,25,4,1,0,0
+2022-01-14,Packed RBC,67,4,1,0,0
+2022-01-14,Platelets,33,4,1,0,0
+2022-01-15,Cryoprecipitate,10,5,1,1,0
+2022-01-15,Fresh Frozen Plasma,21,5,1,1,0
+2022-01-15,Packed RBC,64,5,1,1,0
+2022-01-15,Platelets,22,5,1,1,0
+2022-01-16,Cryoprecipitate,11,6,1,1,0
+2022-01-16,Fresh Frozen Plasma,19,6,1,1,0
+2022-01-16,Packed RBC,54,6,1,1,0
+2022-01-16,Platelets,27,6,1,1,0
+2022-01-17,Cryoprecipitate,12,0,1,0,0
+2022-01-17,Fresh Frozen Plasma,26,0,1,0,0
+2022-01-17,Packed RBC,90,0,1,0,0
+2022-01-17,Platelets,38,0,1,0,0
+2022-01-18,Cryoprecipitate,13,1,1,0,0
+2022-01-18,Fresh Frozen Plasma,25,1,1,0,0
+2022-01-18,Packed RBC,107,1,1,0,0
+2022-01-18,Platelets,27,1,1,0,0
+2022-01-19,Cryoprecipitate,11,2,1,0,0
+2022-01-19,Fresh Frozen Plasma,29,2,1,0,0
+2022-01-19,Packed RBC,97,2,1,0,0
+2022-01-19,Platelets,35,2,1,0,0
+2022-01-20,Cryoprecipitate,16,3,1,0,0
+2022-01-20,Fresh Frozen Plasma,24,3,1,0,0
+2022-01-20,Packed RBC,86,3,1,0,0
+2022-01-20,Platelets,44,3,1,0,0
+2022-01-21,Cryoprecipitate,14,4,1,0,0
+2022-01-21,Fresh Frozen Plasma,28,4,1,0,0
+2022-01-21,Packed RBC,102,4,1,0,0
+2022-01-21,Platelets,33,4,1,0,0
+2022-01-22,Cryoprecipitate,10,5,1,1,0
+2022-01-22,Fresh Frozen Plasma,27,5,1,1,0
+2022-01-22,Packed RBC,59,5,1,1,0
+2022-01-22,Platelets,15,5,1,1,0
+2022-01-23,Cryoprecipitate,11,6,1,1,0
+2022-01-23,Fresh Frozen Plasma,25,6,1,1,0
+2022-01-23,Packed RBC,51,6,1,1,0
+2022-01-23,Platelets,25,6,1,1,0
+2022-01-24,Cryoprecipitate,17,0,1,0,0
+2022-01-24,Fresh Frozen Plasma,32,0,1,0,0
+2022-01-24,Packed RBC,98,0,1,0,0
+2022-01-24,Platelets,45,0,1,0,0
+2022-01-25,Cryoprecipitate,13,1,1,0,0
+2022-01-25,Fresh Frozen Plasma,29,1,1,0,0
+2022-01-25,Packed RBC,89,1,1,0,0
+2022-01-25,Platelets,35,1,1,0,0
+2022-01-26,Cryoprecipitate,13,2,1,0,0
+2022-01-26,Fresh Frozen Plasma,25,2,1,0,0
+2022-01-26,Packed RBC,77,2,1,0,0
+2022-01-26,Platelets,38,2,1,0,0
+2022-01-27,Cryoprecipitate,17,3,1,0,0
+2022-01-27,Fresh Frozen Plasma,18,3,1,0,0
+2022-01-27,Packed RBC,99,3,1,0,0
+2022-01-27,Platelets,33,3,1,0,0
+2022-01-28,Cryoprecipitate,15,4,1,0,0
+2022-01-28,Fresh Frozen Plasma,27,4,1,0,0
+2022-01-28,Packed RBC,81,4,1,0,0
+2022-01-28,Platelets,39,4,1,0,0
+2022-01-29,Cryoprecipitate,13,5,1,1,0
+2022-01-29,Fresh Frozen Plasma,18,5,1,1,0
+2022-01-29,Packed RBC,77,5,1,1,0
+2022-01-29,Platelets,23,5,1,1,0
+2022-01-30,Cryoprecipitate,11,6,1,1,0
+2022-01-30,Fresh Frozen Plasma,20,6,1,1,0
+2022-01-30,Packed RBC,62,6,1,1,0
+2022-01-30,Platelets,26,6,1,1,0
+2022-01-31,Cryoprecipitate,14,0,1,0,0
+2022-01-31,Fresh Frozen Plasma,27,0,1,0,0
+2022-01-31,Packed RBC,87,0,1,0,0
+2022-01-31,Platelets,31,0,1,0,0
+2022-02-01,Cryoprecipitate,11,1,2,0,0
+2022-02-01,Fresh Frozen Plasma,29,1,2,0,0
+2022-02-01,Packed RBC,92,1,2,0,0
+2022-02-01,Platelets,26,1,2,0,0
+2022-02-02,Cryoprecipitate,12,2,2,0,0
+2022-02-02,Fresh Frozen Plasma,15,2,2,0,0
+2022-02-02,Packed RBC,90,2,2,0,0
+2022-02-02,Platelets,38,2,2,0,0
+2022-02-03,Cryoprecipitate,14,3,2,0,0
+2022-02-03,Fresh Frozen Plasma,27,3,2,0,0
+2022-02-03,Packed RBC,76,3,2,0,0
+2022-02-03,Platelets,43,3,2,0,0
+2022-02-04,Cryoprecipitate,11,4,2,0,0
+2022-02-04,Fresh Frozen Plasma,32,4,2,0,0
+2022-02-04,Packed RBC,98,4,2,0,0
+2022-02-04,Platelets,27,4,2,0,0
+2022-02-05,Cryoprecipitate,9,5,2,1,0
+2022-02-05,Fresh Frozen Plasma,26,5,2,1,0
+2022-02-05,Packed RBC,61,5,2,1,0
+2022-02-05,Platelets,28,5,2,1,0
+2022-02-06,Cryoprecipitate,13,6,2,1,0
+2022-02-06,Fresh Frozen Plasma,20,6,2,1,0
+2022-02-06,Packed RBC,64,6,2,1,0
+2022-02-06,Platelets,26,6,2,1,0
+2022-02-07,Cryoprecipitate,10,0,2,0,0
+2022-02-07,Fresh Frozen Plasma,32,0,2,0,0
+2022-02-07,Packed RBC,66,0,2,0,0
+2022-02-07,Platelets,41,0,2,0,0
+2022-02-08,Cryoprecipitate,14,1,2,0,0
+2022-02-08,Fresh Frozen Plasma,26,1,2,0,0
+2022-02-08,Packed RBC,91,1,2,0,0
+2022-02-08,Platelets,36,1,2,0,0
+2022-02-09,Cryoprecipitate,12,2,2,0,0
+2022-02-09,Fresh Frozen Plasma,31,2,2,0,0
+2022-02-09,Packed RBC,73,2,2,0,0
+2022-02-09,Platelets,31,2,2,0,0
+2022-02-10,Cryoprecipitate,15,3,2,0,0
+2022-02-10,Fresh Frozen Plasma,31,3,2,0,0
+2022-02-10,Packed RBC,105,3,2,0,0
+2022-02-10,Platelets,42,3,2,0,0
+2022-02-11,Cryoprecipitate,14,4,2,0,0
+2022-02-11,Fresh Frozen Plasma,31,4,2,0,0
+2022-02-11,Packed RBC,90,4,2,0,0
+2022-02-11,Platelets,27,4,2,0,0
+2022-02-12,Cryoprecipitate,11,5,2,1,0
+2022-02-12,Fresh Frozen Plasma,20,5,2,1,0
+2022-02-12,Packed RBC,139,5,2,1,0
+2022-02-12,Platelets,28,5,2,1,0
+2022-02-13,Cryoprecipitate,12,6,2,1,0
+2022-02-13,Fresh Frozen Plasma,22,6,2,1,0
+2022-02-13,Packed RBC,121,6,2,1,0
+2022-02-13,Platelets,26,6,2,1,0
+2022-02-14,Cryoprecipitate,16,0,2,0,0
+2022-02-14,Fresh Frozen Plasma,22,0,2,0,0
+2022-02-14,Packed RBC,71,0,2,0,0
+2022-02-14,Platelets,36,0,2,0,0
+2022-02-15,Cryoprecipitate,10,1,2,0,0
+2022-02-15,Fresh Frozen Plasma,34,1,2,0,0
+2022-02-15,Packed RBC,100,1,2,0,0
+2022-02-15,Platelets,32,1,2,0,0
+2022-02-16,Cryoprecipitate,16,2,2,0,0
+2022-02-16,Fresh Frozen Plasma,25,2,2,0,0
+2022-02-16,Packed RBC,81,2,2,0,0
+2022-02-16,Platelets,38,2,2,0,0
+2022-02-17,Cryoprecipitate,11,3,2,0,0
+2022-02-17,Fresh Frozen Plasma,24,3,2,0,0
+2022-02-17,Packed RBC,93,3,2,0,0
+2022-02-17,Platelets,36,3,2,0,0
+2022-02-18,Cryoprecipitate,14,4,2,0,0
+2022-02-18,Fresh Frozen Plasma,27,4,2,0,0
+2022-02-18,Packed RBC,89,4,2,0,0
+2022-02-18,Platelets,24,4,2,0,0
+2022-02-19,Cryoprecipitate,10,5,2,1,0
+2022-02-19,Fresh Frozen Plasma,27,5,2,1,0
+2022-02-19,Packed RBC,50,5,2,1,0
+2022-02-19,Platelets,24,5,2,1,0
+2022-02-20,Cryoprecipitate,10,6,2,1,0
+2022-02-20,Fresh Frozen Plasma,14,6,2,1,0
+2022-02-20,Packed RBC,61,6,2,1,0
+2022-02-20,Platelets,31,6,2,1,0
+2022-02-21,Cryoprecipitate,22,0,2,0,0
+2022-02-21,Fresh Frozen Plasma,34,0,2,0,0
+2022-02-21,Packed RBC,67,0,2,0,0
+2022-02-21,Platelets,37,0,2,0,0
+2022-02-22,Cryoprecipitate,16,1,2,0,0
+2022-02-22,Fresh Frozen Plasma,22,1,2,0,0
+2022-02-22,Packed RBC,96,1,2,0,0
+2022-02-22,Platelets,32,1,2,0,0
+2022-02-23,Cryoprecipitate,13,2,2,0,0
+2022-02-23,Fresh Frozen Plasma,37,2,2,0,0
+2022-02-23,Packed RBC,88,2,2,0,0
+2022-02-23,Platelets,33,2,2,0,0
+2022-02-24,Cryoprecipitate,12,3,2,0,0
+2022-02-24,Fresh Frozen Plasma,25,3,2,0,0
+2022-02-24,Packed RBC,109,3,2,0,0
+2022-02-24,Platelets,38,3,2,0,0
+2022-02-25,Cryoprecipitate,15,4,2,0,0
+2022-02-25,Fresh Frozen Plasma,36,4,2,0,0
+2022-02-25,Packed RBC,95,4,2,0,0
+2022-02-25,Platelets,27,4,2,0,0
+2022-02-26,Cryoprecipitate,15,5,2,1,0
+2022-02-26,Fresh Frozen Plasma,19,5,2,1,0
+2022-02-26,Packed RBC,56,5,2,1,0
+2022-02-26,Platelets,23,5,2,1,0
+2022-02-27,Cryoprecipitate,10,6,2,1,0
+2022-02-27,Fresh Frozen Plasma,18,6,2,1,0
+2022-02-27,Packed RBC,63,6,2,1,0
+2022-02-27,Platelets,24,6,2,1,0
+2022-02-28,Cryoprecipitate,11,0,2,0,0
+2022-02-28,Fresh Frozen Plasma,30,0,2,0,0
+2022-02-28,Packed RBC,122,0,2,0,0
+2022-02-28,Platelets,25,0,2,0,0
+2022-03-01,Cryoprecipitate,11,1,3,0,0
+2022-03-01,Fresh Frozen Plasma,28,1,3,0,0
+2022-03-01,Packed RBC,94,1,3,0,0
+2022-03-01,Platelets,32,1,3,0,0
+2022-03-02,Cryoprecipitate,11,2,3,0,0
+2022-03-02,Fresh Frozen Plasma,28,2,3,0,0
+2022-03-02,Packed RBC,73,2,3,0,0
+2022-03-02,Platelets,29,2,3,0,0
+2022-03-03,Cryoprecipitate,12,3,3,0,0
+2022-03-03,Fresh Frozen Plasma,24,3,3,0,0
+2022-03-03,Packed RBC,79,3,3,0,0
+2022-03-03,Platelets,35,3,3,0,0
+2022-03-04,Cryoprecipitate,13,4,3,0,0
+2022-03-04,Fresh Frozen Plasma,26,4,3,0,0
+2022-03-04,Packed RBC,90,4,3,0,0
+2022-03-04,Platelets,27,4,3,0,0
+2022-03-05,Cryoprecipitate,11,5,3,1,0
+2022-03-05,Fresh Frozen Plasma,23,5,3,1,0
+2022-03-05,Packed RBC,59,5,3,1,0
+2022-03-05,Platelets,20,5,3,1,0
+2022-03-06,Cryoprecipitate,11,6,3,1,0
+2022-03-06,Fresh Frozen Plasma,16,6,3,1,0
+2022-03-06,Packed RBC,52,6,3,1,0
+2022-03-06,Platelets,27,6,3,1,0
+2022-03-07,Cryoprecipitate,12,0,3,0,0
+2022-03-07,Fresh Frozen Plasma,19,0,3,0,0
+2022-03-07,Packed RBC,88,0,3,0,0
+2022-03-07,Platelets,34,0,3,0,0
+2022-03-08,Cryoprecipitate,11,1,3,0,0
+2022-03-08,Fresh Frozen Plasma,22,1,3,0,0
+2022-03-08,Packed RBC,84,1,3,0,0
+2022-03-08,Platelets,28,1,3,0,0
+2022-03-09,Cryoprecipitate,11,2,3,0,0
+2022-03-09,Fresh Frozen Plasma,25,2,3,0,0
+2022-03-09,Packed RBC,84,2,3,0,0
+2022-03-09,Platelets,30,2,3,0,0
+2022-03-10,Cryoprecipitate,11,3,3,0,0
+2022-03-10,Fresh Frozen Plasma,30,3,3,0,0
+2022-03-10,Packed RBC,90,3,3,0,0
+2022-03-10,Platelets,28,3,3,0,0
+2022-03-11,Cryoprecipitate,9,4,3,0,0
+2022-03-11,Fresh Frozen Plasma,27,4,3,0,0
+2022-03-11,Packed RBC,83,4,3,0,0
+2022-03-11,Platelets,26,4,3,0,0
+2022-03-12,Cryoprecipitate,11,5,3,1,0
+2022-03-12,Fresh Frozen Plasma,23,5,3,1,0
+2022-03-12,Packed RBC,116,5,3,1,0
+2022-03-12,Platelets,26,5,3,1,0
+2022-03-13,Cryoprecipitate,9,6,3,1,0
+2022-03-13,Fresh Frozen Plasma,22,6,3,1,0
+2022-03-13,Packed RBC,52,6,3,1,0
+2022-03-13,Platelets,15,6,3,1,0
+2022-03-14,Cryoprecipitate,11,0,3,0,0
+2022-03-14,Fresh Frozen Plasma,27,0,3,0,0
+2022-03-14,Packed RBC,94,0,3,0,0
+2022-03-14,Platelets,23,0,3,0,0
+2022-03-15,Cryoprecipitate,17,1,3,0,0
+2022-03-15,Fresh Frozen Plasma,58,1,3,0,0
+2022-03-15,Packed RBC,91,1,3,0,0
+2022-03-15,Platelets,28,1,3,0,0
+2022-03-16,Cryoprecipitate,12,2,3,0,0
+2022-03-16,Fresh Frozen Plasma,22,2,3,0,0
+2022-03-16,Packed RBC,91,2,3,0,0
+2022-03-16,Platelets,33,2,3,0,0
+2022-03-17,Cryoprecipitate,13,3,3,0,0
+2022-03-17,Fresh Frozen Plasma,24,3,3,0,0
+2022-03-17,Packed RBC,87,3,3,0,0
+2022-03-17,Platelets,23,3,3,0,0
+2022-03-18,Cryoprecipitate,9,4,3,0,0
+2022-03-18,Fresh Frozen Plasma,30,4,3,0,0
+2022-03-18,Packed RBC,79,4,3,0,0
+2022-03-18,Platelets,25,4,3,0,0
+2022-03-19,Cryoprecipitate,10,5,3,1,0
+2022-03-19,Fresh Frozen Plasma,16,5,3,1,0
+2022-03-19,Packed RBC,65,5,3,1,0
+2022-03-19,Platelets,23,5,3,1,0
+2022-03-20,Cryoprecipitate,8,6,3,1,0
+2022-03-20,Fresh Frozen Plasma,13,6,3,1,0
+2022-03-20,Packed RBC,77,6,3,1,0
+2022-03-20,Platelets,14,6,3,1,0
+2022-03-21,Cryoprecipitate,11,0,3,0,0
+2022-03-21,Fresh Frozen Plasma,22,0,3,0,0
+2022-03-21,Packed RBC,85,0,3,0,0
+2022-03-21,Platelets,28,0,3,0,0
+2022-03-22,Cryoprecipitate,14,1,3,0,0
+2022-03-22,Fresh Frozen Plasma,30,1,3,0,0
+2022-03-22,Packed RBC,70,1,3,0,0
+2022-03-22,Platelets,32,1,3,0,0
+2022-03-23,Cryoprecipitate,13,2,3,0,0
+2022-03-23,Fresh Frozen Plasma,26,2,3,0,0
+2022-03-23,Packed RBC,68,2,3,0,0
+2022-03-23,Platelets,34,2,3,0,0
+2022-03-24,Cryoprecipitate,15,3,3,0,0
+2022-03-24,Fresh Frozen Plasma,24,3,3,0,0
+2022-03-24,Packed RBC,75,3,3,0,0
+2022-03-24,Platelets,30,3,3,0,0
+2022-03-25,Cryoprecipitate,12,4,3,0,0
+2022-03-25,Fresh Frozen Plasma,21,4,3,0,0
+2022-03-25,Packed RBC,85,4,3,0,0
+2022-03-25,Platelets,24,4,3,0,0
+2022-03-26,Cryoprecipitate,10,5,3,1,0
+2022-03-26,Fresh Frozen Plasma,21,5,3,1,0
+2022-03-26,Packed RBC,60,5,3,1,0
+2022-03-26,Platelets,22,5,3,1,0
+2022-03-27,Cryoprecipitate,13,6,3,1,0
+2022-03-27,Fresh Frozen Plasma,22,6,3,1,0
+2022-03-27,Packed RBC,64,6,3,1,0
+2022-03-27,Platelets,19,6,3,1,0
+2022-03-28,Cryoprecipitate,12,0,3,0,0
+2022-03-28,Fresh Frozen Plasma,28,0,3,0,0
+2022-03-28,Packed RBC,65,0,3,0,0
+2022-03-28,Platelets,30,0,3,0,0
+2022-03-29,Cryoprecipitate,14,1,3,0,0
+2022-03-29,Fresh Frozen Plasma,27,1,3,0,0
+2022-03-29,Packed RBC,103,1,3,0,0
+2022-03-29,Platelets,28,1,3,0,0
+2022-03-30,Cryoprecipitate,10,2,3,0,0
+2022-03-30,Fresh Frozen Plasma,30,2,3,0,0
+2022-03-30,Packed RBC,54,2,3,0,0
+2022-03-30,Platelets,30,2,3,0,0
+2022-03-31,Cryoprecipitate,12,3,3,0,0
+2022-03-31,Fresh Frozen Plasma,25,3,3,0,0
+2022-03-31,Packed RBC,89,3,3,0,0
+2022-03-31,Platelets,31,3,3,0,0
+2022-04-01,Cryoprecipitate,10,4,4,0,0
+2022-04-01,Fresh Frozen Plasma,59,4,4,0,0
+2022-04-01,Packed RBC,87,4,4,0,0
+2022-04-01,Platelets,28,4,4,0,0
+2022-04-02,Cryoprecipitate,9,5,4,1,0
+2022-04-02,Fresh Frozen Plasma,22,5,4,1,0
+2022-04-02,Packed RBC,64,5,4,1,0
+2022-04-02,Platelets,24,5,4,1,0
+2022-04-03,Cryoprecipitate,11,6,4,1,0
+2022-04-03,Fresh Frozen Plasma,20,6,4,1,0
+2022-04-03,Packed RBC,54,6,4,1,0
+2022-04-03,Platelets,25,6,4,1,0
+2022-04-04,Cryoprecipitate,10,0,4,0,0
+2022-04-04,Fresh Frozen Plasma,23,0,4,0,0
+2022-04-04,Packed RBC,90,0,4,0,0
+2022-04-04,Platelets,30,0,4,0,0
+2022-04-05,Cryoprecipitate,11,1,4,0,0
+2022-04-05,Fresh Frozen Plasma,28,1,4,0,0
+2022-04-05,Packed RBC,77,1,4,0,0
+2022-04-05,Platelets,35,1,4,0,0
+2022-04-06,Cryoprecipitate,10,2,4,0,0
+2022-04-06,Fresh Frozen Plasma,25,2,4,0,0
+2022-04-06,Packed RBC,89,2,4,0,0
+2022-04-06,Platelets,29,2,4,0,0
+2022-04-07,Cryoprecipitate,21,3,4,0,0
+2022-04-07,Fresh Frozen Plasma,28,3,4,0,0
+2022-04-07,Packed RBC,77,3,4,0,0
+2022-04-07,Platelets,29,3,4,0,0
+2022-04-08,Cryoprecipitate,12,4,4,0,0
+2022-04-08,Fresh Frozen Plasma,22,4,4,0,0
+2022-04-08,Packed RBC,87,4,4,0,0
+2022-04-08,Platelets,30,4,4,0,0
+2022-04-09,Cryoprecipitate,14,5,4,1,0
+2022-04-09,Fresh Frozen Plasma,20,5,4,1,0
+2022-04-09,Packed RBC,58,5,4,1,0
+2022-04-09,Platelets,26,5,4,1,0
+2022-04-10,Cryoprecipitate,10,6,4,1,0
+2022-04-10,Fresh Frozen Plasma,18,6,4,1,0
+2022-04-10,Packed RBC,50,6,4,1,0
+2022-04-10,Platelets,23,6,4,1,0
+2022-04-11,Cryoprecipitate,14,0,4,0,0
+2022-04-11,Fresh Frozen Plasma,24,0,4,0,0
+2022-04-11,Packed RBC,75,0,4,0,0
+2022-04-11,Platelets,34,0,4,0,0
+2022-04-12,Cryoprecipitate,11,1,4,0,0
+2022-04-12,Fresh Frozen Plasma,26,1,4,0,0
+2022-04-12,Packed RBC,90,1,4,0,0
+2022-04-12,Platelets,27,1,4,0,0
+2022-04-13,Cryoprecipitate,13,2,4,0,0
+2022-04-13,Fresh Frozen Plasma,24,2,4,0,0
+2022-04-13,Packed RBC,89,2,4,0,0
+2022-04-13,Platelets,29,2,4,0,0
+2022-04-14,Cryoprecipitate,11,3,4,0,0
+2022-04-14,Fresh Frozen Plasma,32,3,4,0,0
+2022-04-14,Packed RBC,82,3,4,0,0
+2022-04-14,Platelets,18,3,4,0,0
+2022-04-15,Cryoprecipitate,13,4,4,0,0
+2022-04-15,Fresh Frozen Plasma,26,4,4,0,0
+2022-04-15,Packed RBC,69,4,4,0,0
+2022-04-15,Platelets,32,4,4,0,0
+2022-04-16,Cryoprecipitate,8,5,4,1,0
+2022-04-16,Fresh Frozen Plasma,16,5,4,1,0
+2022-04-16,Packed RBC,66,5,4,1,0
+2022-04-16,Platelets,28,5,4,1,0
+2022-04-17,Cryoprecipitate,12,6,4,1,0
+2022-04-17,Fresh Frozen Plasma,19,6,4,1,0
+2022-04-17,Packed RBC,68,6,4,1,0
+2022-04-17,Platelets,16,6,4,1,0
+2022-04-18,Cryoprecipitate,10,0,4,0,0
+2022-04-18,Fresh Frozen Plasma,19,0,4,0,0
+2022-04-18,Packed RBC,74,0,4,0,0
+2022-04-18,Platelets,28,0,4,0,0
+2022-04-19,Cryoprecipitate,12,1,4,0,0
+2022-04-19,Fresh Frozen Plasma,27,1,4,0,0
+2022-04-19,Packed RBC,73,1,4,0,0
+2022-04-19,Platelets,26,1,4,0,0
+2022-04-20,Cryoprecipitate,14,2,4,0,0
+2022-04-20,Fresh Frozen Plasma,16,2,4,0,0
+2022-04-20,Packed RBC,87,2,4,0,0
+2022-04-20,Platelets,25,2,4,0,0
+2022-04-21,Cryoprecipitate,12,3,4,0,0
+2022-04-21,Fresh Frozen Plasma,27,3,4,0,0
+2022-04-21,Packed RBC,91,3,4,0,0
+2022-04-21,Platelets,26,3,4,0,0
+2022-04-22,Cryoprecipitate,15,4,4,0,0
+2022-04-22,Fresh Frozen Plasma,21,4,4,0,0
+2022-04-22,Packed RBC,67,4,4,0,0
+2022-04-22,Platelets,25,4,4,0,0
+2022-04-23,Cryoprecipitate,11,5,4,1,0
+2022-04-23,Fresh Frozen Plasma,17,5,4,1,0
+2022-04-23,Packed RBC,54,5,4,1,0
+2022-04-23,Platelets,20,5,4,1,0
+2022-04-24,Cryoprecipitate,9,6,4,1,0
+2022-04-24,Fresh Frozen Plasma,19,6,4,1,0
+2022-04-24,Packed RBC,53,6,4,1,0
+2022-04-24,Platelets,21,6,4,1,0
+2022-04-25,Cryoprecipitate,11,0,4,0,0
+2022-04-25,Fresh Frozen Plasma,23,0,4,0,0
+2022-04-25,Packed RBC,87,0,4,0,0
+2022-04-25,Platelets,32,0,4,0,0
+2022-04-26,Cryoprecipitate,13,1,4,0,0
+2022-04-26,Fresh Frozen Plasma,27,1,4,0,0
+2022-04-26,Packed RBC,56,1,4,0,0
+2022-04-26,Platelets,25,1,4,0,0
+2022-04-27,Cryoprecipitate,11,2,4,0,0
+2022-04-27,Fresh Frozen Plasma,27,2,4,0,0
+2022-04-27,Packed RBC,67,2,4,0,0
+2022-04-27,Platelets,20,2,4,0,0
+2022-04-28,Cryoprecipitate,10,3,4,0,0
+2022-04-28,Fresh Frozen Plasma,24,3,4,0,0
+2022-04-28,Packed RBC,82,3,4,0,0
+2022-04-28,Platelets,26,3,4,0,0
+2022-04-29,Cryoprecipitate,14,4,4,0,0
+2022-04-29,Fresh Frozen Plasma,20,4,4,0,0
+2022-04-29,Packed RBC,64,4,4,0,0
+2022-04-29,Platelets,29,4,4,0,0
+2022-04-30,Cryoprecipitate,13,5,4,1,0
+2022-04-30,Fresh Frozen Plasma,18,5,4,1,0
+2022-04-30,Packed RBC,58,5,4,1,0
+2022-04-30,Platelets,26,5,4,1,0
+2022-05-01,Cryoprecipitate,9,6,5,1,0
+2022-05-01,Fresh Frozen Plasma,18,6,5,1,0
+2022-05-01,Packed RBC,55,6,5,1,0
+2022-05-01,Platelets,25,6,5,1,0
+2022-05-02,Cryoprecipitate,17,0,5,0,0
+2022-05-02,Fresh Frozen Plasma,21,0,5,0,0
+2022-05-02,Packed RBC,65,0,5,0,0
+2022-05-02,Platelets,30,0,5,0,0
+2022-05-03,Cryoprecipitate,16,1,5,0,0
+2022-05-03,Fresh Frozen Plasma,25,1,5,0,0
+2022-05-03,Packed RBC,91,1,5,0,0
+2022-05-03,Platelets,26,1,5,0,0
+2022-05-04,Cryoprecipitate,14,2,5,0,0
+2022-05-04,Fresh Frozen Plasma,31,2,5,0,0
+2022-05-04,Packed RBC,66,2,5,0,0
+2022-05-04,Platelets,32,2,5,0,0
+2022-05-05,Cryoprecipitate,10,3,5,0,0
+2022-05-05,Fresh Frozen Plasma,24,3,5,0,0
+2022-05-05,Packed RBC,83,3,5,0,0
+2022-05-05,Platelets,33,3,5,0,0
+2022-05-06,Cryoprecipitate,11,4,5,0,0
+2022-05-06,Fresh Frozen Plasma,29,4,5,0,0
+2022-05-06,Packed RBC,88,4,5,0,0
+2022-05-06,Platelets,35,4,5,0,0
+2022-05-07,Cryoprecipitate,9,5,5,1,0
+2022-05-07,Fresh Frozen Plasma,20,5,5,1,0
+2022-05-07,Packed RBC,50,5,5,1,0
+2022-05-07,Platelets,18,5,5,1,0
+2022-05-08,Cryoprecipitate,14,6,5,1,0
+2022-05-08,Fresh Frozen Plasma,20,6,5,1,0
+2022-05-08,Packed RBC,65,6,5,1,0
+2022-05-08,Platelets,21,6,5,1,0
+2022-05-09,Cryoprecipitate,11,0,5,0,0
+2022-05-09,Fresh Frozen Plasma,22,0,5,0,0
+2022-05-09,Packed RBC,55,0,5,0,0
+2022-05-09,Platelets,35,0,5,0,0
+2022-05-10,Cryoprecipitate,12,1,5,0,0
+2022-05-10,Fresh Frozen Plasma,29,1,5,0,0
+2022-05-10,Packed RBC,93,1,5,0,0
+2022-05-10,Platelets,23,1,5,0,0
+2022-05-11,Cryoprecipitate,11,2,5,0,0
+2022-05-11,Fresh Frozen Plasma,22,2,5,0,0
+2022-05-11,Packed RBC,86,2,5,0,0
+2022-05-11,Platelets,28,2,5,0,0
+2022-05-12,Cryoprecipitate,16,3,5,0,0
+2022-05-12,Fresh Frozen Plasma,22,3,5,0,0
+2022-05-12,Packed RBC,87,3,5,0,0
+2022-05-12,Platelets,33,3,5,0,0
+2022-05-13,Cryoprecipitate,14,4,5,0,0
+2022-05-13,Fresh Frozen Plasma,23,4,5,0,0
+2022-05-13,Packed RBC,75,4,5,0,0
+2022-05-13,Platelets,31,4,5,0,0
+2022-05-14,Cryoprecipitate,10,5,5,1,0
+2022-05-14,Fresh Frozen Plasma,20,5,5,1,0
+2022-05-14,Packed RBC,61,5,5,1,0
+2022-05-14,Platelets,19,5,5,1,0
+2022-05-15,Cryoprecipitate,9,6,5,1,0
+2022-05-15,Fresh Frozen Plasma,20,6,5,1,0
+2022-05-15,Packed RBC,50,6,5,1,0
+2022-05-15,Platelets,23,6,5,1,0
+2022-05-16,Cryoprecipitate,17,0,5,0,0
+2022-05-16,Fresh Frozen Plasma,20,0,5,0,0
+2022-05-16,Packed RBC,77,0,5,0,0
+2022-05-16,Platelets,34,0,5,0,0
+2022-05-17,Cryoprecipitate,14,1,5,0,0
+2022-05-17,Fresh Frozen Plasma,20,1,5,0,0
+2022-05-17,Packed RBC,79,1,5,0,0
+2022-05-17,Platelets,32,1,5,0,0
+2022-05-18,Cryoprecipitate,15,2,5,0,0
+2022-05-18,Fresh Frozen Plasma,21,2,5,0,0
+2022-05-18,Packed RBC,83,2,5,0,0
+2022-05-18,Platelets,24,2,5,0,0
+2022-05-19,Cryoprecipitate,14,3,5,0,0
+2022-05-19,Fresh Frozen Plasma,19,3,5,0,0
+2022-05-19,Packed RBC,76,3,5,0,0
+2022-05-19,Platelets,38,3,5,0,0
+2022-05-20,Cryoprecipitate,12,4,5,0,0
+2022-05-20,Fresh Frozen Plasma,28,4,5,0,0
+2022-05-20,Packed RBC,81,4,5,0,0
+2022-05-20,Platelets,31,4,5,0,0
+2022-05-21,Cryoprecipitate,9,5,5,1,0
+2022-05-21,Fresh Frozen Plasma,20,5,5,1,0
+2022-05-21,Packed RBC,108,5,5,1,0
+2022-05-21,Platelets,18,5,5,1,0
+2022-05-22,Cryoprecipitate,8,6,5,1,0
+2022-05-22,Fresh Frozen Plasma,21,6,5,1,0
+2022-05-22,Packed RBC,66,6,5,1,0
+2022-05-22,Platelets,22,6,5,1,0
+2022-05-23,Cryoprecipitate,9,0,5,0,0
+2022-05-23,Fresh Frozen Plasma,24,0,5,0,0
+2022-05-23,Packed RBC,91,0,5,0,0
+2022-05-23,Platelets,33,0,5,0,0
+2022-05-24,Cryoprecipitate,13,1,5,0,0
+2022-05-24,Fresh Frozen Plasma,29,1,5,0,0
+2022-05-24,Packed RBC,90,1,5,0,0
+2022-05-24,Platelets,32,1,5,0,0
+2022-05-25,Cryoprecipitate,10,2,5,0,0
+2022-05-25,Fresh Frozen Plasma,24,2,5,0,0
+2022-05-25,Packed RBC,75,2,5,0,0
+2022-05-25,Platelets,27,2,5,0,0
+2022-05-26,Cryoprecipitate,21,3,5,0,0
+2022-05-26,Fresh Frozen Plasma,25,3,5,0,0
+2022-05-26,Packed RBC,83,3,5,0,0
+2022-05-26,Platelets,35,3,5,0,0
+2022-05-27,Cryoprecipitate,13,4,5,0,0
+2022-05-27,Fresh Frozen Plasma,24,4,5,0,0
+2022-05-27,Packed RBC,70,4,5,0,0
+2022-05-27,Platelets,33,4,5,0,0
+2022-05-28,Cryoprecipitate,8,5,5,1,0
+2022-05-28,Fresh Frozen Plasma,14,5,5,1,0
+2022-05-28,Packed RBC,63,5,5,1,0
+2022-05-28,Platelets,24,5,5,1,0
+2022-05-29,Cryoprecipitate,10,6,5,1,0
+2022-05-29,Fresh Frozen Plasma,26,6,5,1,0
+2022-05-29,Packed RBC,51,6,5,1,0
+2022-05-29,Platelets,25,6,5,1,0
+2022-05-30,Cryoprecipitate,9,0,5,0,0
+2022-05-30,Fresh Frozen Plasma,26,0,5,0,0
+2022-05-30,Packed RBC,51,0,5,0,0
+2022-05-30,Platelets,27,0,5,0,0
+2022-05-31,Cryoprecipitate,11,1,5,0,0
+2022-05-31,Fresh Frozen Plasma,20,1,5,0,0
+2022-05-31,Packed RBC,77,1,5,0,0
+2022-05-31,Platelets,34,1,5,0,0
+2022-06-01,Cryoprecipitate,14,2,6,0,0
+2022-06-01,Fresh Frozen Plasma,22,2,6,0,0
+2022-06-01,Packed RBC,91,2,6,0,0
+2022-06-01,Platelets,34,2,6,0,0
+2022-06-02,Cryoprecipitate,17,3,6,0,0
+2022-06-02,Fresh Frozen Plasma,32,3,6,0,0
+2022-06-02,Packed RBC,79,3,6,0,0
+2022-06-02,Platelets,31,3,6,0,0
+2022-06-03,Cryoprecipitate,13,4,6,0,0
+2022-06-03,Fresh Frozen Plasma,20,4,6,0,0
+2022-06-03,Packed RBC,79,4,6,0,0
+2022-06-03,Platelets,29,4,6,0,0
+2022-06-04,Cryoprecipitate,10,5,6,1,0
+2022-06-04,Fresh Frozen Plasma,21,5,6,1,0
+2022-06-04,Packed RBC,72,5,6,1,0
+2022-06-04,Platelets,25,5,6,1,0
+2022-06-05,Cryoprecipitate,8,6,6,1,0
+2022-06-05,Fresh Frozen Plasma,19,6,6,1,0
+2022-06-05,Packed RBC,62,6,6,1,0
+2022-06-05,Platelets,27,6,6,1,0
+2022-06-06,Cryoprecipitate,13,0,6,0,0
+2022-06-06,Fresh Frozen Plasma,28,0,6,0,0
+2022-06-06,Packed RBC,73,0,6,0,0
+2022-06-06,Platelets,38,0,6,0,0
+2022-06-07,Cryoprecipitate,11,1,6,0,0
+2022-06-07,Fresh Frozen Plasma,38,1,6,0,0
+2022-06-07,Packed RBC,82,1,6,0,0
+2022-06-07,Platelets,32,1,6,0,0
+2022-06-08,Cryoprecipitate,14,2,6,0,0
+2022-06-08,Fresh Frozen Plasma,22,2,6,0,0
+2022-06-08,Packed RBC,84,2,6,0,0
+2022-06-08,Platelets,37,2,6,0,0
+2022-06-09,Cryoprecipitate,12,3,6,0,0
+2022-06-09,Fresh Frozen Plasma,23,3,6,0,0
+2022-06-09,Packed RBC,60,3,6,0,0
+2022-06-09,Platelets,32,3,6,0,0
+2022-06-10,Cryoprecipitate,13,4,6,0,0
+2022-06-10,Fresh Frozen Plasma,29,4,6,0,0
+2022-06-10,Packed RBC,81,4,6,0,0
+2022-06-10,Platelets,40,4,6,0,0
+2022-06-11,Cryoprecipitate,9,5,6,1,0
+2022-06-11,Fresh Frozen Plasma,22,5,6,1,0
+2022-06-11,Packed RBC,58,5,6,1,0
+2022-06-11,Platelets,26,5,6,1,0
+2022-06-12,Cryoprecipitate,11,6,6,1,0
+2022-06-12,Fresh Frozen Plasma,20,6,6,1,0
+2022-06-12,Packed RBC,66,6,6,1,0
+2022-06-12,Platelets,17,6,6,1,0
+2022-06-13,Cryoprecipitate,16,0,6,0,0
+2022-06-13,Fresh Frozen Plasma,26,0,6,0,0
+2022-06-13,Packed RBC,87,0,6,0,0
+2022-06-13,Platelets,31,0,6,0,0
+2022-06-14,Cryoprecipitate,8,1,6,0,0
+2022-06-14,Fresh Frozen Plasma,24,1,6,0,0
+2022-06-14,Packed RBC,78,1,6,0,0
+2022-06-14,Platelets,30,1,6,0,0
+2022-06-15,Cryoprecipitate,11,2,6,0,0
+2022-06-15,Fresh Frozen Plasma,32,2,6,0,0
+2022-06-15,Packed RBC,109,2,6,0,0
+2022-06-15,Platelets,29,2,6,0,0
+2022-06-16,Cryoprecipitate,13,3,6,0,0
+2022-06-16,Fresh Frozen Plasma,20,3,6,0,0
+2022-06-16,Packed RBC,81,3,6,0,0
+2022-06-16,Platelets,41,3,6,0,0
+2022-06-17,Cryoprecipitate,11,4,6,0,0
+2022-06-17,Fresh Frozen Plasma,23,4,6,0,0
+2022-06-17,Packed RBC,102,4,6,0,0
+2022-06-17,Platelets,38,4,6,0,0
+2022-06-18,Cryoprecipitate,11,5,6,1,0
+2022-06-18,Fresh Frozen Plasma,19,5,6,1,0
+2022-06-18,Packed RBC,58,5,6,1,0
+2022-06-18,Platelets,25,5,6,1,0
+2022-06-19,Cryoprecipitate,13,6,6,1,0
+2022-06-19,Fresh Frozen Plasma,20,6,6,1,0
+2022-06-19,Packed RBC,59,6,6,1,0
+2022-06-19,Platelets,24,6,6,1,0
+2022-06-20,Cryoprecipitate,14,0,6,0,0
+2022-06-20,Fresh Frozen Plasma,41,0,6,0,0
+2022-06-20,Packed RBC,89,0,6,0,0
+2022-06-20,Platelets,39,0,6,0,0
+2022-06-21,Cryoprecipitate,17,1,6,0,0
+2022-06-21,Fresh Frozen Plasma,27,1,6,0,0
+2022-06-21,Packed RBC,54,1,6,0,0
+2022-06-21,Platelets,41,1,6,0,0
+2022-06-22,Cryoprecipitate,14,2,6,0,0
+2022-06-22,Fresh Frozen Plasma,25,2,6,0,0
+2022-06-22,Packed RBC,98,2,6,0,0
+2022-06-22,Platelets,35,2,6,0,0
+2022-06-23,Cryoprecipitate,10,3,6,0,0
+2022-06-23,Fresh Frozen Plasma,27,3,6,0,0
+2022-06-23,Packed RBC,92,3,6,0,0
+2022-06-23,Platelets,25,3,6,0,0
+2022-06-24,Cryoprecipitate,11,4,6,0,0
+2022-06-24,Fresh Frozen Plasma,24,4,6,0,0
+2022-06-24,Packed RBC,95,4,6,0,0
+2022-06-24,Platelets,31,4,6,0,0
+2022-06-25,Cryoprecipitate,12,5,6,1,0
+2022-06-25,Fresh Frozen Plasma,19,5,6,1,0
+2022-06-25,Packed RBC,57,5,6,1,0
+2022-06-25,Platelets,24,5,6,1,0
+2022-06-26,Cryoprecipitate,10,6,6,1,0
+2022-06-26,Fresh Frozen Plasma,20,6,6,1,0
+2022-06-26,Packed RBC,61,6,6,1,0
+2022-06-26,Platelets,20,6,6,1,0
+2022-06-27,Cryoprecipitate,13,0,6,0,0
+2022-06-27,Fresh Frozen Plasma,29,0,6,0,0
+2022-06-27,Packed RBC,104,0,6,0,0
+2022-06-27,Platelets,26,0,6,0,0
+2022-06-28,Cryoprecipitate,18,1,6,0,0
+2022-06-28,Fresh Frozen Plasma,19,1,6,0,0
+2022-06-28,Packed RBC,76,1,6,0,0
+2022-06-28,Platelets,23,1,6,0,0
+2022-06-29,Cryoprecipitate,14,2,6,0,0
+2022-06-29,Fresh Frozen Plasma,27,2,6,0,0
+2022-06-29,Packed RBC,84,2,6,0,0
+2022-06-29,Platelets,37,2,6,0,0
+2022-06-30,Cryoprecipitate,12,3,6,0,0
+2022-06-30,Fresh Frozen Plasma,27,3,6,0,0
+2022-06-30,Packed RBC,96,3,6,0,0
+2022-06-30,Platelets,35,3,6,0,0
+2022-07-01,Cryoprecipitate,13,4,7,0,0
+2022-07-01,Fresh Frozen Plasma,26,4,7,0,0
+2022-07-01,Packed RBC,85,4,7,0,0
+2022-07-01,Platelets,24,4,7,0,0
+2022-07-02,Cryoprecipitate,9,5,7,1,0
+2022-07-02,Fresh Frozen Plasma,22,5,7,1,0
+2022-07-02,Packed RBC,71,5,7,1,0
+2022-07-02,Platelets,28,5,7,1,0
+2022-07-03,Cryoprecipitate,12,6,7,1,0
+2022-07-03,Fresh Frozen Plasma,17,6,7,1,0
+2022-07-03,Packed RBC,60,6,7,1,0
+2022-07-03,Platelets,28,6,7,1,0
+2022-07-04,Cryoprecipitate,11,0,7,0,0
+2022-07-04,Fresh Frozen Plasma,21,0,7,0,0
+2022-07-04,Packed RBC,80,0,7,0,0
+2022-07-04,Platelets,32,0,7,0,0
+2022-07-05,Cryoprecipitate,12,1,7,0,0
+2022-07-05,Fresh Frozen Plasma,32,1,7,0,0
+2022-07-05,Packed RBC,91,1,7,0,0
+2022-07-05,Platelets,37,1,7,0,0
+2022-07-06,Cryoprecipitate,14,2,7,0,0
+2022-07-06,Fresh Frozen Plasma,20,2,7,0,0
+2022-07-06,Packed RBC,87,2,7,0,0
+2022-07-06,Platelets,25,2,7,0,0
+2022-07-07,Cryoprecipitate,11,3,7,0,0
+2022-07-07,Fresh Frozen Plasma,26,3,7,0,0
+2022-07-07,Packed RBC,109,3,7,0,0
+2022-07-07,Platelets,33,3,7,0,0
+2022-07-08,Cryoprecipitate,12,4,7,0,0
+2022-07-08,Fresh Frozen Plasma,25,4,7,0,0
+2022-07-08,Packed RBC,91,4,7,0,0
+2022-07-08,Platelets,28,4,7,0,0
+2022-07-09,Cryoprecipitate,8,5,7,1,0
+2022-07-09,Fresh Frozen Plasma,18,5,7,1,0
+2022-07-09,Packed RBC,72,5,7,1,0
+2022-07-09,Platelets,23,5,7,1,0
+2022-07-10,Cryoprecipitate,9,6,7,1,0
+2022-07-10,Fresh Frozen Plasma,19,6,7,1,0
+2022-07-10,Packed RBC,66,6,7,1,0
+2022-07-10,Platelets,22,6,7,1,0
+2022-07-11,Cryoprecipitate,18,0,7,0,0
+2022-07-11,Fresh Frozen Plasma,29,0,7,0,0
+2022-07-11,Packed RBC,82,0,7,0,0
+2022-07-11,Platelets,40,0,7,0,0
+2022-07-12,Cryoprecipitate,13,1,7,0,0
+2022-07-12,Fresh Frozen Plasma,28,1,7,0,0
+2022-07-12,Packed RBC,96,1,7,0,0
+2022-07-12,Platelets,30,1,7,0,0
+2022-07-13,Cryoprecipitate,9,2,7,0,0
+2022-07-13,Fresh Frozen Plasma,22,2,7,0,0
+2022-07-13,Packed RBC,80,2,7,0,0
+2022-07-13,Platelets,37,2,7,0,0
+2022-07-14,Cryoprecipitate,13,3,7,0,0
+2022-07-14,Fresh Frozen Plasma,27,3,7,0,0
+2022-07-14,Packed RBC,76,3,7,0,0
+2022-07-14,Platelets,43,3,7,0,0
+2022-07-15,Cryoprecipitate,10,4,7,0,0
+2022-07-15,Fresh Frozen Plasma,28,4,7,0,0
+2022-07-15,Packed RBC,87,4,7,0,0
+2022-07-15,Platelets,33,4,7,0,0
+2022-07-16,Cryoprecipitate,8,5,7,1,0
+2022-07-16,Fresh Frozen Plasma,20,5,7,1,0
+2022-07-16,Packed RBC,81,5,7,1,0
+2022-07-16,Platelets,25,5,7,1,0
+2022-07-17,Cryoprecipitate,12,6,7,1,0
+2022-07-17,Fresh Frozen Plasma,16,6,7,1,0
+2022-07-17,Packed RBC,50,6,7,1,0
+2022-07-17,Platelets,25,6,7,1,0
+2022-07-18,Cryoprecipitate,12,0,7,0,0
+2022-07-18,Fresh Frozen Plasma,19,0,7,0,0
+2022-07-18,Packed RBC,75,0,7,0,0
+2022-07-18,Platelets,36,0,7,0,0
+2022-07-19,Cryoprecipitate,13,1,7,0,0
+2022-07-19,Fresh Frozen Plasma,18,1,7,0,0
+2022-07-19,Packed RBC,90,1,7,0,0
+2022-07-19,Platelets,29,1,7,0,0
+2022-07-20,Cryoprecipitate,10,2,7,0,0
+2022-07-20,Fresh Frozen Plasma,29,2,7,0,0
+2022-07-20,Packed RBC,151,2,7,0,0
+2022-07-20,Platelets,35,2,7,0,0
+2022-07-21,Cryoprecipitate,10,3,7,0,0
+2022-07-21,Fresh Frozen Plasma,17,3,7,0,0
+2022-07-21,Packed RBC,88,3,7,0,0
+2022-07-21,Platelets,26,3,7,0,0
+2022-07-22,Cryoprecipitate,14,4,7,0,0
+2022-07-22,Fresh Frozen Plasma,33,4,7,0,0
+2022-07-22,Packed RBC,87,4,7,0,0
+2022-07-22,Platelets,24,4,7,0,0
+2022-07-23,Cryoprecipitate,11,5,7,1,0
+2022-07-23,Fresh Frozen Plasma,18,5,7,1,0
+2022-07-23,Packed RBC,49,5,7,1,0
+2022-07-23,Platelets,29,5,7,1,0
+2022-07-24,Cryoprecipitate,9,6,7,1,0
+2022-07-24,Fresh Frozen Plasma,16,6,7,1,0
+2022-07-24,Packed RBC,61,6,7,1,0
+2022-07-24,Platelets,21,6,7,1,0
+2022-07-25,Cryoprecipitate,14,0,7,0,0
+2022-07-25,Fresh Frozen Plasma,23,0,7,0,0
+2022-07-25,Packed RBC,102,0,7,0,0
+2022-07-25,Platelets,37,0,7,0,0
+2022-07-26,Cryoprecipitate,11,1,7,0,0
+2022-07-26,Fresh Frozen Plasma,25,1,7,0,0
+2022-07-26,Packed RBC,79,1,7,0,0
+2022-07-26,Platelets,34,1,7,0,0
+2022-07-27,Cryoprecipitate,12,2,7,0,0
+2022-07-27,Fresh Frozen Plasma,24,2,7,0,0
+2022-07-27,Packed RBC,64,2,7,0,0
+2022-07-27,Platelets,37,2,7,0,0
+2022-07-28,Cryoprecipitate,16,3,7,0,0
+2022-07-28,Fresh Frozen Plasma,30,3,7,0,0
+2022-07-28,Packed RBC,72,3,7,0,0
+2022-07-28,Platelets,31,3,7,0,0
+2022-07-29,Cryoprecipitate,13,4,7,0,0
+2022-07-29,Fresh Frozen Plasma,29,4,7,0,0
+2022-07-29,Packed RBC,83,4,7,0,0
+2022-07-29,Platelets,28,4,7,0,0
+2022-07-30,Cryoprecipitate,11,5,7,1,0
+2022-07-30,Fresh Frozen Plasma,16,5,7,1,0
+2022-07-30,Packed RBC,66,5,7,1,0
+2022-07-30,Platelets,19,5,7,1,0
+2022-07-31,Cryoprecipitate,10,6,7,1,0
+2022-07-31,Fresh Frozen Plasma,26,6,7,1,0
+2022-07-31,Packed RBC,59,6,7,1,0
+2022-07-31,Platelets,39,6,7,1,0
+2022-08-01,Cryoprecipitate,13,0,8,0,0
+2022-08-01,Fresh Frozen Plasma,30,0,8,0,0
+2022-08-01,Packed RBC,91,0,8,0,0
+2022-08-01,Platelets,32,0,8,0,0
+2022-08-02,Cryoprecipitate,12,1,8,0,0
+2022-08-02,Fresh Frozen Plasma,25,1,8,0,0
+2022-08-02,Packed RBC,69,1,8,0,0
+2022-08-02,Platelets,33,1,8,0,0
+2022-08-03,Cryoprecipitate,12,2,8,0,0
+2022-08-03,Fresh Frozen Plasma,70,2,8,0,0
+2022-08-03,Packed RBC,86,2,8,0,0
+2022-08-03,Platelets,37,2,8,0,0
+2022-08-04,Cryoprecipitate,10,3,8,0,0
+2022-08-04,Fresh Frozen Plasma,33,3,8,0,0
+2022-08-04,Packed RBC,113,3,8,0,0
+2022-08-04,Platelets,37,3,8,0,0
+2022-08-05,Cryoprecipitate,14,4,8,0,0
+2022-08-05,Fresh Frozen Plasma,35,4,8,0,0
+2022-08-05,Packed RBC,110,4,8,0,0
+2022-08-05,Platelets,35,4,8,0,0
+2022-08-06,Cryoprecipitate,9,5,8,1,0
+2022-08-06,Fresh Frozen Plasma,23,5,8,1,0
+2022-08-06,Packed RBC,78,5,8,1,0
+2022-08-06,Platelets,22,5,8,1,0
+2022-08-07,Cryoprecipitate,9,6,8,1,0
+2022-08-07,Fresh Frozen Plasma,19,6,8,1,0
+2022-08-07,Packed RBC,54,6,8,1,0
+2022-08-07,Platelets,18,6,8,1,0
+2022-08-08,Cryoprecipitate,14,0,8,0,0
+2022-08-08,Fresh Frozen Plasma,28,0,8,0,0
+2022-08-08,Packed RBC,92,0,8,0,0
+2022-08-08,Platelets,33,0,8,0,0
+2022-08-09,Cryoprecipitate,16,1,8,0,0
+2022-08-09,Fresh Frozen Plasma,23,1,8,0,0
+2022-08-09,Packed RBC,110,1,8,0,0
+2022-08-09,Platelets,32,1,8,0,0
+2022-08-10,Cryoprecipitate,13,2,8,0,0
+2022-08-10,Fresh Frozen Plasma,22,2,8,0,0
+2022-08-10,Packed RBC,73,2,8,0,0
+2022-08-10,Platelets,30,2,8,0,0
+2022-08-11,Cryoprecipitate,14,3,8,0,0
+2022-08-11,Fresh Frozen Plasma,35,3,8,0,0
+2022-08-11,Packed RBC,66,3,8,0,0
+2022-08-11,Platelets,32,3,8,0,0
+2022-08-12,Cryoprecipitate,12,4,8,0,0
+2022-08-12,Fresh Frozen Plasma,29,4,8,0,0
+2022-08-12,Packed RBC,153,4,8,0,0
+2022-08-12,Platelets,35,4,8,0,0
+2022-08-13,Cryoprecipitate,14,5,8,1,0
+2022-08-13,Fresh Frozen Plasma,19,5,8,1,0
+2022-08-13,Packed RBC,68,5,8,1,0
+2022-08-13,Platelets,30,5,8,1,0
+2022-08-14,Cryoprecipitate,10,6,8,1,0
+2022-08-14,Fresh Frozen Plasma,39,6,8,1,0
+2022-08-14,Packed RBC,63,6,8,1,0
+2022-08-14,Platelets,28,6,8,1,0
+2022-08-15,Cryoprecipitate,15,0,8,0,0
+2022-08-15,Fresh Frozen Plasma,29,0,8,0,0
+2022-08-15,Packed RBC,103,0,8,0,0
+2022-08-15,Platelets,39,0,8,0,0
+2022-08-16,Cryoprecipitate,16,1,8,0,0
+2022-08-16,Fresh Frozen Plasma,35,1,8,0,0
+2022-08-16,Packed RBC,88,1,8,0,0
+2022-08-16,Platelets,36,1,8,0,0
+2022-08-17,Cryoprecipitate,15,2,8,0,0
+2022-08-17,Fresh Frozen Plasma,30,2,8,0,0
+2022-08-17,Packed RBC,93,2,8,0,0
+2022-08-17,Platelets,27,2,8,0,0
+2022-08-18,Cryoprecipitate,15,3,8,0,0
+2022-08-18,Fresh Frozen Plasma,21,3,8,0,0
+2022-08-18,Packed RBC,80,3,8,0,0
+2022-08-18,Platelets,29,3,8,0,0
+2022-08-19,Cryoprecipitate,11,4,8,0,0
+2022-08-19,Fresh Frozen Plasma,27,4,8,0,0
+2022-08-19,Packed RBC,83,4,8,0,0
+2022-08-19,Platelets,32,4,8,0,0
+2022-08-20,Cryoprecipitate,11,5,8,1,0
+2022-08-20,Fresh Frozen Plasma,23,5,8,1,0
+2022-08-20,Packed RBC,64,5,8,1,0
+2022-08-20,Platelets,25,5,8,1,0
+2022-08-21,Cryoprecipitate,9,6,8,1,0
+2022-08-21,Fresh Frozen Plasma,23,6,8,1,0
+2022-08-21,Packed RBC,58,6,8,1,0
+2022-08-21,Platelets,25,6,8,1,0
+2022-08-22,Cryoprecipitate,13,0,8,0,0
+2022-08-22,Fresh Frozen Plasma,28,0,8,0,0
+2022-08-22,Packed RBC,100,0,8,0,0
+2022-08-22,Platelets,35,0,8,0,0
+2022-08-23,Cryoprecipitate,13,1,8,0,0
+2022-08-23,Fresh Frozen Plasma,26,1,8,0,0
+2022-08-23,Packed RBC,63,1,8,0,0
+2022-08-23,Platelets,29,1,8,0,0
+2022-08-24,Cryoprecipitate,14,2,8,0,0
+2022-08-24,Fresh Frozen Plasma,21,2,8,0,0
+2022-08-24,Packed RBC,76,2,8,0,0
+2022-08-24,Platelets,33,2,8,0,0
+2022-08-25,Cryoprecipitate,12,3,8,0,0
+2022-08-25,Fresh Frozen Plasma,27,3,8,0,0
+2022-08-25,Packed RBC,78,3,8,0,0
+2022-08-25,Platelets,26,3,8,0,0
+2022-08-26,Cryoprecipitate,12,4,8,0,0
+2022-08-26,Fresh Frozen Plasma,29,4,8,0,0
+2022-08-26,Packed RBC,98,4,8,0,0
+2022-08-26,Platelets,31,4,8,0,0
+2022-08-27,Cryoprecipitate,8,5,8,1,0
+2022-08-27,Fresh Frozen Plasma,22,5,8,1,0
+2022-08-27,Packed RBC,44,5,8,1,0
+2022-08-27,Platelets,19,5,8,1,0
+2022-08-28,Cryoprecipitate,11,6,8,1,0
+2022-08-28,Fresh Frozen Plasma,16,6,8,1,0
+2022-08-28,Packed RBC,70,6,8,1,0
+2022-08-28,Platelets,27,6,8,1,0
+2022-08-29,Cryoprecipitate,13,0,8,0,0
+2022-08-29,Fresh Frozen Plasma,23,0,8,0,0
+2022-08-29,Packed RBC,89,0,8,0,0
+2022-08-29,Platelets,32,0,8,0,0
+2022-08-30,Cryoprecipitate,10,1,8,0,0
+2022-08-30,Fresh Frozen Plasma,32,1,8,0,0
+2022-08-30,Packed RBC,88,1,8,0,0
+2022-08-30,Platelets,36,1,8,0,0
+2022-08-31,Cryoprecipitate,10,2,8,0,0
+2022-08-31,Fresh Frozen Plasma,34,2,8,0,0
+2022-08-31,Packed RBC,99,2,8,0,0
+2022-08-31,Platelets,57,2,8,0,0
+2022-09-01,Cryoprecipitate,13,3,9,0,0
+2022-09-01,Fresh Frozen Plasma,19,3,9,0,0
+2022-09-01,Packed RBC,89,3,9,0,0
+2022-09-01,Platelets,32,3,9,0,0
+2022-09-02,Cryoprecipitate,12,4,9,0,0
+2022-09-02,Fresh Frozen Plasma,28,4,9,0,0
+2022-09-02,Packed RBC,61,4,9,0,0
+2022-09-02,Platelets,39,4,9,0,0
+2022-09-03,Cryoprecipitate,10,5,9,1,0
+2022-09-03,Fresh Frozen Plasma,14,5,9,1,0
+2022-09-03,Packed RBC,57,5,9,1,0
+2022-09-03,Platelets,26,5,9,1,0
+2022-09-04,Cryoprecipitate,9,6,9,1,0
+2022-09-04,Fresh Frozen Plasma,17,6,9,1,0
+2022-09-04,Packed RBC,53,6,9,1,0
+2022-09-04,Platelets,21,6,9,1,0
+2022-09-05,Cryoprecipitate,9,0,9,0,0
+2022-09-05,Fresh Frozen Plasma,29,0,9,0,0
+2022-09-05,Packed RBC,83,0,9,0,0
+2022-09-05,Platelets,30,0,9,0,0
+2022-09-06,Cryoprecipitate,14,1,9,0,0
+2022-09-06,Fresh Frozen Plasma,22,1,9,0,0
+2022-09-06,Packed RBC,79,1,9,0,0
+2022-09-06,Platelets,27,1,9,0,0
+2022-09-07,Cryoprecipitate,16,2,9,0,0
+2022-09-07,Fresh Frozen Plasma,27,2,9,0,0
+2022-09-07,Packed RBC,87,2,9,0,0
+2022-09-07,Platelets,28,2,9,0,0
+2022-09-08,Cryoprecipitate,12,3,9,0,0
+2022-09-08,Fresh Frozen Plasma,24,3,9,0,0
+2022-09-08,Packed RBC,80,3,9,0,0
+2022-09-08,Platelets,23,3,9,0,0
+2022-09-09,Cryoprecipitate,13,4,9,0,0
+2022-09-09,Fresh Frozen Plasma,22,4,9,0,0
+2022-09-09,Packed RBC,179,4,9,0,0
+2022-09-09,Platelets,30,4,9,0,0
+2022-09-10,Cryoprecipitate,8,5,9,1,0
+2022-09-10,Fresh Frozen Plasma,16,5,9,1,0
+2022-09-10,Packed RBC,43,5,9,1,0
+2022-09-10,Platelets,23,5,9,1,0
+2022-09-11,Cryoprecipitate,11,6,9,1,0
+2022-09-11,Fresh Frozen Plasma,16,6,9,1,0
+2022-09-11,Packed RBC,58,6,9,1,0
+2022-09-11,Platelets,19,6,9,1,0
+2022-09-12,Cryoprecipitate,12,0,9,0,0
+2022-09-12,Fresh Frozen Plasma,27,0,9,0,0
+2022-09-12,Packed RBC,78,0,9,0,0
+2022-09-12,Platelets,32,0,9,0,0
+2022-09-13,Cryoprecipitate,14,1,9,0,0
+2022-09-13,Fresh Frozen Plasma,27,1,9,0,0
+2022-09-13,Packed RBC,95,1,9,0,0
+2022-09-13,Platelets,31,1,9,0,0
+2022-09-14,Cryoprecipitate,12,2,9,0,0
+2022-09-14,Fresh Frozen Plasma,28,2,9,0,0
+2022-09-14,Packed RBC,77,2,9,0,0
+2022-09-14,Platelets,27,2,9,0,0
+2022-09-15,Cryoprecipitate,12,3,9,0,0
+2022-09-15,Fresh Frozen Plasma,25,3,9,0,0
+2022-09-15,Packed RBC,75,3,9,0,0
+2022-09-15,Platelets,29,3,9,0,0
+2022-09-16,Cryoprecipitate,14,4,9,0,0
+2022-09-16,Fresh Frozen Plasma,23,4,9,0,0
+2022-09-16,Packed RBC,93,4,9,0,0
+2022-09-16,Platelets,24,4,9,0,0
+2022-09-17,Cryoprecipitate,11,5,9,1,0
+2022-09-17,Fresh Frozen Plasma,23,5,9,1,0
+2022-09-17,Packed RBC,43,5,9,1,0
+2022-09-17,Platelets,21,5,9,1,0
+2022-09-18,Cryoprecipitate,8,6,9,1,0
+2022-09-18,Fresh Frozen Plasma,20,6,9,1,0
+2022-09-18,Packed RBC,54,6,9,1,0
+2022-09-18,Platelets,20,6,9,1,0
+2022-09-19,Cryoprecipitate,10,0,9,0,0
+2022-09-19,Fresh Frozen Plasma,24,0,9,0,0
+2022-09-19,Packed RBC,82,0,9,0,0
+2022-09-19,Platelets,31,0,9,0,0
+2022-09-20,Cryoprecipitate,11,1,9,0,0
+2022-09-20,Fresh Frozen Plasma,24,1,9,0,0
+2022-09-20,Packed RBC,63,1,9,0,0
+2022-09-20,Platelets,55,1,9,0,0
+2022-09-21,Cryoprecipitate,12,2,9,0,0
+2022-09-21,Fresh Frozen Plasma,28,2,9,0,0
+2022-09-21,Packed RBC,94,2,9,0,0
+2022-09-21,Platelets,21,2,9,0,0
+2022-09-22,Cryoprecipitate,13,3,9,0,0
+2022-09-22,Fresh Frozen Plasma,27,3,9,0,0
+2022-09-22,Packed RBC,64,3,9,0,0
+2022-09-22,Platelets,32,3,9,0,0
+2022-09-23,Cryoprecipitate,11,4,9,0,0
+2022-09-23,Fresh Frozen Plasma,25,4,9,0,0
+2022-09-23,Packed RBC,84,4,9,0,0
+2022-09-23,Platelets,26,4,9,0,0
+2022-09-24,Cryoprecipitate,9,5,9,1,0
+2022-09-24,Fresh Frozen Plasma,20,5,9,1,0
+2022-09-24,Packed RBC,37,5,9,1,0
+2022-09-24,Platelets,25,5,9,1,0
+2022-09-25,Cryoprecipitate,11,6,9,1,0
+2022-09-25,Fresh Frozen Plasma,26,6,9,1,0
+2022-09-25,Packed RBC,62,6,9,1,0
+2022-09-25,Platelets,22,6,9,1,0
+2022-09-26,Cryoprecipitate,16,0,9,0,0
+2022-09-26,Fresh Frozen Plasma,28,0,9,0,0
+2022-09-26,Packed RBC,91,0,9,0,0
+2022-09-26,Platelets,36,0,9,0,0
+2022-09-27,Cryoprecipitate,10,1,9,0,0
+2022-09-27,Fresh Frozen Plasma,19,1,9,0,0
+2022-09-27,Packed RBC,75,1,9,0,0
+2022-09-27,Platelets,29,1,9,0,0
+2022-09-28,Cryoprecipitate,11,2,9,0,0
+2022-09-28,Fresh Frozen Plasma,29,2,9,0,0
+2022-09-28,Packed RBC,99,2,9,0,0
+2022-09-28,Platelets,28,2,9,0,0
+2022-09-29,Cryoprecipitate,15,3,9,0,0
+2022-09-29,Fresh Frozen Plasma,26,3,9,0,0
+2022-09-29,Packed RBC,75,3,9,0,0
+2022-09-29,Platelets,22,3,9,0,0
+2022-09-30,Cryoprecipitate,12,4,9,0,0
+2022-09-30,Fresh Frozen Plasma,30,4,9,0,0
+2022-09-30,Packed RBC,161,4,9,0,0
+2022-09-30,Platelets,32,4,9,0,0
+2022-10-01,Cryoprecipitate,10,5,10,1,0
+2022-10-01,Fresh Frozen Plasma,23,5,10,1,0
+2022-10-01,Packed RBC,55,5,10,1,0
+2022-10-01,Platelets,22,5,10,1,0
+2022-10-02,Cryoprecipitate,10,6,10,1,0
+2022-10-02,Fresh Frozen Plasma,19,6,10,1,0
+2022-10-02,Packed RBC,52,6,10,1,0
+2022-10-02,Platelets,20,6,10,1,0
+2022-10-03,Cryoprecipitate,10,0,10,0,0
+2022-10-03,Fresh Frozen Plasma,20,0,10,0,0
+2022-10-03,Packed RBC,81,0,10,0,0
+2022-10-03,Platelets,27,0,10,0,0
+2022-10-04,Cryoprecipitate,15,1,10,0,0
+2022-10-04,Fresh Frozen Plasma,28,1,10,0,0
+2022-10-04,Packed RBC,84,1,10,0,0
+2022-10-04,Platelets,25,1,10,0,0
+2022-10-05,Cryoprecipitate,15,2,10,0,0
+2022-10-05,Fresh Frozen Plasma,26,2,10,0,0
+2022-10-05,Packed RBC,66,2,10,0,0
+2022-10-05,Platelets,36,2,10,0,0
+2022-10-06,Cryoprecipitate,14,3,10,0,0
+2022-10-06,Fresh Frozen Plasma,17,3,10,0,0
+2022-10-06,Packed RBC,95,3,10,0,0
+2022-10-06,Platelets,33,3,10,0,0
+2022-10-07,Cryoprecipitate,11,4,10,0,0
+2022-10-07,Fresh Frozen Plasma,17,4,10,0,0
+2022-10-07,Packed RBC,77,4,10,0,0
+2022-10-07,Platelets,29,4,10,0,0
+2022-10-08,Cryoprecipitate,8,5,10,1,0
+2022-10-08,Fresh Frozen Plasma,20,5,10,1,0
+2022-10-08,Packed RBC,51,5,10,1,0
+2022-10-08,Platelets,16,5,10,1,0
+2022-10-09,Cryoprecipitate,8,6,10,1,0
+2022-10-09,Fresh Frozen Plasma,22,6,10,1,0
+2022-10-09,Packed RBC,43,6,10,1,0
+2022-10-09,Platelets,21,6,10,1,0
+2022-10-10,Cryoprecipitate,20,0,10,0,0
+2022-10-10,Fresh Frozen Plasma,36,0,10,0,0
+2022-10-10,Packed RBC,85,0,10,0,0
+2022-10-10,Platelets,32,0,10,0,0
+2022-10-11,Cryoprecipitate,14,1,10,0,0
+2022-10-11,Fresh Frozen Plasma,27,1,10,0,0
+2022-10-11,Packed RBC,61,1,10,0,0
+2022-10-11,Platelets,30,1,10,0,0
+2022-10-12,Cryoprecipitate,13,2,10,0,0
+2022-10-12,Fresh Frozen Plasma,22,2,10,0,0
+2022-10-12,Packed RBC,96,2,10,0,0
+2022-10-12,Platelets,31,2,10,0,0
+2022-10-13,Cryoprecipitate,12,3,10,0,0
+2022-10-13,Fresh Frozen Plasma,20,3,10,0,0
+2022-10-13,Packed RBC,95,3,10,0,0
+2022-10-13,Platelets,29,3,10,0,0
+2022-10-14,Cryoprecipitate,10,4,10,0,0
+2022-10-14,Fresh Frozen Plasma,26,4,10,0,0
+2022-10-14,Packed RBC,75,4,10,0,0
+2022-10-14,Platelets,29,4,10,0,0
+2022-10-15,Cryoprecipitate,11,5,10,1,0
+2022-10-15,Fresh Frozen Plasma,23,5,10,1,0
+2022-10-15,Packed RBC,67,5,10,1,0
+2022-10-15,Platelets,25,5,10,1,0
+2022-10-16,Cryoprecipitate,13,6,10,1,0
+2022-10-16,Fresh Frozen Plasma,22,6,10,1,0
+2022-10-16,Packed RBC,68,6,10,1,0
+2022-10-16,Platelets,38,6,10,1,0
+2022-10-17,Cryoprecipitate,10,0,10,0,0
+2022-10-17,Fresh Frozen Plasma,38,0,10,0,0
+2022-10-17,Packed RBC,98,0,10,0,0
+2022-10-17,Platelets,38,0,10,0,0
+2022-10-18,Cryoprecipitate,14,1,10,0,0
+2022-10-18,Fresh Frozen Plasma,38,1,10,0,0
+2022-10-18,Packed RBC,98,1,10,0,0
+2022-10-18,Platelets,31,1,10,0,0
+2022-10-19,Cryoprecipitate,10,2,10,0,0
+2022-10-19,Fresh Frozen Plasma,37,2,10,0,0
+2022-10-19,Packed RBC,112,2,10,0,0
+2022-10-19,Platelets,44,2,10,0,0
+2022-10-20,Cryoprecipitate,15,3,10,0,0
+2022-10-20,Fresh Frozen Plasma,26,3,10,0,0
+2022-10-20,Packed RBC,80,3,10,0,0
+2022-10-20,Platelets,30,3,10,0,0
+2022-10-21,Cryoprecipitate,11,4,10,0,0
+2022-10-21,Fresh Frozen Plasma,40,4,10,0,0
+2022-10-21,Packed RBC,66,4,10,0,0
+2022-10-21,Platelets,34,4,10,0,0
+2022-10-22,Cryoprecipitate,9,5,10,1,0
+2022-10-22,Fresh Frozen Plasma,23,5,10,1,0
+2022-10-22,Packed RBC,54,5,10,1,0
+2022-10-22,Platelets,26,5,10,1,0
+2022-10-23,Cryoprecipitate,15,6,10,1,0
+2022-10-23,Fresh Frozen Plasma,20,6,10,1,0
+2022-10-23,Packed RBC,53,6,10,1,0
+2022-10-23,Platelets,31,6,10,1,0
+2022-10-24,Cryoprecipitate,17,0,10,0,0
+2022-10-24,Fresh Frozen Plasma,31,0,10,0,0
+2022-10-24,Packed RBC,115,0,10,0,0
+2022-10-24,Platelets,42,0,10,0,0
+2022-10-25,Cryoprecipitate,19,1,10,0,0
+2022-10-25,Fresh Frozen Plasma,26,1,10,0,0
+2022-10-25,Packed RBC,82,1,10,0,0
+2022-10-25,Platelets,31,1,10,0,0
+2022-10-26,Cryoprecipitate,11,2,10,0,0
+2022-10-26,Fresh Frozen Plasma,33,2,10,0,0
+2022-10-26,Packed RBC,95,2,10,0,0
+2022-10-26,Platelets,28,2,10,0,0
+2022-10-27,Cryoprecipitate,12,3,10,0,0
+2022-10-27,Fresh Frozen Plasma,29,3,10,0,0
+2022-10-27,Packed RBC,88,3,10,0,0
+2022-10-27,Platelets,47,3,10,0,0
+2022-10-28,Cryoprecipitate,10,4,10,0,0
+2022-10-28,Fresh Frozen Plasma,33,4,10,0,0
+2022-10-28,Packed RBC,102,4,10,0,0
+2022-10-28,Platelets,26,4,10,0,0
+2022-10-29,Cryoprecipitate,13,5,10,1,0
+2022-10-29,Fresh Frozen Plasma,39,5,10,1,0
+2022-10-29,Packed RBC,59,5,10,1,0
+2022-10-29,Platelets,22,5,10,1,0
+2022-10-30,Cryoprecipitate,12,6,10,1,0
+2022-10-30,Fresh Frozen Plasma,20,6,10,1,0
+2022-10-30,Packed RBC,58,6,10,1,0
+2022-10-30,Platelets,31,6,10,1,0
+2022-10-31,Cryoprecipitate,14,0,10,0,0
+2022-10-31,Fresh Frozen Plasma,35,0,10,0,0
+2022-10-31,Packed RBC,87,0,10,0,0
+2022-10-31,Platelets,35,0,10,0,0
+2022-11-01,Cryoprecipitate,12,1,11,0,1
+2022-11-01,Fresh Frozen Plasma,24,1,11,0,1
+2022-11-01,Packed RBC,75,1,11,0,1
+2022-11-01,Platelets,36,1,11,0,1
+2022-11-02,Cryoprecipitate,14,2,11,0,1
+2022-11-02,Fresh Frozen Plasma,27,2,11,0,1
+2022-11-02,Packed RBC,87,2,11,0,1
+2022-11-02,Platelets,33,2,11,0,1
+2022-11-03,Cryoprecipitate,15,3,11,0,1
+2022-11-03,Fresh Frozen Plasma,42,3,11,0,1
+2022-11-03,Packed RBC,73,3,11,0,1
+2022-11-03,Platelets,31,3,11,0,1
+2022-11-04,Cryoprecipitate,11,4,11,0,1
+2022-11-04,Fresh Frozen Plasma,18,4,11,0,1
+2022-11-04,Packed RBC,75,4,11,0,1
+2022-11-04,Platelets,36,4,11,0,1
+2022-11-05,Cryoprecipitate,11,5,11,1,1
+2022-11-05,Fresh Frozen Plasma,25,5,11,1,1
+2022-11-05,Packed RBC,58,5,11,1,1
+2022-11-05,Platelets,24,5,11,1,1
+2022-11-06,Cryoprecipitate,13,6,11,1,1
+2022-11-06,Fresh Frozen Plasma,19,6,11,1,1
+2022-11-06,Packed RBC,70,6,11,1,1
+2022-11-06,Platelets,20,6,11,1,1
+2022-11-07,Cryoprecipitate,14,0,11,0,1
+2022-11-07,Fresh Frozen Plasma,24,0,11,0,1
+2022-11-07,Packed RBC,67,0,11,0,1
+2022-11-07,Platelets,26,0,11,0,1
+2022-11-08,Cryoprecipitate,10,1,11,0,1
+2022-11-08,Fresh Frozen Plasma,31,1,11,0,1
+2022-11-08,Packed RBC,78,1,11,0,1
+2022-11-08,Platelets,28,1,11,0,1
+2022-11-09,Cryoprecipitate,16,2,11,0,1
+2022-11-09,Fresh Frozen Plasma,25,2,11,0,1
+2022-11-09,Packed RBC,58,2,11,0,1
+2022-11-09,Platelets,23,2,11,0,1
+2022-11-10,Cryoprecipitate,11,3,11,0,1
+2022-11-10,Fresh Frozen Plasma,25,3,11,0,1
+2022-11-10,Packed RBC,92,3,11,0,1
+2022-11-10,Platelets,31,3,11,0,1
+2022-11-11,Cryoprecipitate,13,4,11,0,1
+2022-11-11,Fresh Frozen Plasma,28,4,11,0,1
+2022-11-11,Packed RBC,70,4,11,0,1
+2022-11-11,Platelets,35,4,11,0,1
+2022-11-12,Cryoprecipitate,10,5,11,1,1
+2022-11-12,Fresh Frozen Plasma,21,5,11,1,1
+2022-11-12,Packed RBC,55,5,11,1,1
+2022-11-12,Platelets,21,5,11,1,1
+2022-11-13,Cryoprecipitate,13,6,11,1,1
+2022-11-13,Fresh Frozen Plasma,15,6,11,1,1
+2022-11-13,Packed RBC,48,6,11,1,1
+2022-11-13,Platelets,22,6,11,1,1
+2022-11-14,Cryoprecipitate,12,0,11,0,1
+2022-11-14,Fresh Frozen Plasma,22,0,11,0,1
+2022-11-14,Packed RBC,91,0,11,0,1
+2022-11-14,Platelets,30,0,11,0,1
+2022-11-15,Cryoprecipitate,15,1,11,0,1
+2022-11-15,Fresh Frozen Plasma,32,1,11,0,1
+2022-11-15,Packed RBC,102,1,11,0,1
+2022-11-15,Platelets,38,1,11,0,1
+2022-11-16,Cryoprecipitate,11,2,11,0,1
+2022-11-16,Fresh Frozen Plasma,24,2,11,0,1
+2022-11-16,Packed RBC,111,2,11,0,1
+2022-11-16,Platelets,38,2,11,0,1
+2022-11-17,Cryoprecipitate,15,3,11,0,1
+2022-11-17,Fresh Frozen Plasma,29,3,11,0,1
+2022-11-17,Packed RBC,115,3,11,0,1
+2022-11-17,Platelets,32,3,11,0,1
+2022-11-18,Cryoprecipitate,11,4,11,0,1
+2022-11-18,Fresh Frozen Plasma,24,4,11,0,1
+2022-11-18,Packed RBC,111,4,11,0,1
+2022-11-18,Platelets,44,4,11,0,1
+2022-11-19,Cryoprecipitate,14,5,11,1,1
+2022-11-19,Fresh Frozen Plasma,22,5,11,1,1
+2022-11-19,Packed RBC,47,5,11,1,1
+2022-11-19,Platelets,21,5,11,1,1
+2022-11-20,Cryoprecipitate,11,6,11,1,1
+2022-11-20,Fresh Frozen Plasma,15,6,11,1,1
+2022-11-20,Packed RBC,59,6,11,1,1
+2022-11-20,Platelets,25,6,11,1,1
+2022-11-21,Cryoprecipitate,13,0,11,0,1
+2022-11-21,Fresh Frozen Plasma,28,0,11,0,1
+2022-11-21,Packed RBC,77,0,11,0,1
+2022-11-21,Platelets,34,0,11,0,1
+2022-11-22,Cryoprecipitate,18,1,11,0,1
+2022-11-22,Fresh Frozen Plasma,30,1,11,0,1
+2022-11-22,Packed RBC,87,1,11,0,1
+2022-11-22,Platelets,28,1,11,0,1
+2022-11-23,Cryoprecipitate,14,2,11,0,1
+2022-11-23,Fresh Frozen Plasma,34,2,11,0,1
+2022-11-23,Packed RBC,104,2,11,0,1
+2022-11-23,Platelets,40,2,11,0,1
+2022-11-24,Cryoprecipitate,14,3,11,0,1
+2022-11-24,Fresh Frozen Plasma,28,3,11,0,1
+2022-11-24,Packed RBC,83,3,11,0,1
+2022-11-24,Platelets,29,3,11,0,1
+2022-11-25,Cryoprecipitate,9,4,11,0,1
+2022-11-25,Fresh Frozen Plasma,30,4,11,0,1
+2022-11-25,Packed RBC,107,4,11,0,1
+2022-11-25,Platelets,38,4,11,0,1
+2022-11-26,Cryoprecipitate,11,5,11,1,1
+2022-11-26,Fresh Frozen Plasma,23,5,11,1,1
+2022-11-26,Packed RBC,72,5,11,1,1
+2022-11-26,Platelets,30,5,11,1,1
+2022-11-27,Cryoprecipitate,9,6,11,1,1
+2022-11-27,Fresh Frozen Plasma,14,6,11,1,1
+2022-11-27,Packed RBC,71,6,11,1,1
+2022-11-27,Platelets,29,6,11,1,1
+2022-11-28,Cryoprecipitate,13,0,11,0,1
+2022-11-28,Fresh Frozen Plasma,37,0,11,0,1
+2022-11-28,Packed RBC,89,0,11,0,1
+2022-11-28,Platelets,37,0,11,0,1
+2022-11-29,Cryoprecipitate,13,1,11,0,1
+2022-11-29,Fresh Frozen Plasma,39,1,11,0,1
+2022-11-29,Packed RBC,102,1,11,0,1
+2022-11-29,Platelets,40,1,11,0,1
+2022-11-30,Cryoprecipitate,11,2,11,0,1
+2022-11-30,Fresh Frozen Plasma,30,2,11,0,1
+2022-11-30,Packed RBC,136,2,11,0,1
+2022-11-30,Platelets,57,2,11,0,1
+2022-12-01,Cryoprecipitate,12,3,12,0,1
+2022-12-01,Fresh Frozen Plasma,30,3,12,0,1
+2022-12-01,Packed RBC,77,3,12,0,1
+2022-12-01,Platelets,37,3,12,0,1
+2022-12-02,Cryoprecipitate,22,4,12,0,1
+2022-12-02,Fresh Frozen Plasma,30,4,12,0,1
+2022-12-02,Packed RBC,99,4,12,0,1
+2022-12-02,Platelets,35,4,12,0,1
+2022-12-03,Cryoprecipitate,10,5,12,1,1
+2022-12-03,Fresh Frozen Plasma,21,5,12,1,1
+2022-12-03,Packed RBC,61,5,12,1,1
+2022-12-03,Platelets,25,5,12,1,1
+2022-12-04,Cryoprecipitate,15,6,12,1,1
+2022-12-04,Fresh Frozen Plasma,17,6,12,1,1
+2022-12-04,Packed RBC,44,6,12,1,1
+2022-12-04,Platelets,23,6,12,1,1
+2022-12-05,Cryoprecipitate,11,0,12,0,1
+2022-12-05,Fresh Frozen Plasma,26,0,12,0,1
+2022-12-05,Packed RBC,92,0,12,0,1
+2022-12-05,Platelets,32,0,12,0,1
+2022-12-06,Cryoprecipitate,12,1,12,0,1
+2022-12-06,Fresh Frozen Plasma,31,1,12,0,1
+2022-12-06,Packed RBC,79,1,12,0,1
+2022-12-06,Platelets,31,1,12,0,1
+2022-12-07,Cryoprecipitate,11,2,12,0,1
+2022-12-07,Fresh Frozen Plasma,38,2,12,0,1
+2022-12-07,Packed RBC,92,2,12,0,1
+2022-12-07,Platelets,38,2,12,0,1
+2022-12-08,Cryoprecipitate,16,3,12,0,1
+2022-12-08,Fresh Frozen Plasma,34,3,12,0,1
+2022-12-08,Packed RBC,78,3,12,0,1
+2022-12-08,Platelets,40,3,12,0,1
+2022-12-09,Cryoprecipitate,16,4,12,0,1
+2022-12-09,Fresh Frozen Plasma,29,4,12,0,1
+2022-12-09,Packed RBC,97,4,12,0,1
+2022-12-09,Platelets,41,4,12,0,1
+2022-12-10,Cryoprecipitate,12,5,12,1,1
+2022-12-10,Fresh Frozen Plasma,24,5,12,1,1
+2022-12-10,Packed RBC,68,5,12,1,1
+2022-12-10,Platelets,32,5,12,1,1
+2022-12-11,Cryoprecipitate,10,6,12,1,1
+2022-12-11,Fresh Frozen Plasma,19,6,12,1,1
+2022-12-11,Packed RBC,66,6,12,1,1
+2022-12-11,Platelets,20,6,12,1,1
+2022-12-12,Cryoprecipitate,13,0,12,0,1
+2022-12-12,Fresh Frozen Plasma,34,0,12,0,1
+2022-12-12,Packed RBC,104,0,12,0,1
+2022-12-12,Platelets,28,0,12,0,1
+2022-12-13,Cryoprecipitate,17,1,12,0,1
+2022-12-13,Fresh Frozen Plasma,25,1,12,0,1
+2022-12-13,Packed RBC,106,1,12,0,1
+2022-12-13,Platelets,32,1,12,0,1
+2022-12-14,Cryoprecipitate,14,2,12,0,1
+2022-12-14,Fresh Frozen Plasma,33,2,12,0,1
+2022-12-14,Packed RBC,92,2,12,0,1
+2022-12-14,Platelets,30,2,12,0,1
+2022-12-15,Cryoprecipitate,15,3,12,0,1
+2022-12-15,Fresh Frozen Plasma,25,3,12,0,1
+2022-12-15,Packed RBC,102,3,12,0,1
+2022-12-15,Platelets,35,3,12,0,1
+2022-12-16,Cryoprecipitate,16,4,12,0,1
+2022-12-16,Fresh Frozen Plasma,24,4,12,0,1
+2022-12-16,Packed RBC,97,4,12,0,1
+2022-12-16,Platelets,24,4,12,0,1
+2022-12-17,Cryoprecipitate,11,5,12,1,1
+2022-12-17,Fresh Frozen Plasma,38,5,12,1,1
+2022-12-17,Packed RBC,74,5,12,1,1
+2022-12-17,Platelets,48,5,12,1,1
+2022-12-18,Cryoprecipitate,13,6,12,1,1
+2022-12-18,Fresh Frozen Plasma,21,6,12,1,1
+2022-12-18,Packed RBC,118,6,12,1,1
+2022-12-18,Platelets,23,6,12,1,1
+2022-12-19,Cryoprecipitate,16,0,12,0,1
+2022-12-19,Fresh Frozen Plasma,27,0,12,0,1
+2022-12-19,Packed RBC,89,0,12,0,1
+2022-12-19,Platelets,30,0,12,0,1
+2022-12-20,Cryoprecipitate,15,1,12,0,1
+2022-12-20,Fresh Frozen Plasma,40,1,12,0,1
+2022-12-20,Packed RBC,90,1,12,0,1
+2022-12-20,Platelets,40,1,12,0,1
+2022-12-21,Cryoprecipitate,19,2,12,0,1
+2022-12-21,Fresh Frozen Plasma,29,2,12,0,1
+2022-12-21,Packed RBC,121,2,12,0,1
+2022-12-21,Platelets,41,2,12,0,1
+2022-12-22,Cryoprecipitate,16,3,12,0,1
+2022-12-22,Fresh Frozen Plasma,37,3,12,0,1
+2022-12-22,Packed RBC,116,3,12,0,1
+2022-12-22,Platelets,44,3,12,0,1
+2022-12-23,Cryoprecipitate,17,4,12,0,1
+2022-12-23,Fresh Frozen Plasma,37,4,12,0,1
+2022-12-23,Packed RBC,115,4,12,0,1
+2022-12-23,Platelets,41,4,12,0,1
+2022-12-24,Cryoprecipitate,12,5,12,1,1
+2022-12-24,Fresh Frozen Plasma,25,5,12,1,1
+2022-12-24,Packed RBC,98,5,12,1,1
+2022-12-24,Platelets,37,5,12,1,1
+2022-12-25,Cryoprecipitate,14,6,12,1,1
+2022-12-25,Fresh Frozen Plasma,29,6,12,1,1
+2022-12-25,Packed RBC,80,6,12,1,1
+2022-12-25,Platelets,22,6,12,1,1
+2022-12-26,Cryoprecipitate,18,0,12,0,1
+2022-12-26,Fresh Frozen Plasma,22,0,12,0,1
+2022-12-26,Packed RBC,115,0,12,0,1
+2022-12-26,Platelets,40,0,12,0,1
+2022-12-27,Cryoprecipitate,15,1,12,0,1
+2022-12-27,Fresh Frozen Plasma,35,1,12,0,1
+2022-12-27,Packed RBC,88,1,12,0,1
+2022-12-27,Platelets,41,1,12,0,1
+2022-12-28,Cryoprecipitate,12,2,12,0,1
+2022-12-28,Fresh Frozen Plasma,42,2,12,0,1
+2022-12-28,Packed RBC,89,2,12,0,1
+2022-12-28,Platelets,56,2,12,0,1
+2022-12-29,Cryoprecipitate,17,3,12,0,1
+2022-12-29,Fresh Frozen Plasma,42,3,12,0,1
+2022-12-29,Packed RBC,113,3,12,0,1
+2022-12-29,Platelets,42,3,12,0,1
+2022-12-30,Cryoprecipitate,13,4,12,0,1
+2022-12-30,Fresh Frozen Plasma,47,4,12,0,1
+2022-12-30,Packed RBC,105,4,12,0,1
+2022-12-30,Platelets,41,4,12,0,1
+2022-12-31,Cryoprecipitate,8,5,12,1,1
+2022-12-31,Fresh Frozen Plasma,22,5,12,1,1
+2022-12-31,Packed RBC,63,5,12,1,1
+2022-12-31,Platelets,27,5,12,1,1
+2023-01-01,Cryoprecipitate,12,6,1,1,0
+2023-01-01,Fresh Frozen Plasma,26,6,1,1,0
+2023-01-01,Packed RBC,67,6,1,1,0
+2023-01-01,Platelets,35,6,1,1,0
+2023-01-02,Cryoprecipitate,8,0,1,0,0
+2023-01-02,Fresh Frozen Plasma,28,0,1,0,0
+2023-01-02,Packed RBC,79,0,1,0,0
+2023-01-02,Platelets,41,0,1,0,0
+2023-01-03,Cryoprecipitate,14,1,1,0,0
+2023-01-03,Fresh Frozen Plasma,36,1,1,0,0
+2023-01-03,Packed RBC,106,1,1,0,0
+2023-01-03,Platelets,46,1,1,0,0
+2023-01-04,Cryoprecipitate,16,2,1,0,0
+2023-01-04,Fresh Frozen Plasma,39,2,1,0,0
+2023-01-04,Packed RBC,91,2,1,0,0
+2023-01-04,Platelets,41,2,1,0,0
+2023-01-05,Cryoprecipitate,19,3,1,0,0
+2023-01-05,Fresh Frozen Plasma,39,3,1,0,0
+2023-01-05,Packed RBC,107,3,1,0,0
+2023-01-05,Platelets,43,3,1,0,0
+2023-01-06,Cryoprecipitate,11,4,1,0,0
+2023-01-06,Fresh Frozen Plasma,31,4,1,0,0
+2023-01-06,Packed RBC,96,4,1,0,0
+2023-01-06,Platelets,34,4,1,0,0
+2023-01-07,Cryoprecipitate,10,5,1,1,0
+2023-01-07,Fresh Frozen Plasma,22,5,1,1,0
+2023-01-07,Packed RBC,61,5,1,1,0
+2023-01-07,Platelets,26,5,1,1,0
+2023-01-08,Cryoprecipitate,9,6,1,1,0
+2023-01-08,Fresh Frozen Plasma,21,6,1,1,0
+2023-01-08,Packed RBC,75,6,1,1,0
+2023-01-08,Platelets,21,6,1,1,0
+2023-01-09,Cryoprecipitate,12,0,1,0,0
+2023-01-09,Fresh Frozen Plasma,26,0,1,0,0
+2023-01-09,Packed RBC,101,0,1,0,0
+2023-01-09,Platelets,32,0,1,0,0
+2023-01-10,Cryoprecipitate,12,1,1,0,0
+2023-01-10,Fresh Frozen Plasma,29,1,1,0,0
+2023-01-10,Packed RBC,86,1,1,0,0
+2023-01-10,Platelets,39,1,1,0,0
+2023-01-11,Cryoprecipitate,13,2,1,0,0
+2023-01-11,Fresh Frozen Plasma,29,2,1,0,0
+2023-01-11,Packed RBC,86,2,1,0,0
+2023-01-11,Platelets,37,2,1,0,0
+2023-01-12,Cryoprecipitate,15,3,1,0,0
+2023-01-12,Fresh Frozen Plasma,26,3,1,0,0
+2023-01-12,Packed RBC,90,3,1,0,0
+2023-01-12,Platelets,37,3,1,0,0
+2023-01-13,Cryoprecipitate,15,4,1,0,0
+2023-01-13,Fresh Frozen Plasma,24,4,1,0,0
+2023-01-13,Packed RBC,116,4,1,0,0
+2023-01-13,Platelets,36,4,1,0,0
+2023-01-14,Cryoprecipitate,15,5,1,1,0
+2023-01-14,Fresh Frozen Plasma,15,5,1,1,0
+2023-01-14,Packed RBC,66,5,1,1,0
+2023-01-14,Platelets,26,5,1,1,0
+2023-01-15,Cryoprecipitate,12,6,1,1,0
+2023-01-15,Fresh Frozen Plasma,24,6,1,1,0
+2023-01-15,Packed RBC,64,6,1,1,0
+2023-01-15,Platelets,24,6,1,1,0
+2023-01-16,Cryoprecipitate,13,0,1,0,0
+2023-01-16,Fresh Frozen Plasma,27,0,1,0,0
+2023-01-16,Packed RBC,93,0,1,0,0
+2023-01-16,Platelets,34,0,1,0,0
+2023-01-17,Cryoprecipitate,11,1,1,0,0
+2023-01-17,Fresh Frozen Plasma,28,1,1,0,0
+2023-01-17,Packed RBC,99,1,1,0,0
+2023-01-17,Platelets,29,1,1,0,0
+2023-01-18,Cryoprecipitate,18,2,1,0,0
+2023-01-18,Fresh Frozen Plasma,22,2,1,0,0
+2023-01-18,Packed RBC,73,2,1,0,0
+2023-01-18,Platelets,34,2,1,0,0
+2023-01-19,Cryoprecipitate,13,3,1,0,0
+2023-01-19,Fresh Frozen Plasma,28,3,1,0,0
+2023-01-19,Packed RBC,102,3,1,0,0
+2023-01-19,Platelets,41,3,1,0,0
+2023-01-20,Cryoprecipitate,10,4,1,0,0
+2023-01-20,Fresh Frozen Plasma,26,4,1,0,0
+2023-01-20,Packed RBC,120,4,1,0,0
+2023-01-20,Platelets,38,4,1,0,0
+2023-01-21,Cryoprecipitate,19,5,1,1,0
+2023-01-21,Fresh Frozen Plasma,17,5,1,1,0
+2023-01-21,Packed RBC,50,5,1,1,0
+2023-01-21,Platelets,22,5,1,1,0
+2023-01-22,Cryoprecipitate,14,6,1,1,0
+2023-01-22,Fresh Frozen Plasma,17,6,1,1,0
+2023-01-22,Packed RBC,41,6,1,1,0
+2023-01-22,Platelets,24,6,1,1,0
+2023-01-23,Cryoprecipitate,13,0,1,0,0
+2023-01-23,Fresh Frozen Plasma,24,0,1,0,0
+2023-01-23,Packed RBC,107,0,1,0,0
+2023-01-23,Platelets,33,0,1,0,0
+2023-01-24,Cryoprecipitate,11,1,1,0,0
+2023-01-24,Fresh Frozen Plasma,29,1,1,0,0
+2023-01-24,Packed RBC,88,1,1,0,0
+2023-01-24,Platelets,38,1,1,0,0
+2023-01-25,Cryoprecipitate,15,2,1,0,0
+2023-01-25,Fresh Frozen Plasma,25,2,1,0,0
+2023-01-25,Packed RBC,65,2,1,0,0
+2023-01-25,Platelets,36,2,1,0,0
+2023-01-26,Cryoprecipitate,13,3,1,0,0
+2023-01-26,Fresh Frozen Plasma,33,3,1,0,0
+2023-01-26,Packed RBC,114,3,1,0,0
+2023-01-26,Platelets,34,3,1,0,0
+2023-01-27,Cryoprecipitate,15,4,1,0,0
+2023-01-27,Fresh Frozen Plasma,35,4,1,0,0
+2023-01-27,Packed RBC,89,4,1,0,0
+2023-01-27,Platelets,38,4,1,0,0
+2023-01-28,Cryoprecipitate,10,5,1,1,0
+2023-01-28,Fresh Frozen Plasma,18,5,1,1,0
+2023-01-28,Packed RBC,55,5,1,1,0
+2023-01-28,Platelets,24,5,1,1,0
+2023-01-29,Cryoprecipitate,12,6,1,1,0
+2023-01-29,Fresh Frozen Plasma,18,6,1,1,0
+2023-01-29,Packed RBC,49,6,1,1,0
+2023-01-29,Platelets,23,6,1,1,0
+2023-01-30,Cryoprecipitate,12,0,1,0,0
+2023-01-30,Fresh Frozen Plasma,35,0,1,0,0
+2023-01-30,Packed RBC,80,0,1,0,0
+2023-01-30,Platelets,30,0,1,0,0
+2023-01-31,Cryoprecipitate,10,1,1,0,0
+2023-01-31,Fresh Frozen Plasma,30,1,1,0,0
+2023-01-31,Packed RBC,106,1,1,0,0
+2023-01-31,Platelets,30,1,1,0,0
+2023-02-01,Cryoprecipitate,11,2,2,0,0
+2023-02-01,Fresh Frozen Plasma,31,2,2,0,0
+2023-02-01,Packed RBC,76,2,2,0,0
+2023-02-01,Platelets,40,2,2,0,0
+2023-02-02,Cryoprecipitate,13,3,2,0,0
+2023-02-02,Fresh Frozen Plasma,25,3,2,0,0
+2023-02-02,Packed RBC,81,3,2,0,0
+2023-02-02,Platelets,34,3,2,0,0
+2023-02-03,Cryoprecipitate,14,4,2,0,0
+2023-02-03,Fresh Frozen Plasma,25,4,2,0,0
+2023-02-03,Packed RBC,121,4,2,0,0
+2023-02-03,Platelets,33,4,2,0,0
+2023-02-04,Cryoprecipitate,10,5,2,1,0
+2023-02-04,Fresh Frozen Plasma,23,5,2,1,0
+2023-02-04,Packed RBC,48,5,2,1,0
+2023-02-04,Platelets,29,5,2,1,0
+2023-02-05,Cryoprecipitate,11,6,2,1,0
+2023-02-05,Fresh Frozen Plasma,23,6,2,1,0
+2023-02-05,Packed RBC,62,6,2,1,0
+2023-02-05,Platelets,27,6,2,1,0
+2023-02-06,Cryoprecipitate,16,0,2,0,0
+2023-02-06,Fresh Frozen Plasma,28,0,2,0,0
+2023-02-06,Packed RBC,97,0,2,0,0
+2023-02-06,Platelets,38,0,2,0,0
+2023-02-07,Cryoprecipitate,16,1,2,0,0
+2023-02-07,Fresh Frozen Plasma,30,1,2,0,0
+2023-02-07,Packed RBC,102,1,2,0,0
+2023-02-07,Platelets,47,1,2,0,0
+2023-02-08,Cryoprecipitate,14,2,2,0,0
+2023-02-08,Fresh Frozen Plasma,32,2,2,0,0
+2023-02-08,Packed RBC,74,2,2,0,0
+2023-02-08,Platelets,43,2,2,0,0
+2023-02-09,Cryoprecipitate,17,3,2,0,0
+2023-02-09,Fresh Frozen Plasma,25,3,2,0,0
+2023-02-09,Packed RBC,89,3,2,0,0
+2023-02-09,Platelets,36,3,2,0,0
+2023-02-10,Cryoprecipitate,14,4,2,0,0
+2023-02-10,Fresh Frozen Plasma,26,4,2,0,0
+2023-02-10,Packed RBC,68,4,2,0,0
+2023-02-10,Platelets,36,4,2,0,0
+2023-02-11,Cryoprecipitate,11,5,2,1,0
+2023-02-11,Fresh Frozen Plasma,23,5,2,1,0
+2023-02-11,Packed RBC,61,5,2,1,0
+2023-02-11,Platelets,29,5,2,1,0
+2023-02-12,Cryoprecipitate,9,6,2,1,0
+2023-02-12,Fresh Frozen Plasma,21,6,2,1,0
+2023-02-12,Packed RBC,72,6,2,1,0
+2023-02-12,Platelets,28,6,2,1,0
+2023-02-13,Cryoprecipitate,13,0,2,0,0
+2023-02-13,Fresh Frozen Plasma,36,0,2,0,0
+2023-02-13,Packed RBC,77,0,2,0,0
+2023-02-13,Platelets,33,0,2,0,0
+2023-02-14,Cryoprecipitate,13,1,2,0,0
+2023-02-14,Fresh Frozen Plasma,27,1,2,0,0
+2023-02-14,Packed RBC,90,1,2,0,0
+2023-02-14,Platelets,39,1,2,0,0
+2023-02-15,Cryoprecipitate,12,2,2,0,0
+2023-02-15,Fresh Frozen Plasma,30,2,2,0,0
+2023-02-15,Packed RBC,100,2,2,0,0
+2023-02-15,Platelets,37,2,2,0,0
+2023-02-16,Cryoprecipitate,13,3,2,0,0
+2023-02-16,Fresh Frozen Plasma,34,3,2,0,0
+2023-02-16,Packed RBC,80,3,2,0,0
+2023-02-16,Platelets,32,3,2,0,0
+2023-02-17,Cryoprecipitate,15,4,2,0,0
+2023-02-17,Fresh Frozen Plasma,35,4,2,0,0
+2023-02-17,Packed RBC,88,4,2,0,0
+2023-02-17,Platelets,36,4,2,0,0
+2023-02-18,Cryoprecipitate,10,5,2,1,0
+2023-02-18,Fresh Frozen Plasma,27,5,2,1,0
+2023-02-18,Packed RBC,46,5,2,1,0
+2023-02-18,Platelets,20,5,2,1,0
+2023-02-19,Cryoprecipitate,11,6,2,1,0
+2023-02-19,Fresh Frozen Plasma,14,6,2,1,0
+2023-02-19,Packed RBC,158,6,2,1,0
+2023-02-19,Platelets,24,6,2,1,0
+2023-02-20,Cryoprecipitate,11,0,2,0,0
+2023-02-20,Fresh Frozen Plasma,34,0,2,0,0
+2023-02-20,Packed RBC,97,0,2,0,0
+2023-02-20,Platelets,39,0,2,0,0
+2023-02-21,Cryoprecipitate,13,1,2,0,0
+2023-02-21,Fresh Frozen Plasma,23,1,2,0,0
+2023-02-21,Packed RBC,115,1,2,0,0
+2023-02-21,Platelets,43,1,2,0,0
+2023-02-22,Cryoprecipitate,13,2,2,0,0
+2023-02-22,Fresh Frozen Plasma,31,2,2,0,0
+2023-02-22,Packed RBC,107,2,2,0,0
+2023-02-22,Platelets,32,2,2,0,0
+2023-02-23,Cryoprecipitate,11,3,2,0,0
+2023-02-23,Fresh Frozen Plasma,29,3,2,0,0
+2023-02-23,Packed RBC,60,3,2,0,0
+2023-02-23,Platelets,32,3,2,0,0
+2023-02-24,Cryoprecipitate,12,4,2,0,0
+2023-02-24,Fresh Frozen Plasma,26,4,2,0,0
+2023-02-24,Packed RBC,83,4,2,0,0
+2023-02-24,Platelets,35,4,2,0,0
+2023-02-25,Cryoprecipitate,10,5,2,1,0
+2023-02-25,Fresh Frozen Plasma,21,5,2,1,0
+2023-02-25,Packed RBC,79,5,2,1,0
+2023-02-25,Platelets,30,5,2,1,0
+2023-02-26,Cryoprecipitate,10,6,2,1,0
+2023-02-26,Fresh Frozen Plasma,22,6,2,1,0
+2023-02-26,Packed RBC,84,6,2,1,0
+2023-02-26,Platelets,20,6,2,1,0
+2023-02-27,Cryoprecipitate,12,0,2,0,0
+2023-02-27,Fresh Frozen Plasma,33,0,2,0,0
+2023-02-27,Packed RBC,85,0,2,0,0
+2023-02-27,Platelets,31,0,2,0,0
+2023-02-28,Cryoprecipitate,10,1,2,0,0
+2023-02-28,Fresh Frozen Plasma,27,1,2,0,0
+2023-02-28,Packed RBC,87,1,2,0,0
+2023-02-28,Platelets,32,1,2,0,0
+2023-03-01,Cryoprecipitate,11,2,3,0,0
+2023-03-01,Fresh Frozen Plasma,24,2,3,0,0
+2023-03-01,Packed RBC,109,2,3,0,0
+2023-03-01,Platelets,31,2,3,0,0
+2023-03-02,Cryoprecipitate,13,3,3,0,0
+2023-03-02,Fresh Frozen Plasma,25,3,3,0,0
+2023-03-02,Packed RBC,75,3,3,0,0
+2023-03-02,Platelets,25,3,3,0,0
+2023-03-03,Cryoprecipitate,14,4,3,0,0
+2023-03-03,Fresh Frozen Plasma,24,4,3,0,0
+2023-03-03,Packed RBC,57,4,3,0,0
+2023-03-03,Platelets,29,4,3,0,0
+2023-03-04,Cryoprecipitate,12,5,3,1,0
+2023-03-04,Fresh Frozen Plasma,22,5,3,1,0
+2023-03-04,Packed RBC,43,5,3,1,0
+2023-03-04,Platelets,25,5,3,1,0
+2023-03-05,Cryoprecipitate,10,6,3,1,0
+2023-03-05,Fresh Frozen Plasma,19,6,3,1,0
+2023-03-05,Packed RBC,56,6,3,1,0
+2023-03-05,Platelets,20,6,3,1,0
+2023-03-06,Cryoprecipitate,10,0,3,0,0
+2023-03-06,Fresh Frozen Plasma,28,0,3,0,0
+2023-03-06,Packed RBC,66,0,3,0,0
+2023-03-06,Platelets,39,0,3,0,0
+2023-03-07,Cryoprecipitate,12,1,3,0,0
+2023-03-07,Fresh Frozen Plasma,21,1,3,0,0
+2023-03-07,Packed RBC,76,1,3,0,0
+2023-03-07,Platelets,33,1,3,0,0
+2023-03-08,Cryoprecipitate,10,2,3,0,0
+2023-03-08,Fresh Frozen Plasma,26,2,3,0,0
+2023-03-08,Packed RBC,81,2,3,0,0
+2023-03-08,Platelets,57,2,3,0,0
+2023-03-09,Cryoprecipitate,17,3,3,0,0
+2023-03-09,Fresh Frozen Plasma,28,3,3,0,0
+2023-03-09,Packed RBC,70,3,3,0,0
+2023-03-09,Platelets,34,3,3,0,0
+2023-03-10,Cryoprecipitate,10,4,3,0,0
+2023-03-10,Fresh Frozen Plasma,23,4,3,0,0
+2023-03-10,Packed RBC,79,4,3,0,0
+2023-03-10,Platelets,22,4,3,0,0
+2023-03-11,Cryoprecipitate,8,5,3,1,0
+2023-03-11,Fresh Frozen Plasma,17,5,3,1,0
+2023-03-11,Packed RBC,53,5,3,1,0
+2023-03-11,Platelets,19,5,3,1,0
+2023-03-12,Cryoprecipitate,11,6,3,1,0
+2023-03-12,Fresh Frozen Plasma,18,6,3,1,0
+2023-03-12,Packed RBC,51,6,3,1,0
+2023-03-12,Platelets,23,6,3,1,0
+2023-03-13,Cryoprecipitate,11,0,3,0,0
+2023-03-13,Fresh Frozen Plasma,22,0,3,0,0
+2023-03-13,Packed RBC,71,0,3,0,0
+2023-03-13,Platelets,28,0,3,0,0
+2023-03-14,Cryoprecipitate,10,1,3,0,0
+2023-03-14,Fresh Frozen Plasma,21,1,3,0,0
+2023-03-14,Packed RBC,69,1,3,0,0
+2023-03-14,Platelets,36,1,3,0,0
+2023-03-15,Cryoprecipitate,11,2,3,0,0
+2023-03-15,Fresh Frozen Plasma,22,2,3,0,0
+2023-03-15,Packed RBC,66,2,3,0,0
+2023-03-15,Platelets,35,2,3,0,0
+2023-03-16,Cryoprecipitate,12,3,3,0,0
+2023-03-16,Fresh Frozen Plasma,32,3,3,0,0
+2023-03-16,Packed RBC,64,3,3,0,0
+2023-03-16,Platelets,32,3,3,0,0
+2023-03-17,Cryoprecipitate,10,4,3,0,0
+2023-03-17,Fresh Frozen Plasma,25,4,3,0,0
+2023-03-17,Packed RBC,78,4,3,0,0
+2023-03-17,Platelets,29,4,3,0,0
+2023-03-18,Cryoprecipitate,9,5,3,1,0
+2023-03-18,Fresh Frozen Plasma,19,5,3,1,0
+2023-03-18,Packed RBC,63,5,3,1,0
+2023-03-18,Platelets,17,5,3,1,0
+2023-03-19,Cryoprecipitate,12,6,3,1,0
+2023-03-19,Fresh Frozen Plasma,20,6,3,1,0
+2023-03-19,Packed RBC,51,6,3,1,0
+2023-03-19,Platelets,22,6,3,1,0
+2023-03-20,Cryoprecipitate,13,0,3,0,0
+2023-03-20,Fresh Frozen Plasma,26,0,3,0,0
+2023-03-20,Packed RBC,57,0,3,0,0
+2023-03-20,Platelets,29,0,3,0,0
+2023-03-21,Cryoprecipitate,9,1,3,0,0
+2023-03-21,Fresh Frozen Plasma,30,1,3,0,0
+2023-03-21,Packed RBC,70,1,3,0,0
+2023-03-21,Platelets,29,1,3,0,0
+2023-03-22,Cryoprecipitate,14,2,3,0,0
+2023-03-22,Fresh Frozen Plasma,31,2,3,0,0
+2023-03-22,Packed RBC,58,2,3,0,0
+2023-03-22,Platelets,33,2,3,0,0
+2023-03-23,Cryoprecipitate,14,3,3,0,0
+2023-03-23,Fresh Frozen Plasma,29,3,3,0,0
+2023-03-23,Packed RBC,105,3,3,0,0
+2023-03-23,Platelets,28,3,3,0,0
+2023-03-24,Cryoprecipitate,10,4,3,0,0
+2023-03-24,Fresh Frozen Plasma,30,4,3,0,0
+2023-03-24,Packed RBC,74,4,3,0,0
+2023-03-24,Platelets,30,4,3,0,0
+2023-03-25,Cryoprecipitate,9,5,3,1,0
+2023-03-25,Fresh Frozen Plasma,15,5,3,1,0
+2023-03-25,Packed RBC,59,5,3,1,0
+2023-03-25,Platelets,15,5,3,1,0
+2023-03-26,Cryoprecipitate,9,6,3,1,0
+2023-03-26,Fresh Frozen Plasma,15,6,3,1,0
+2023-03-26,Packed RBC,57,6,3,1,0
+2023-03-26,Platelets,26,6,3,1,0
+2023-03-27,Cryoprecipitate,14,0,3,0,0
+2023-03-27,Fresh Frozen Plasma,27,0,3,0,0
+2023-03-27,Packed RBC,89,0,3,0,0
+2023-03-27,Platelets,41,0,3,0,0
+2023-03-28,Cryoprecipitate,18,1,3,0,0
+2023-03-28,Fresh Frozen Plasma,21,1,3,0,0
+2023-03-28,Packed RBC,88,1,3,0,0
+2023-03-28,Platelets,31,1,3,0,0
+2023-03-29,Cryoprecipitate,13,2,3,0,0
+2023-03-29,Fresh Frozen Plasma,28,2,3,0,0
+2023-03-29,Packed RBC,94,2,3,0,0
+2023-03-29,Platelets,27,2,3,0,0
+2023-03-30,Cryoprecipitate,12,3,3,0,0
+2023-03-30,Fresh Frozen Plasma,24,3,3,0,0
+2023-03-30,Packed RBC,76,3,3,0,0
+2023-03-30,Platelets,26,3,3,0,0
+2023-03-31,Cryoprecipitate,12,4,3,0,0
+2023-03-31,Fresh Frozen Plasma,21,4,3,0,0
+2023-03-31,Packed RBC,85,4,3,0,0
+2023-03-31,Platelets,28,4,3,0,0
+2023-04-01,Cryoprecipitate,9,5,4,1,0
+2023-04-01,Fresh Frozen Plasma,19,5,4,1,0
+2023-04-01,Packed RBC,42,5,4,1,0
+2023-04-01,Platelets,20,5,4,1,0
+2023-04-02,Cryoprecipitate,8,6,4,1,0
+2023-04-02,Fresh Frozen Plasma,15,6,4,1,0
+2023-04-02,Packed RBC,61,6,4,1,0
+2023-04-02,Platelets,21,6,4,1,0
+2023-04-03,Cryoprecipitate,13,0,4,0,0
+2023-04-03,Fresh Frozen Plasma,22,0,4,0,0
+2023-04-03,Packed RBC,77,0,4,0,0
+2023-04-03,Platelets,38,0,4,0,0
+2023-04-04,Cryoprecipitate,13,1,4,0,0
+2023-04-04,Fresh Frozen Plasma,21,1,4,0,0
+2023-04-04,Packed RBC,84,1,4,0,0
+2023-04-04,Platelets,32,1,4,0,0
+2023-04-05,Cryoprecipitate,14,2,4,0,0
+2023-04-05,Fresh Frozen Plasma,25,2,4,0,0
+2023-04-05,Packed RBC,65,2,4,0,0
+2023-04-05,Platelets,32,2,4,0,0
+2023-04-06,Cryoprecipitate,13,3,4,0,0
+2023-04-06,Fresh Frozen Plasma,29,3,4,0,0
+2023-04-06,Packed RBC,98,3,4,0,0
+2023-04-06,Platelets,26,3,4,0,0
+2023-04-07,Cryoprecipitate,12,4,4,0,0
+2023-04-07,Fresh Frozen Plasma,32,4,4,0,0
+2023-04-07,Packed RBC,73,4,4,0,0
+2023-04-07,Platelets,22,4,4,0,0
+2023-04-08,Cryoprecipitate,12,5,4,1,0
+2023-04-08,Fresh Frozen Plasma,21,5,4,1,0
+2023-04-08,Packed RBC,69,5,4,1,0
+2023-04-08,Platelets,23,5,4,1,0
+2023-04-09,Cryoprecipitate,10,6,4,1,0
+2023-04-09,Fresh Frozen Plasma,19,6,4,1,0
+2023-04-09,Packed RBC,48,6,4,1,0
+2023-04-09,Platelets,15,6,4,1,0
+2023-04-10,Cryoprecipitate,13,0,4,0,0
+2023-04-10,Fresh Frozen Plasma,25,0,4,0,0
+2023-04-10,Packed RBC,84,0,4,0,0
+2023-04-10,Platelets,25,0,4,0,0
+2023-04-11,Cryoprecipitate,12,1,4,0,0
+2023-04-11,Fresh Frozen Plasma,23,1,4,0,0
+2023-04-11,Packed RBC,80,1,4,0,0
+2023-04-11,Platelets,34,1,4,0,0
+2023-04-12,Cryoprecipitate,12,2,4,0,0
+2023-04-12,Fresh Frozen Plasma,69,2,4,0,0
+2023-04-12,Packed RBC,70,2,4,0,0
+2023-04-12,Platelets,32,2,4,0,0
+2023-04-13,Cryoprecipitate,14,3,4,0,0
+2023-04-13,Fresh Frozen Plasma,24,3,4,0,0
+2023-04-13,Packed RBC,104,3,4,0,0
+2023-04-13,Platelets,27,3,4,0,0
+2023-04-14,Cryoprecipitate,12,4,4,0,0
+2023-04-14,Fresh Frozen Plasma,17,4,4,0,0
+2023-04-14,Packed RBC,99,4,4,0,0
+2023-04-14,Platelets,26,4,4,0,0
+2023-04-15,Cryoprecipitate,9,5,4,1,0
+2023-04-15,Fresh Frozen Plasma,17,5,4,1,0
+2023-04-15,Packed RBC,69,5,4,1,0
+2023-04-15,Platelets,22,5,4,1,0
+2023-04-16,Cryoprecipitate,9,6,4,1,0
+2023-04-16,Fresh Frozen Plasma,23,6,4,1,0
+2023-04-16,Packed RBC,40,6,4,1,0
+2023-04-16,Platelets,24,6,4,1,0
+2023-04-17,Cryoprecipitate,11,0,4,0,0
+2023-04-17,Fresh Frozen Plasma,17,0,4,0,0
+2023-04-17,Packed RBC,65,0,4,0,0
+2023-04-17,Platelets,34,0,4,0,0
+2023-04-18,Cryoprecipitate,11,1,4,0,0
+2023-04-18,Fresh Frozen Plasma,26,1,4,0,0
+2023-04-18,Packed RBC,74,1,4,0,0
+2023-04-18,Platelets,24,1,4,0,0
+2023-04-19,Cryoprecipitate,15,2,4,0,0
+2023-04-19,Fresh Frozen Plasma,28,2,4,0,0
+2023-04-19,Packed RBC,86,2,4,0,0
+2023-04-19,Platelets,26,2,4,0,0
+2023-04-20,Cryoprecipitate,17,3,4,0,0
+2023-04-20,Fresh Frozen Plasma,23,3,4,0,0
+2023-04-20,Packed RBC,81,3,4,0,0
+2023-04-20,Platelets,27,3,4,0,0
+2023-04-21,Cryoprecipitate,17,4,4,0,0
+2023-04-21,Fresh Frozen Plasma,28,4,4,0,0
+2023-04-21,Packed RBC,134,4,4,0,0
+2023-04-21,Platelets,30,4,4,0,0
+2023-04-22,Cryoprecipitate,14,5,4,1,0
+2023-04-22,Fresh Frozen Plasma,24,5,4,1,0
+2023-04-22,Packed RBC,61,5,4,1,0
+2023-04-22,Platelets,22,5,4,1,0
+2023-04-23,Cryoprecipitate,10,6,4,1,0
+2023-04-23,Fresh Frozen Plasma,14,6,4,1,0
+2023-04-23,Packed RBC,53,6,4,1,0
+2023-04-23,Platelets,23,6,4,1,0
+2023-04-24,Cryoprecipitate,15,0,4,0,0
+2023-04-24,Fresh Frozen Plasma,23,0,4,0,0
+2023-04-24,Packed RBC,66,0,4,0,0
+2023-04-24,Platelets,34,0,4,0,0
+2023-04-25,Cryoprecipitate,15,1,4,0,0
+2023-04-25,Fresh Frozen Plasma,20,1,4,0,0
+2023-04-25,Packed RBC,70,1,4,0,0
+2023-04-25,Platelets,29,1,4,0,0
+2023-04-26,Cryoprecipitate,11,2,4,0,0
+2023-04-26,Fresh Frozen Plasma,32,2,4,0,0
+2023-04-26,Packed RBC,61,2,4,0,0
+2023-04-26,Platelets,28,2,4,0,0
+2023-04-27,Cryoprecipitate,15,3,4,0,0
+2023-04-27,Fresh Frozen Plasma,28,3,4,0,0
+2023-04-27,Packed RBC,84,3,4,0,0
+2023-04-27,Platelets,31,3,4,0,0
+2023-04-28,Cryoprecipitate,14,4,4,0,0
+2023-04-28,Fresh Frozen Plasma,33,4,4,0,0
+2023-04-28,Packed RBC,68,4,4,0,0
+2023-04-28,Platelets,26,4,4,0,0
+2023-04-29,Cryoprecipitate,10,5,4,1,0
+2023-04-29,Fresh Frozen Plasma,25,5,4,1,0
+2023-04-29,Packed RBC,48,5,4,1,0
+2023-04-29,Platelets,17,5,4,1,0
+2023-04-30,Cryoprecipitate,8,6,4,1,0
+2023-04-30,Fresh Frozen Plasma,19,6,4,1,0
+2023-04-30,Packed RBC,47,6,4,1,0
+2023-04-30,Platelets,20,6,4,1,0
+2023-05-01,Cryoprecipitate,12,0,5,0,0
+2023-05-01,Fresh Frozen Plasma,26,0,5,0,0
+2023-05-01,Packed RBC,76,0,5,0,0
+2023-05-01,Platelets,35,0,5,0,0
+2023-05-02,Cryoprecipitate,12,1,5,0,0
+2023-05-02,Fresh Frozen Plasma,18,1,5,0,0
+2023-05-02,Packed RBC,89,1,5,0,0
+2023-05-02,Platelets,27,1,5,0,0
+2023-05-03,Cryoprecipitate,13,2,5,0,0
+2023-05-03,Fresh Frozen Plasma,26,2,5,0,0
+2023-05-03,Packed RBC,81,2,5,0,0
+2023-05-03,Platelets,33,2,5,0,0
+2023-05-04,Cryoprecipitate,10,3,5,0,0
+2023-05-04,Fresh Frozen Plasma,31,3,5,0,0
+2023-05-04,Packed RBC,97,3,5,0,0
+2023-05-04,Platelets,22,3,5,0,0
+2023-05-05,Cryoprecipitate,15,4,5,0,0
+2023-05-05,Fresh Frozen Plasma,23,4,5,0,0
+2023-05-05,Packed RBC,78,4,5,0,0
+2023-05-05,Platelets,29,4,5,0,0
+2023-05-06,Cryoprecipitate,10,5,5,1,0
+2023-05-06,Fresh Frozen Plasma,18,5,5,1,0
+2023-05-06,Packed RBC,48,5,5,1,0
+2023-05-06,Platelets,21,5,5,1,0
+2023-05-07,Cryoprecipitate,10,6,5,1,0
+2023-05-07,Fresh Frozen Plasma,15,6,5,1,0
+2023-05-07,Packed RBC,69,6,5,1,0
+2023-05-07,Platelets,20,6,5,1,0
+2023-05-08,Cryoprecipitate,12,0,5,0,0
+2023-05-08,Fresh Frozen Plasma,19,0,5,0,0
+2023-05-08,Packed RBC,62,0,5,0,0
+2023-05-08,Platelets,33,0,5,0,0
+2023-05-09,Cryoprecipitate,10,1,5,0,0
+2023-05-09,Fresh Frozen Plasma,19,1,5,0,0
+2023-05-09,Packed RBC,67,1,5,0,0
+2023-05-09,Platelets,42,1,5,0,0
+2023-05-10,Cryoprecipitate,13,2,5,0,0
+2023-05-10,Fresh Frozen Plasma,29,2,5,0,0
+2023-05-10,Packed RBC,78,2,5,0,0
+2023-05-10,Platelets,39,2,5,0,0
+2023-05-11,Cryoprecipitate,10,3,5,0,0
+2023-05-11,Fresh Frozen Plasma,28,3,5,0,0
+2023-05-11,Packed RBC,62,3,5,0,0
+2023-05-11,Platelets,27,3,5,0,0
+2023-05-12,Cryoprecipitate,16,4,5,0,0
+2023-05-12,Fresh Frozen Plasma,22,4,5,0,0
+2023-05-12,Packed RBC,74,4,5,0,0
+2023-05-12,Platelets,25,4,5,0,0
+2023-05-13,Cryoprecipitate,8,5,5,1,0
+2023-05-13,Fresh Frozen Plasma,18,5,5,1,0
+2023-05-13,Packed RBC,50,5,5,1,0
+2023-05-13,Platelets,21,5,5,1,0
+2023-05-14,Cryoprecipitate,10,6,5,1,0
+2023-05-14,Fresh Frozen Plasma,24,6,5,1,0
+2023-05-14,Packed RBC,56,6,5,1,0
+2023-05-14,Platelets,16,6,5,1,0
+2023-05-15,Cryoprecipitate,13,0,5,0,0
+2023-05-15,Fresh Frozen Plasma,27,0,5,0,0
+2023-05-15,Packed RBC,77,0,5,0,0
+2023-05-15,Platelets,30,0,5,0,0
+2023-05-16,Cryoprecipitate,11,1,5,0,0
+2023-05-16,Fresh Frozen Plasma,25,1,5,0,0
+2023-05-16,Packed RBC,91,1,5,0,0
+2023-05-16,Platelets,34,1,5,0,0
+2023-05-17,Cryoprecipitate,14,2,5,0,0
+2023-05-17,Fresh Frozen Plasma,31,2,5,0,0
+2023-05-17,Packed RBC,59,2,5,0,0
+2023-05-17,Platelets,30,2,5,0,0
+2023-05-18,Cryoprecipitate,17,3,5,0,0
+2023-05-18,Fresh Frozen Plasma,27,3,5,0,0
+2023-05-18,Packed RBC,71,3,5,0,0
+2023-05-18,Platelets,23,3,5,0,0
+2023-05-19,Cryoprecipitate,11,4,5,0,0
+2023-05-19,Fresh Frozen Plasma,25,4,5,0,0
+2023-05-19,Packed RBC,64,4,5,0,0
+2023-05-19,Platelets,28,4,5,0,0
+2023-05-20,Cryoprecipitate,12,5,5,1,0
+2023-05-20,Fresh Frozen Plasma,18,5,5,1,0
+2023-05-20,Packed RBC,50,5,5,1,0
+2023-05-20,Platelets,22,5,5,1,0
+2023-05-21,Cryoprecipitate,10,6,5,1,0
+2023-05-21,Fresh Frozen Plasma,18,6,5,1,0
+2023-05-21,Packed RBC,49,6,5,1,0
+2023-05-21,Platelets,20,6,5,1,0
+2023-05-22,Cryoprecipitate,13,0,5,0,0
+2023-05-22,Fresh Frozen Plasma,27,0,5,0,0
+2023-05-22,Packed RBC,77,0,5,0,0
+2023-05-22,Platelets,29,0,5,0,0
+2023-05-23,Cryoprecipitate,8,1,5,0,0
+2023-05-23,Fresh Frozen Plasma,22,1,5,0,0
+2023-05-23,Packed RBC,77,1,5,0,0
+2023-05-23,Platelets,33,1,5,0,0
+2023-05-24,Cryoprecipitate,14,2,5,0,0
+2023-05-24,Fresh Frozen Plasma,25,2,5,0,0
+2023-05-24,Packed RBC,82,2,5,0,0
+2023-05-24,Platelets,23,2,5,0,0
+2023-05-25,Cryoprecipitate,11,3,5,0,0
+2023-05-25,Fresh Frozen Plasma,26,3,5,0,0
+2023-05-25,Packed RBC,93,3,5,0,0
+2023-05-25,Platelets,22,3,5,0,0
+2023-05-26,Cryoprecipitate,12,4,5,0,0
+2023-05-26,Fresh Frozen Plasma,28,4,5,0,0
+2023-05-26,Packed RBC,87,4,5,0,0
+2023-05-26,Platelets,30,4,5,0,0
+2023-05-27,Cryoprecipitate,8,5,5,1,0
+2023-05-27,Fresh Frozen Plasma,20,5,5,1,0
+2023-05-27,Packed RBC,58,5,5,1,0
+2023-05-27,Platelets,28,5,5,1,0
+2023-05-28,Cryoprecipitate,11,6,5,1,0
+2023-05-28,Fresh Frozen Plasma,19,6,5,1,0
+2023-05-28,Packed RBC,46,6,5,1,0
+2023-05-28,Platelets,19,6,5,1,0
+2023-05-29,Cryoprecipitate,11,0,5,0,0
+2023-05-29,Fresh Frozen Plasma,23,0,5,0,0
+2023-05-29,Packed RBC,50,0,5,0,0
+2023-05-29,Platelets,27,0,5,0,0
+2023-05-30,Cryoprecipitate,14,1,5,0,0
+2023-05-30,Fresh Frozen Plasma,21,1,5,0,0
+2023-05-30,Packed RBC,59,1,5,0,0
+2023-05-30,Platelets,36,1,5,0,0
+2023-05-31,Cryoprecipitate,15,2,5,0,0
+2023-05-31,Fresh Frozen Plasma,20,2,5,0,0
+2023-05-31,Packed RBC,67,2,5,0,0
+2023-05-31,Platelets,34,2,5,0,0
+2023-06-01,Cryoprecipitate,9,3,6,0,0
+2023-06-01,Fresh Frozen Plasma,28,3,6,0,0
+2023-06-01,Packed RBC,98,3,6,0,0
+2023-06-01,Platelets,40,3,6,0,0
+2023-06-02,Cryoprecipitate,14,4,6,0,0
+2023-06-02,Fresh Frozen Plasma,31,4,6,0,0
+2023-06-02,Packed RBC,90,4,6,0,0
+2023-06-02,Platelets,30,4,6,0,0
+2023-06-03,Cryoprecipitate,10,5,6,1,0
+2023-06-03,Fresh Frozen Plasma,17,5,6,1,0
+2023-06-03,Packed RBC,58,5,6,1,0
+2023-06-03,Platelets,18,5,6,1,0
+2023-06-04,Cryoprecipitate,11,6,6,1,0
+2023-06-04,Fresh Frozen Plasma,21,6,6,1,0
+2023-06-04,Packed RBC,44,6,6,1,0
+2023-06-04,Platelets,26,6,6,1,0
+2023-06-05,Cryoprecipitate,10,0,6,0,0
+2023-06-05,Fresh Frozen Plasma,31,0,6,0,0
+2023-06-05,Packed RBC,94,0,6,0,0
+2023-06-05,Platelets,35,0,6,0,0
+2023-06-06,Cryoprecipitate,12,1,6,0,0
+2023-06-06,Fresh Frozen Plasma,23,1,6,0,0
+2023-06-06,Packed RBC,94,1,6,0,0
+2023-06-06,Platelets,35,1,6,0,0
+2023-06-07,Cryoprecipitate,15,2,6,0,0
+2023-06-07,Fresh Frozen Plasma,28,2,6,0,0
+2023-06-07,Packed RBC,81,2,6,0,0
+2023-06-07,Platelets,35,2,6,0,0
+2023-06-08,Cryoprecipitate,11,3,6,0,0
+2023-06-08,Fresh Frozen Plasma,22,3,6,0,0
+2023-06-08,Packed RBC,86,3,6,0,0
+2023-06-08,Platelets,34,3,6,0,0
+2023-06-09,Cryoprecipitate,10,4,6,0,0
+2023-06-09,Fresh Frozen Plasma,21,4,6,0,0
+2023-06-09,Packed RBC,97,4,6,0,0
+2023-06-09,Platelets,32,4,6,0,0
+2023-06-10,Cryoprecipitate,10,5,6,1,0
+2023-06-10,Fresh Frozen Plasma,22,5,6,1,0
+2023-06-10,Packed RBC,38,5,6,1,0
+2023-06-10,Platelets,20,5,6,1,0
+2023-06-11,Cryoprecipitate,10,6,6,1,0
+2023-06-11,Fresh Frozen Plasma,24,6,6,1,0
+2023-06-11,Packed RBC,75,6,6,1,0
+2023-06-11,Platelets,26,6,6,1,0
+2023-06-12,Cryoprecipitate,16,0,6,0,0
+2023-06-12,Fresh Frozen Plasma,23,0,6,0,0
+2023-06-12,Packed RBC,104,0,6,0,0
+2023-06-12,Platelets,33,0,6,0,0
+2023-06-13,Cryoprecipitate,13,1,6,0,0
+2023-06-13,Fresh Frozen Plasma,31,1,6,0,0
+2023-06-13,Packed RBC,90,1,6,0,0
+2023-06-13,Platelets,33,1,6,0,0
+2023-06-14,Cryoprecipitate,14,2,6,0,0
+2023-06-14,Fresh Frozen Plasma,20,2,6,0,0
+2023-06-14,Packed RBC,89,2,6,0,0
+2023-06-14,Platelets,37,2,6,0,0
+2023-06-15,Cryoprecipitate,14,3,6,0,0
+2023-06-15,Fresh Frozen Plasma,31,3,6,0,0
+2023-06-15,Packed RBC,81,3,6,0,0
+2023-06-15,Platelets,24,3,6,0,0
+2023-06-16,Cryoprecipitate,12,4,6,0,0
+2023-06-16,Fresh Frozen Plasma,31,4,6,0,0
+2023-06-16,Packed RBC,100,4,6,0,0
+2023-06-16,Platelets,25,4,6,0,0
+2023-06-17,Cryoprecipitate,10,5,6,1,0
+2023-06-17,Fresh Frozen Plasma,19,5,6,1,0
+2023-06-17,Packed RBC,61,5,6,1,0
+2023-06-17,Platelets,20,5,6,1,0
+2023-06-18,Cryoprecipitate,11,6,6,1,0
+2023-06-18,Fresh Frozen Plasma,23,6,6,1,0
+2023-06-18,Packed RBC,62,6,6,1,0
+2023-06-18,Platelets,20,6,6,1,0
+2023-06-19,Cryoprecipitate,13,0,6,0,0
+2023-06-19,Fresh Frozen Plasma,30,0,6,0,0
+2023-06-19,Packed RBC,71,0,6,0,0
+2023-06-19,Platelets,34,0,6,0,0
+2023-06-20,Cryoprecipitate,13,1,6,0,0
+2023-06-20,Fresh Frozen Plasma,29,1,6,0,0
+2023-06-20,Packed RBC,103,1,6,0,0
+2023-06-20,Platelets,24,1,6,0,0
+2023-06-21,Cryoprecipitate,14,2,6,0,0
+2023-06-21,Fresh Frozen Plasma,27,2,6,0,0
+2023-06-21,Packed RBC,102,2,6,0,0
+2023-06-21,Platelets,31,2,6,0,0
+2023-06-22,Cryoprecipitate,11,3,6,0,0
+2023-06-22,Fresh Frozen Plasma,25,3,6,0,0
+2023-06-22,Packed RBC,77,3,6,0,0
+2023-06-22,Platelets,33,3,6,0,0
+2023-06-23,Cryoprecipitate,15,4,6,0,0
+2023-06-23,Fresh Frozen Plasma,27,4,6,0,0
+2023-06-23,Packed RBC,86,4,6,0,0
+2023-06-23,Platelets,34,4,6,0,0
+2023-06-24,Cryoprecipitate,11,5,6,1,0
+2023-06-24,Fresh Frozen Plasma,24,5,6,1,0
+2023-06-24,Packed RBC,60,5,6,1,0
+2023-06-24,Platelets,22,5,6,1,0
+2023-06-25,Cryoprecipitate,10,6,6,1,0
+2023-06-25,Fresh Frozen Plasma,17,6,6,1,0
+2023-06-25,Packed RBC,59,6,6,1,0
+2023-06-25,Platelets,21,6,6,1,0
+2023-06-26,Cryoprecipitate,12,0,6,0,0
+2023-06-26,Fresh Frozen Plasma,26,0,6,0,0
+2023-06-26,Packed RBC,77,0,6,0,0
+2023-06-26,Platelets,29,0,6,0,0
+2023-06-27,Cryoprecipitate,17,1,6,0,0
+2023-06-27,Fresh Frozen Plasma,28,1,6,0,0
+2023-06-27,Packed RBC,63,1,6,0,0
+2023-06-27,Platelets,24,1,6,0,0
+2023-06-28,Cryoprecipitate,12,2,6,0,0
+2023-06-28,Fresh Frozen Plasma,23,2,6,0,0
+2023-06-28,Packed RBC,105,2,6,0,0
+2023-06-28,Platelets,30,2,6,0,0
+2023-06-29,Cryoprecipitate,15,3,6,0,0
+2023-06-29,Fresh Frozen Plasma,26,3,6,0,0
+2023-06-29,Packed RBC,95,3,6,0,0
+2023-06-29,Platelets,32,3,6,0,0
+2023-06-30,Cryoprecipitate,15,4,6,0,0
+2023-06-30,Fresh Frozen Plasma,34,4,6,0,0
+2023-06-30,Packed RBC,102,4,6,0,0
+2023-06-30,Platelets,35,4,6,0,0
+2023-07-01,Cryoprecipitate,12,5,7,1,0
+2023-07-01,Fresh Frozen Plasma,16,5,7,1,0
+2023-07-01,Packed RBC,65,5,7,1,0
+2023-07-01,Platelets,22,5,7,1,0
+2023-07-02,Cryoprecipitate,8,6,7,1,0
+2023-07-02,Fresh Frozen Plasma,18,6,7,1,0
+2023-07-02,Packed RBC,52,6,7,1,0
+2023-07-02,Platelets,19,6,7,1,0
+2023-07-03,Cryoprecipitate,14,0,7,0,0
+2023-07-03,Fresh Frozen Plasma,35,0,7,0,0
+2023-07-03,Packed RBC,87,0,7,0,0
+2023-07-03,Platelets,31,0,7,0,0
+2023-07-04,Cryoprecipitate,10,1,7,0,0
+2023-07-04,Fresh Frozen Plasma,21,1,7,0,0
+2023-07-04,Packed RBC,116,1,7,0,0
+2023-07-04,Platelets,43,1,7,0,0
+2023-07-05,Cryoprecipitate,16,2,7,0,0
+2023-07-05,Fresh Frozen Plasma,30,2,7,0,0
+2023-07-05,Packed RBC,75,2,7,0,0
+2023-07-05,Platelets,33,2,7,0,0
+2023-07-06,Cryoprecipitate,16,3,7,0,0
+2023-07-06,Fresh Frozen Plasma,24,3,7,0,0
+2023-07-06,Packed RBC,88,3,7,0,0
+2023-07-06,Platelets,38,3,7,0,0
+2023-07-07,Cryoprecipitate,13,4,7,0,0
+2023-07-07,Fresh Frozen Plasma,26,4,7,0,0
+2023-07-07,Packed RBC,74,4,7,0,0
+2023-07-07,Platelets,26,4,7,0,0
+2023-07-08,Cryoprecipitate,10,5,7,1,0
+2023-07-08,Fresh Frozen Plasma,16,5,7,1,0
+2023-07-08,Packed RBC,39,5,7,1,0
+2023-07-08,Platelets,21,5,7,1,0
+2023-07-09,Cryoprecipitate,9,6,7,1,0
+2023-07-09,Fresh Frozen Plasma,19,6,7,1,0
+2023-07-09,Packed RBC,60,6,7,1,0
+2023-07-09,Platelets,27,6,7,1,0
+2023-07-10,Cryoprecipitate,20,0,7,0,0
+2023-07-10,Fresh Frozen Plasma,31,0,7,0,0
+2023-07-10,Packed RBC,110,0,7,0,0
+2023-07-10,Platelets,37,0,7,0,0
+2023-07-11,Cryoprecipitate,13,1,7,0,0
+2023-07-11,Fresh Frozen Plasma,21,1,7,0,0
+2023-07-11,Packed RBC,85,1,7,0,0
+2023-07-11,Platelets,29,1,7,0,0
+2023-07-12,Cryoprecipitate,12,2,7,0,0
+2023-07-12,Fresh Frozen Plasma,25,2,7,0,0
+2023-07-12,Packed RBC,95,2,7,0,0
+2023-07-12,Platelets,39,2,7,0,0
+2023-07-13,Cryoprecipitate,11,3,7,0,0
+2023-07-13,Fresh Frozen Plasma,22,3,7,0,0
+2023-07-13,Packed RBC,81,3,7,0,0
+2023-07-13,Platelets,32,3,7,0,0
+2023-07-14,Cryoprecipitate,14,4,7,0,0
+2023-07-14,Fresh Frozen Plasma,26,4,7,0,0
+2023-07-14,Packed RBC,113,4,7,0,0
+2023-07-14,Platelets,29,4,7,0,0
+2023-07-15,Cryoprecipitate,11,5,7,1,0
+2023-07-15,Fresh Frozen Plasma,23,5,7,1,0
+2023-07-15,Packed RBC,58,5,7,1,0
+2023-07-15,Platelets,23,5,7,1,0
+2023-07-16,Cryoprecipitate,9,6,7,1,0
+2023-07-16,Fresh Frozen Plasma,24,6,7,1,0
+2023-07-16,Packed RBC,64,6,7,1,0
+2023-07-16,Platelets,18,6,7,1,0
+2023-07-17,Cryoprecipitate,14,0,7,0,0
+2023-07-17,Fresh Frozen Plasma,35,0,7,0,0
+2023-07-17,Packed RBC,96,0,7,0,0
+2023-07-17,Platelets,30,0,7,0,0
+2023-07-18,Cryoprecipitate,15,1,7,0,0
+2023-07-18,Fresh Frozen Plasma,22,1,7,0,0
+2023-07-18,Packed RBC,97,1,7,0,0
+2023-07-18,Platelets,29,1,7,0,0
+2023-07-19,Cryoprecipitate,13,2,7,0,0
+2023-07-19,Fresh Frozen Plasma,27,2,7,0,0
+2023-07-19,Packed RBC,111,2,7,0,0
+2023-07-19,Platelets,37,2,7,0,0
+2023-07-20,Cryoprecipitate,11,3,7,0,0
+2023-07-20,Fresh Frozen Plasma,21,3,7,0,0
+2023-07-20,Packed RBC,64,3,7,0,0
+2023-07-20,Platelets,32,3,7,0,0
+2023-07-21,Cryoprecipitate,13,4,7,0,0
+2023-07-21,Fresh Frozen Plasma,25,4,7,0,0
+2023-07-21,Packed RBC,70,4,7,0,0
+2023-07-21,Platelets,35,4,7,0,0
+2023-07-22,Cryoprecipitate,9,5,7,1,0
+2023-07-22,Fresh Frozen Plasma,24,5,7,1,0
+2023-07-22,Packed RBC,58,5,7,1,0
+2023-07-22,Platelets,27,5,7,1,0
+2023-07-23,Cryoprecipitate,9,6,7,1,0
+2023-07-23,Fresh Frozen Plasma,21,6,7,1,0
+2023-07-23,Packed RBC,49,6,7,1,0
+2023-07-23,Platelets,21,6,7,1,0
+2023-07-24,Cryoprecipitate,11,0,7,0,0
+2023-07-24,Fresh Frozen Plasma,35,0,7,0,0
+2023-07-24,Packed RBC,84,0,7,0,0
+2023-07-24,Platelets,32,0,7,0,0
+2023-07-25,Cryoprecipitate,12,1,7,0,0
+2023-07-25,Fresh Frozen Plasma,31,1,7,0,0
+2023-07-25,Packed RBC,82,1,7,0,0
+2023-07-25,Platelets,33,1,7,0,0
+2023-07-26,Cryoprecipitate,11,2,7,0,0
+2023-07-26,Fresh Frozen Plasma,30,2,7,0,0
+2023-07-26,Packed RBC,82,2,7,0,0
+2023-07-26,Platelets,25,2,7,0,0
+2023-07-27,Cryoprecipitate,13,3,7,0,0
+2023-07-27,Fresh Frozen Plasma,30,3,7,0,0
+2023-07-27,Packed RBC,57,3,7,0,0
+2023-07-27,Platelets,35,3,7,0,0
+2023-07-28,Cryoprecipitate,15,4,7,0,0
+2023-07-28,Fresh Frozen Plasma,28,4,7,0,0
+2023-07-28,Packed RBC,95,4,7,0,0
+2023-07-28,Platelets,28,4,7,0,0
+2023-07-29,Cryoprecipitate,8,5,7,1,0
+2023-07-29,Fresh Frozen Plasma,15,5,7,1,0
+2023-07-29,Packed RBC,67,5,7,1,0
+2023-07-29,Platelets,29,5,7,1,0
+2023-07-30,Cryoprecipitate,9,6,7,1,0
+2023-07-30,Fresh Frozen Plasma,26,6,7,1,0
+2023-07-30,Packed RBC,57,6,7,1,0
+2023-07-30,Platelets,29,6,7,1,0
+2023-07-31,Cryoprecipitate,15,0,7,0,0
+2023-07-31,Fresh Frozen Plasma,17,0,7,0,0
+2023-07-31,Packed RBC,62,0,7,0,0
+2023-07-31,Platelets,34,0,7,0,0
+2023-08-01,Cryoprecipitate,13,1,8,0,0
+2023-08-01,Fresh Frozen Plasma,30,1,8,0,0
+2023-08-01,Packed RBC,83,1,8,0,0
+2023-08-01,Platelets,31,1,8,0,0
+2023-08-02,Cryoprecipitate,12,2,8,0,0
+2023-08-02,Fresh Frozen Plasma,27,2,8,0,0
+2023-08-02,Packed RBC,76,2,8,0,0
+2023-08-02,Platelets,27,2,8,0,0
+2023-08-03,Cryoprecipitate,13,3,8,0,0
+2023-08-03,Fresh Frozen Plasma,20,3,8,0,0
+2023-08-03,Packed RBC,102,3,8,0,0
+2023-08-03,Platelets,39,3,8,0,0
+2023-08-04,Cryoprecipitate,24,4,8,0,0
+2023-08-04,Fresh Frozen Plasma,24,4,8,0,0
+2023-08-04,Packed RBC,84,4,8,0,0
+2023-08-04,Platelets,35,4,8,0,0
+2023-08-05,Cryoprecipitate,11,5,8,1,0
+2023-08-05,Fresh Frozen Plasma,18,5,8,1,0
+2023-08-05,Packed RBC,64,5,8,1,0
+2023-08-05,Platelets,22,5,8,1,0
+2023-08-06,Cryoprecipitate,8,6,8,1,0
+2023-08-06,Fresh Frozen Plasma,19,6,8,1,0
+2023-08-06,Packed RBC,65,6,8,1,0
+2023-08-06,Platelets,28,6,8,1,0
+2023-08-07,Cryoprecipitate,11,0,8,0,0
+2023-08-07,Fresh Frozen Plasma,28,0,8,0,0
+2023-08-07,Packed RBC,78,0,8,0,0
+2023-08-07,Platelets,31,0,8,0,0
+2023-08-08,Cryoprecipitate,13,1,8,0,0
+2023-08-08,Fresh Frozen Plasma,29,1,8,0,0
+2023-08-08,Packed RBC,87,1,8,0,0
+2023-08-08,Platelets,35,1,8,0,0
+2023-08-09,Cryoprecipitate,12,2,8,0,0
+2023-08-09,Fresh Frozen Plasma,25,2,8,0,0
+2023-08-09,Packed RBC,75,2,8,0,0
+2023-08-09,Platelets,32,2,8,0,0
+2023-08-10,Cryoprecipitate,10,3,8,0,0
+2023-08-10,Fresh Frozen Plasma,32,3,8,0,0
+2023-08-10,Packed RBC,86,3,8,0,0
+2023-08-10,Platelets,30,3,8,0,0
+2023-08-11,Cryoprecipitate,10,4,8,0,0
+2023-08-11,Fresh Frozen Plasma,28,4,8,0,0
+2023-08-11,Packed RBC,93,4,8,0,0
+2023-08-11,Platelets,38,4,8,0,0
+2023-08-12,Cryoprecipitate,10,5,8,1,0
+2023-08-12,Fresh Frozen Plasma,16,5,8,1,0
+2023-08-12,Packed RBC,57,5,8,1,0
+2023-08-12,Platelets,19,5,8,1,0
+2023-08-13,Cryoprecipitate,22,6,8,1,0
+2023-08-13,Fresh Frozen Plasma,20,6,8,1,0
+2023-08-13,Packed RBC,52,6,8,1,0
+2023-08-13,Platelets,22,6,8,1,0
+2023-08-14,Cryoprecipitate,12,0,8,0,0
+2023-08-14,Fresh Frozen Plasma,26,0,8,0,0
+2023-08-14,Packed RBC,96,0,8,0,0
+2023-08-14,Platelets,38,0,8,0,0
+2023-08-15,Cryoprecipitate,13,1,8,0,0
+2023-08-15,Fresh Frozen Plasma,29,1,8,0,0
+2023-08-15,Packed RBC,75,1,8,0,0
+2023-08-15,Platelets,66,1,8,0,0
+2023-08-16,Cryoprecipitate,12,2,8,0,0
+2023-08-16,Fresh Frozen Plasma,23,2,8,0,0
+2023-08-16,Packed RBC,94,2,8,0,0
+2023-08-16,Platelets,34,2,8,0,0
+2023-08-17,Cryoprecipitate,12,3,8,0,0
+2023-08-17,Fresh Frozen Plasma,24,3,8,0,0
+2023-08-17,Packed RBC,69,3,8,0,0
+2023-08-17,Platelets,32,3,8,0,0
+2023-08-18,Cryoprecipitate,13,4,8,0,0
+2023-08-18,Fresh Frozen Plasma,19,4,8,0,0
+2023-08-18,Packed RBC,78,4,8,0,0
+2023-08-18,Platelets,40,4,8,0,0
+2023-08-19,Cryoprecipitate,10,5,8,1,0
+2023-08-19,Fresh Frozen Plasma,16,5,8,1,0
+2023-08-19,Packed RBC,62,5,8,1,0
+2023-08-19,Platelets,25,5,8,1,0
+2023-08-20,Cryoprecipitate,10,6,8,1,0
+2023-08-20,Fresh Frozen Plasma,14,6,8,1,0
+2023-08-20,Packed RBC,58,6,8,1,0
+2023-08-20,Platelets,23,6,8,1,0
+2023-08-21,Cryoprecipitate,20,0,8,0,0
+2023-08-21,Fresh Frozen Plasma,26,0,8,0,0
+2023-08-21,Packed RBC,64,0,8,0,0
+2023-08-21,Platelets,34,0,8,0,0
+2023-08-22,Cryoprecipitate,16,1,8,0,0
+2023-08-22,Fresh Frozen Plasma,29,1,8,0,0
+2023-08-22,Packed RBC,67,1,8,0,0
+2023-08-22,Platelets,29,1,8,0,0
+2023-08-23,Cryoprecipitate,10,2,8,0,0
+2023-08-23,Fresh Frozen Plasma,26,2,8,0,0
+2023-08-23,Packed RBC,107,2,8,0,0
+2023-08-23,Platelets,37,2,8,0,0
+2023-08-24,Cryoprecipitate,10,3,8,0,0
+2023-08-24,Fresh Frozen Plasma,29,3,8,0,0
+2023-08-24,Packed RBC,84,3,8,0,0
+2023-08-24,Platelets,38,3,8,0,0
+2023-08-25,Cryoprecipitate,12,4,8,0,0
+2023-08-25,Fresh Frozen Plasma,28,4,8,0,0
+2023-08-25,Packed RBC,58,4,8,0,0
+2023-08-25,Platelets,40,4,8,0,0
+2023-08-26,Cryoprecipitate,10,5,8,1,0
+2023-08-26,Fresh Frozen Plasma,23,5,8,1,0
+2023-08-26,Packed RBC,81,5,8,1,0
+2023-08-26,Platelets,17,5,8,1,0
+2023-08-27,Cryoprecipitate,13,6,8,1,0
+2023-08-27,Fresh Frozen Plasma,16,6,8,1,0
+2023-08-27,Packed RBC,71,6,8,1,0
+2023-08-27,Platelets,28,6,8,1,0
+2023-08-28,Cryoprecipitate,12,0,8,0,0
+2023-08-28,Fresh Frozen Plasma,24,0,8,0,0
+2023-08-28,Packed RBC,109,0,8,0,0
+2023-08-28,Platelets,28,0,8,0,0
+2023-08-29,Cryoprecipitate,12,1,8,0,0
+2023-08-29,Fresh Frozen Plasma,37,1,8,0,0
+2023-08-29,Packed RBC,99,1,8,0,0
+2023-08-29,Platelets,34,1,8,0,0
+2023-08-30,Cryoprecipitate,14,2,8,0,0
+2023-08-30,Fresh Frozen Plasma,26,2,8,0,0
+2023-08-30,Packed RBC,91,2,8,0,0
+2023-08-30,Platelets,33,2,8,0,0
+2023-08-31,Cryoprecipitate,15,3,8,0,0
+2023-08-31,Fresh Frozen Plasma,32,3,8,0,0
+2023-08-31,Packed RBC,90,3,8,0,0
+2023-08-31,Platelets,35,3,8,0,0
+2023-09-01,Cryoprecipitate,10,4,9,0,0
+2023-09-01,Fresh Frozen Plasma,22,4,9,0,0
+2023-09-01,Packed RBC,78,4,9,0,0
+2023-09-01,Platelets,30,4,9,0,0
+2023-09-02,Cryoprecipitate,11,5,9,1,0
+2023-09-02,Fresh Frozen Plasma,20,5,9,1,0
+2023-09-02,Packed RBC,64,5,9,1,0
+2023-09-02,Platelets,21,5,9,1,0
+2023-09-03,Cryoprecipitate,8,6,9,1,0
+2023-09-03,Fresh Frozen Plasma,21,6,9,1,0
+2023-09-03,Packed RBC,59,6,9,1,0
+2023-09-03,Platelets,20,6,9,1,0
+2023-09-04,Cryoprecipitate,13,0,9,0,0
+2023-09-04,Fresh Frozen Plasma,26,0,9,0,0
+2023-09-04,Packed RBC,88,0,9,0,0
+2023-09-04,Platelets,24,0,9,0,0
+2023-09-05,Cryoprecipitate,11,1,9,0,0
+2023-09-05,Fresh Frozen Plasma,29,1,9,0,0
+2023-09-05,Packed RBC,67,1,9,0,0
+2023-09-05,Platelets,41,1,9,0,0
+2023-09-06,Cryoprecipitate,11,2,9,0,0
+2023-09-06,Fresh Frozen Plasma,23,2,9,0,0
+2023-09-06,Packed RBC,92,2,9,0,0
+2023-09-06,Platelets,26,2,9,0,0
+2023-09-07,Cryoprecipitate,10,3,9,0,0
+2023-09-07,Fresh Frozen Plasma,25,3,9,0,0
+2023-09-07,Packed RBC,65,3,9,0,0
+2023-09-07,Platelets,25,3,9,0,0
+2023-09-08,Cryoprecipitate,14,4,9,0,0
+2023-09-08,Fresh Frozen Plasma,29,4,9,0,0
+2023-09-08,Packed RBC,88,4,9,0,0
+2023-09-08,Platelets,32,4,9,0,0
+2023-09-09,Cryoprecipitate,9,5,9,1,0
+2023-09-09,Fresh Frozen Plasma,20,5,9,1,0
+2023-09-09,Packed RBC,55,5,9,1,0
+2023-09-09,Platelets,28,5,9,1,0
+2023-09-10,Cryoprecipitate,9,6,9,1,0
+2023-09-10,Fresh Frozen Plasma,20,6,9,1,0
+2023-09-10,Packed RBC,54,6,9,1,0
+2023-09-10,Platelets,24,6,9,1,0
+2023-09-11,Cryoprecipitate,13,0,9,0,0
+2023-09-11,Fresh Frozen Plasma,22,0,9,0,0
+2023-09-11,Packed RBC,79,0,9,0,0
+2023-09-11,Platelets,41,0,9,0,0
+2023-09-12,Cryoprecipitate,14,1,9,0,0
+2023-09-12,Fresh Frozen Plasma,31,1,9,0,0
+2023-09-12,Packed RBC,70,1,9,0,0
+2023-09-12,Platelets,31,1,9,0,0
+2023-09-13,Cryoprecipitate,12,2,9,0,0
+2023-09-13,Fresh Frozen Plasma,31,2,9,0,0
+2023-09-13,Packed RBC,73,2,9,0,0
+2023-09-13,Platelets,31,2,9,0,0
+2023-09-14,Cryoprecipitate,14,3,9,0,0
+2023-09-14,Fresh Frozen Plasma,23,3,9,0,0
+2023-09-14,Packed RBC,71,3,9,0,0
+2023-09-14,Platelets,26,3,9,0,0
+2023-09-15,Cryoprecipitate,14,4,9,0,0
+2023-09-15,Fresh Frozen Plasma,25,4,9,0,0
+2023-09-15,Packed RBC,75,4,9,0,0
+2023-09-15,Platelets,30,4,9,0,0
+2023-09-16,Cryoprecipitate,11,5,9,1,0
+2023-09-16,Fresh Frozen Plasma,21,5,9,1,0
+2023-09-16,Packed RBC,55,5,9,1,0
+2023-09-16,Platelets,24,5,9,1,0
+2023-09-17,Cryoprecipitate,10,6,9,1,0
+2023-09-17,Fresh Frozen Plasma,19,6,9,1,0
+2023-09-17,Packed RBC,47,6,9,1,0
+2023-09-17,Platelets,22,6,9,1,0
+2023-09-18,Cryoprecipitate,15,0,9,0,0
+2023-09-18,Fresh Frozen Plasma,26,0,9,0,0
+2023-09-18,Packed RBC,95,0,9,0,0
+2023-09-18,Platelets,34,0,9,0,0
+2023-09-19,Cryoprecipitate,11,1,9,0,0
+2023-09-19,Fresh Frozen Plasma,23,1,9,0,0
+2023-09-19,Packed RBC,73,1,9,0,0
+2023-09-19,Platelets,25,1,9,0,0
+2023-09-20,Cryoprecipitate,13,2,9,0,0
+2023-09-20,Fresh Frozen Plasma,20,2,9,0,0
+2023-09-20,Packed RBC,92,2,9,0,0
+2023-09-20,Platelets,27,2,9,0,0
+2023-09-21,Cryoprecipitate,27,3,9,0,0
+2023-09-21,Fresh Frozen Plasma,25,3,9,0,0
+2023-09-21,Packed RBC,68,3,9,0,0
+2023-09-21,Platelets,37,3,9,0,0
+2023-09-22,Cryoprecipitate,14,4,9,0,0
+2023-09-22,Fresh Frozen Plasma,23,4,9,0,0
+2023-09-22,Packed RBC,61,4,9,0,0
+2023-09-22,Platelets,32,4,9,0,0
+2023-09-23,Cryoprecipitate,12,5,9,1,0
+2023-09-23,Fresh Frozen Plasma,19,5,9,1,0
+2023-09-23,Packed RBC,74,5,9,1,0
+2023-09-23,Platelets,17,5,9,1,0
+2023-09-24,Cryoprecipitate,9,6,9,1,0
+2023-09-24,Fresh Frozen Plasma,30,6,9,1,0
+2023-09-24,Packed RBC,55,6,9,1,0
+2023-09-24,Platelets,23,6,9,1,0
+2023-09-25,Cryoprecipitate,13,0,9,0,0
+2023-09-25,Fresh Frozen Plasma,34,0,9,0,0
+2023-09-25,Packed RBC,70,0,9,0,0
+2023-09-25,Platelets,35,0,9,0,0
+2023-09-26,Cryoprecipitate,25,1,9,0,0
+2023-09-26,Fresh Frozen Plasma,26,1,9,0,0
+2023-09-26,Packed RBC,61,1,9,0,0
+2023-09-26,Platelets,29,1,9,0,0
+2023-09-27,Cryoprecipitate,10,2,9,0,0
+2023-09-27,Fresh Frozen Plasma,27,2,9,0,0
+2023-09-27,Packed RBC,89,2,9,0,0
+2023-09-27,Platelets,25,2,9,0,0
+2023-09-28,Cryoprecipitate,14,3,9,0,0
+2023-09-28,Fresh Frozen Plasma,26,3,9,0,0
+2023-09-28,Packed RBC,71,3,9,0,0
+2023-09-28,Platelets,24,3,9,0,0
+2023-09-29,Cryoprecipitate,12,4,9,0,0
+2023-09-29,Fresh Frozen Plasma,33,4,9,0,0
+2023-09-29,Packed RBC,80,4,9,0,0
+2023-09-29,Platelets,26,4,9,0,0
+2023-09-30,Cryoprecipitate,10,5,9,1,0
+2023-09-30,Fresh Frozen Plasma,17,5,9,1,0
+2023-09-30,Packed RBC,81,5,9,1,0
+2023-09-30,Platelets,20,5,9,1,0
+2023-10-01,Cryoprecipitate,9,6,10,1,0
+2023-10-01,Fresh Frozen Plasma,23,6,10,1,0
+2023-10-01,Packed RBC,68,6,10,1,0
+2023-10-01,Platelets,15,6,10,1,0
+2023-10-02,Cryoprecipitate,15,0,10,0,0
+2023-10-02,Fresh Frozen Plasma,23,0,10,0,0
+2023-10-02,Packed RBC,81,0,10,0,0
+2023-10-02,Platelets,66,0,10,0,0
+2023-10-03,Cryoprecipitate,11,1,10,0,0
+2023-10-03,Fresh Frozen Plasma,25,1,10,0,0
+2023-10-03,Packed RBC,92,1,10,0,0
+2023-10-03,Platelets,28,1,10,0,0
+2023-10-04,Cryoprecipitate,13,2,10,0,0
+2023-10-04,Fresh Frozen Plasma,30,2,10,0,0
+2023-10-04,Packed RBC,83,2,10,0,0
+2023-10-04,Platelets,21,2,10,0,0
+2023-10-05,Cryoprecipitate,11,3,10,0,0
+2023-10-05,Fresh Frozen Plasma,23,3,10,0,0
+2023-10-05,Packed RBC,85,3,10,0,0
+2023-10-05,Platelets,26,3,10,0,0
+2023-10-06,Cryoprecipitate,11,4,10,0,0
+2023-10-06,Fresh Frozen Plasma,21,4,10,0,0
+2023-10-06,Packed RBC,63,4,10,0,0
+2023-10-06,Platelets,46,4,10,0,0
+2023-10-07,Cryoprecipitate,10,5,10,1,0
+2023-10-07,Fresh Frozen Plasma,18,5,10,1,0
+2023-10-07,Packed RBC,45,5,10,1,0
+2023-10-07,Platelets,22,5,10,1,0
+2023-10-08,Cryoprecipitate,9,6,10,1,0
+2023-10-08,Fresh Frozen Plasma,25,6,10,1,0
+2023-10-08,Packed RBC,48,6,10,1,0
+2023-10-08,Platelets,24,6,10,1,0
+2023-10-09,Cryoprecipitate,13,0,10,0,0
+2023-10-09,Fresh Frozen Plasma,28,0,10,0,0
+2023-10-09,Packed RBC,82,0,10,0,0
+2023-10-09,Platelets,30,0,10,0,0
+2023-10-10,Cryoprecipitate,12,1,10,0,0
+2023-10-10,Fresh Frozen Plasma,26,1,10,0,0
+2023-10-10,Packed RBC,81,1,10,0,0
+2023-10-10,Platelets,33,1,10,0,0
+2023-10-11,Cryoprecipitate,11,2,10,0,0
+2023-10-11,Fresh Frozen Plasma,33,2,10,0,0
+2023-10-11,Packed RBC,89,2,10,0,0
+2023-10-11,Platelets,31,2,10,0,0
+2023-10-12,Cryoprecipitate,13,3,10,0,0
+2023-10-12,Fresh Frozen Plasma,24,3,10,0,0
+2023-10-12,Packed RBC,99,3,10,0,0
+2023-10-12,Platelets,27,3,10,0,0
+2023-10-13,Cryoprecipitate,16,4,10,0,0
+2023-10-13,Fresh Frozen Plasma,27,4,10,0,0
+2023-10-13,Packed RBC,121,4,10,0,0
+2023-10-13,Platelets,32,4,10,0,0
+2023-10-14,Cryoprecipitate,8,5,10,1,0
+2023-10-14,Fresh Frozen Plasma,14,5,10,1,0
+2023-10-14,Packed RBC,58,5,10,1,0
+2023-10-14,Platelets,26,5,10,1,0
+2023-10-15,Cryoprecipitate,17,6,10,1,0
+2023-10-15,Fresh Frozen Plasma,19,6,10,1,0
+2023-10-15,Packed RBC,61,6,10,1,0
+2023-10-15,Platelets,29,6,10,1,0
+2023-10-16,Cryoprecipitate,12,0,10,0,0
+2023-10-16,Fresh Frozen Plasma,30,0,10,0,0
+2023-10-16,Packed RBC,109,0,10,0,0
+2023-10-16,Platelets,37,0,10,0,0
+2023-10-17,Cryoprecipitate,15,1,10,0,0
+2023-10-17,Fresh Frozen Plasma,37,1,10,0,0
+2023-10-17,Packed RBC,87,1,10,0,0
+2023-10-17,Platelets,40,1,10,0,0
+2023-10-18,Cryoprecipitate,13,2,10,0,0
+2023-10-18,Fresh Frozen Plasma,38,2,10,0,0
+2023-10-18,Packed RBC,91,2,10,0,0
+2023-10-18,Platelets,29,2,10,0,0
+2023-10-19,Cryoprecipitate,14,3,10,0,0
+2023-10-19,Fresh Frozen Plasma,31,3,10,0,0
+2023-10-19,Packed RBC,74,3,10,0,0
+2023-10-19,Platelets,38,3,10,0,0
+2023-10-20,Cryoprecipitate,16,4,10,0,0
+2023-10-20,Fresh Frozen Plasma,29,4,10,0,0
+2023-10-20,Packed RBC,118,4,10,0,0
+2023-10-20,Platelets,38,4,10,0,0
+2023-10-21,Cryoprecipitate,10,5,10,1,0
+2023-10-21,Fresh Frozen Plasma,25,5,10,1,0
+2023-10-21,Packed RBC,81,5,10,1,0
+2023-10-21,Platelets,22,5,10,1,0
+2023-10-22,Cryoprecipitate,14,6,10,1,0
+2023-10-22,Fresh Frozen Plasma,19,6,10,1,0
+2023-10-22,Packed RBC,73,6,10,1,0
+2023-10-22,Platelets,29,6,10,1,0
+2023-10-23,Cryoprecipitate,13,0,10,0,0
+2023-10-23,Fresh Frozen Plasma,23,0,10,0,0
+2023-10-23,Packed RBC,76,0,10,0,0
+2023-10-23,Platelets,33,0,10,0,0
+2023-10-24,Cryoprecipitate,12,1,10,0,0
+2023-10-24,Fresh Frozen Plasma,29,1,10,0,0
+2023-10-24,Packed RBC,91,1,10,0,0
+2023-10-24,Platelets,34,1,10,0,0
+2023-10-25,Cryoprecipitate,17,2,10,0,0
+2023-10-25,Fresh Frozen Plasma,28,2,10,0,0
+2023-10-25,Packed RBC,98,2,10,0,0
+2023-10-25,Platelets,29,2,10,0,0
+2023-10-26,Cryoprecipitate,13,3,10,0,0
+2023-10-26,Fresh Frozen Plasma,25,3,10,0,0
+2023-10-26,Packed RBC,81,3,10,0,0
+2023-10-26,Platelets,37,3,10,0,0
+2023-10-27,Cryoprecipitate,15,4,10,0,0
+2023-10-27,Fresh Frozen Plasma,33,4,10,0,0
+2023-10-27,Packed RBC,82,4,10,0,0
+2023-10-27,Platelets,40,4,10,0,0
+2023-10-28,Cryoprecipitate,11,5,10,1,0
+2023-10-28,Fresh Frozen Plasma,18,5,10,1,0
+2023-10-28,Packed RBC,54,5,10,1,0
+2023-10-28,Platelets,30,5,10,1,0
+2023-10-29,Cryoprecipitate,11,6,10,1,0
+2023-10-29,Fresh Frozen Plasma,24,6,10,1,0
+2023-10-29,Packed RBC,67,6,10,1,0
+2023-10-29,Platelets,24,6,10,1,0
+2023-10-30,Cryoprecipitate,9,0,10,0,0
+2023-10-30,Fresh Frozen Plasma,34,0,10,0,0
+2023-10-30,Packed RBC,87,0,10,0,0
+2023-10-30,Platelets,46,0,10,0,0
+2023-10-31,Cryoprecipitate,13,1,10,0,0
+2023-10-31,Fresh Frozen Plasma,26,1,10,0,0
+2023-10-31,Packed RBC,79,1,10,0,0
+2023-10-31,Platelets,31,1,10,0,0
+2023-11-01,Cryoprecipitate,15,2,11,0,1
+2023-11-01,Fresh Frozen Plasma,28,2,11,0,1
+2023-11-01,Packed RBC,97,2,11,0,1
+2023-11-01,Platelets,26,2,11,0,1
+2023-11-02,Cryoprecipitate,15,3,11,0,1
+2023-11-02,Fresh Frozen Plasma,24,3,11,0,1
+2023-11-02,Packed RBC,88,3,11,0,1
+2023-11-02,Platelets,29,3,11,0,1
+2023-11-03,Cryoprecipitate,14,4,11,0,1
+2023-11-03,Fresh Frozen Plasma,25,4,11,0,1
+2023-11-03,Packed RBC,92,4,11,0,1
+2023-11-03,Platelets,34,4,11,0,1
+2023-11-04,Cryoprecipitate,9,5,11,1,1
+2023-11-04,Fresh Frozen Plasma,17,5,11,1,1
+2023-11-04,Packed RBC,53,5,11,1,1
+2023-11-04,Platelets,20,5,11,1,1
+2023-11-05,Cryoprecipitate,10,6,11,1,1
+2023-11-05,Fresh Frozen Plasma,11,6,11,1,1
+2023-11-05,Packed RBC,48,6,11,1,1
+2023-11-05,Platelets,20,6,11,1,1
+2023-11-06,Cryoprecipitate,14,0,11,0,1
+2023-11-06,Fresh Frozen Plasma,21,0,11,0,1
+2023-11-06,Packed RBC,65,0,11,0,1
+2023-11-06,Platelets,37,0,11,0,1
+2023-11-07,Cryoprecipitate,11,1,11,0,1
+2023-11-07,Fresh Frozen Plasma,31,1,11,0,1
+2023-11-07,Packed RBC,90,1,11,0,1
+2023-11-07,Platelets,53,1,11,0,1
+2023-11-08,Cryoprecipitate,14,2,11,0,1
+2023-11-08,Fresh Frozen Plasma,27,2,11,0,1
+2023-11-08,Packed RBC,73,2,11,0,1
+2023-11-08,Platelets,28,2,11,0,1
+2023-11-09,Cryoprecipitate,11,3,11,0,1
+2023-11-09,Fresh Frozen Plasma,25,3,11,0,1
+2023-11-09,Packed RBC,83,3,11,0,1
+2023-11-09,Platelets,29,3,11,0,1
+2023-11-10,Cryoprecipitate,11,4,11,0,1
+2023-11-10,Fresh Frozen Plasma,23,4,11,0,1
+2023-11-10,Packed RBC,85,4,11,0,1
+2023-11-10,Platelets,29,4,11,0,1
+2023-11-11,Cryoprecipitate,8,5,11,1,1
+2023-11-11,Fresh Frozen Plasma,20,5,11,1,1
+2023-11-11,Packed RBC,56,5,11,1,1
+2023-11-11,Platelets,17,5,11,1,1
+2023-11-12,Cryoprecipitate,10,6,11,1,1
+2023-11-12,Fresh Frozen Plasma,23,6,11,1,1
+2023-11-12,Packed RBC,46,6,11,1,1
+2023-11-12,Platelets,16,6,11,1,1
+2023-11-13,Cryoprecipitate,11,0,11,0,1
+2023-11-13,Fresh Frozen Plasma,30,0,11,0,1
+2023-11-13,Packed RBC,90,0,11,0,1
+2023-11-13,Platelets,34,0,11,0,1
+2023-11-14,Cryoprecipitate,10,1,11,0,1
+2023-11-14,Fresh Frozen Plasma,20,1,11,0,1
+2023-11-14,Packed RBC,83,1,11,0,1
+2023-11-14,Platelets,46,1,11,0,1
+2023-11-15,Cryoprecipitate,16,2,11,0,1
+2023-11-15,Fresh Frozen Plasma,35,2,11,0,1
+2023-11-15,Packed RBC,82,2,11,0,1
+2023-11-15,Platelets,39,2,11,0,1
+2023-11-16,Cryoprecipitate,11,3,11,0,1
+2023-11-16,Fresh Frozen Plasma,34,3,11,0,1
+2023-11-16,Packed RBC,94,3,11,0,1
+2023-11-16,Platelets,25,3,11,0,1
+2023-11-17,Cryoprecipitate,16,4,11,0,1
+2023-11-17,Fresh Frozen Plasma,27,4,11,0,1
+2023-11-17,Packed RBC,110,4,11,0,1
+2023-11-17,Platelets,36,4,11,0,1
+2023-11-18,Cryoprecipitate,9,5,11,1,1
+2023-11-18,Fresh Frozen Plasma,15,5,11,1,1
+2023-11-18,Packed RBC,52,5,11,1,1
+2023-11-18,Platelets,24,5,11,1,1
+2023-11-19,Cryoprecipitate,9,6,11,1,1
+2023-11-19,Fresh Frozen Plasma,20,6,11,1,1
+2023-11-19,Packed RBC,75,6,11,1,1
+2023-11-19,Platelets,19,6,11,1,1
+2023-11-20,Cryoprecipitate,15,0,11,0,1
+2023-11-20,Fresh Frozen Plasma,33,0,11,0,1
+2023-11-20,Packed RBC,99,0,11,0,1
+2023-11-20,Platelets,41,0,11,0,1
+2023-11-21,Cryoprecipitate,17,1,11,0,1
+2023-11-21,Fresh Frozen Plasma,27,1,11,0,1
+2023-11-21,Packed RBC,104,1,11,0,1
+2023-11-21,Platelets,27,1,11,0,1
+2023-11-22,Cryoprecipitate,15,2,11,0,1
+2023-11-22,Fresh Frozen Plasma,31,2,11,0,1
+2023-11-22,Packed RBC,72,2,11,0,1
+2023-11-22,Platelets,41,2,11,0,1
+2023-11-23,Cryoprecipitate,15,3,11,0,1
+2023-11-23,Fresh Frozen Plasma,32,3,11,0,1
+2023-11-23,Packed RBC,89,3,11,0,1
+2023-11-23,Platelets,38,3,11,0,1
+2023-11-24,Cryoprecipitate,16,4,11,0,1
+2023-11-24,Fresh Frozen Plasma,31,4,11,0,1
+2023-11-24,Packed RBC,120,4,11,0,1
+2023-11-24,Platelets,30,4,11,0,1
+2023-11-25,Cryoprecipitate,12,5,11,1,1
+2023-11-25,Fresh Frozen Plasma,22,5,11,1,1
+2023-11-25,Packed RBC,67,5,11,1,1
+2023-11-25,Platelets,30,5,11,1,1
+2023-11-26,Cryoprecipitate,11,6,11,1,1
+2023-11-26,Fresh Frozen Plasma,18,6,11,1,1
+2023-11-26,Packed RBC,57,6,11,1,1
+2023-11-26,Platelets,28,6,11,1,1
+2023-11-27,Cryoprecipitate,17,0,11,0,1
+2023-11-27,Fresh Frozen Plasma,33,0,11,0,1
+2023-11-27,Packed RBC,110,0,11,0,1
+2023-11-27,Platelets,35,0,11,0,1
+2023-11-28,Cryoprecipitate,21,1,11,0,1
+2023-11-28,Fresh Frozen Plasma,31,1,11,0,1
+2023-11-28,Packed RBC,71,1,11,0,1
+2023-11-28,Platelets,32,1,11,0,1
+2023-11-29,Cryoprecipitate,9,2,11,0,1
+2023-11-29,Fresh Frozen Plasma,38,2,11,0,1
+2023-11-29,Packed RBC,106,2,11,0,1
+2023-11-29,Platelets,34,2,11,0,1
+2023-11-30,Cryoprecipitate,13,3,11,0,1
+2023-11-30,Fresh Frozen Plasma,23,3,11,0,1
+2023-11-30,Packed RBC,92,3,11,0,1
+2023-11-30,Platelets,38,3,11,0,1
+2023-12-01,Cryoprecipitate,14,4,12,0,1
+2023-12-01,Fresh Frozen Plasma,37,4,12,0,1
+2023-12-01,Packed RBC,92,4,12,0,1
+2023-12-01,Platelets,36,4,12,0,1
+2023-12-02,Cryoprecipitate,10,5,12,1,1
+2023-12-02,Fresh Frozen Plasma,22,5,12,1,1
+2023-12-02,Packed RBC,85,5,12,1,1
+2023-12-02,Platelets,24,5,12,1,1
+2023-12-03,Cryoprecipitate,10,6,12,1,1
+2023-12-03,Fresh Frozen Plasma,15,6,12,1,1
+2023-12-03,Packed RBC,68,6,12,1,1
+2023-12-03,Platelets,21,6,12,1,1
+2023-12-04,Cryoprecipitate,14,0,12,0,1
+2023-12-04,Fresh Frozen Plasma,28,0,12,0,1
+2023-12-04,Packed RBC,82,0,12,0,1
+2023-12-04,Platelets,43,0,12,0,1
+2023-12-05,Cryoprecipitate,14,1,12,0,1
+2023-12-05,Fresh Frozen Plasma,25,1,12,0,1
+2023-12-05,Packed RBC,82,1,12,0,1
+2023-12-05,Platelets,38,1,12,0,1
+2023-12-06,Cryoprecipitate,15,2,12,0,1
+2023-12-06,Fresh Frozen Plasma,29,2,12,0,1
+2023-12-06,Packed RBC,71,2,12,0,1
+2023-12-06,Platelets,31,2,12,0,1
+2023-12-07,Cryoprecipitate,14,3,12,0,1
+2023-12-07,Fresh Frozen Plasma,37,3,12,0,1
+2023-12-07,Packed RBC,239,3,12,0,1
+2023-12-07,Platelets,33,3,12,0,1
+2023-12-08,Cryoprecipitate,12,4,12,0,1
+2023-12-08,Fresh Frozen Plasma,39,4,12,0,1
+2023-12-08,Packed RBC,95,4,12,0,1
+2023-12-08,Platelets,37,4,12,0,1
+2023-12-09,Cryoprecipitate,11,5,12,1,1
+2023-12-09,Fresh Frozen Plasma,23,5,12,1,1
+2023-12-09,Packed RBC,60,5,12,1,1
+2023-12-09,Platelets,19,5,12,1,1
+2023-12-10,Cryoprecipitate,10,6,12,1,1
+2023-12-10,Fresh Frozen Plasma,22,6,12,1,1
+2023-12-10,Packed RBC,75,6,12,1,1
+2023-12-10,Platelets,25,6,12,1,1
+2023-12-11,Cryoprecipitate,11,0,12,0,1
+2023-12-11,Fresh Frozen Plasma,31,0,12,0,1
+2023-12-11,Packed RBC,94,0,12,0,1
+2023-12-11,Platelets,24,0,12,0,1
+2023-12-12,Cryoprecipitate,13,1,12,0,1
+2023-12-12,Fresh Frozen Plasma,33,1,12,0,1
+2023-12-12,Packed RBC,106,1,12,0,1
+2023-12-12,Platelets,35,1,12,0,1
+2023-12-13,Cryoprecipitate,11,2,12,0,1
+2023-12-13,Fresh Frozen Plasma,27,2,12,0,1
+2023-12-13,Packed RBC,93,2,12,0,1
+2023-12-13,Platelets,39,2,12,0,1
+2023-12-14,Cryoprecipitate,13,3,12,0,1
+2023-12-14,Fresh Frozen Plasma,26,3,12,0,1
+2023-12-14,Packed RBC,75,3,12,0,1
+2023-12-14,Platelets,40,3,12,0,1
+2023-12-15,Cryoprecipitate,13,4,12,0,1
+2023-12-15,Fresh Frozen Plasma,27,4,12,0,1
+2023-12-15,Packed RBC,97,4,12,0,1
+2023-12-15,Platelets,32,4,12,0,1
+2023-12-16,Cryoprecipitate,9,5,12,1,1
+2023-12-16,Fresh Frozen Plasma,21,5,12,1,1
+2023-12-16,Packed RBC,67,5,12,1,1
+2023-12-16,Platelets,28,5,12,1,1
+2023-12-17,Cryoprecipitate,15,6,12,1,1
+2023-12-17,Fresh Frozen Plasma,22,6,12,1,1
+2023-12-17,Packed RBC,38,6,12,1,1
+2023-12-17,Platelets,22,6,12,1,1
+2023-12-18,Cryoprecipitate,15,0,12,0,1
+2023-12-18,Fresh Frozen Plasma,26,0,12,0,1
+2023-12-18,Packed RBC,85,0,12,0,1
+2023-12-18,Platelets,66,0,12,0,1
+2023-12-19,Cryoprecipitate,14,1,12,0,1
+2023-12-19,Fresh Frozen Plasma,28,1,12,0,1
+2023-12-19,Packed RBC,60,1,12,0,1
+2023-12-19,Platelets,38,1,12,0,1
+2023-12-20,Cryoprecipitate,13,2,12,0,1
+2023-12-20,Fresh Frozen Plasma,47,2,12,0,1
+2023-12-20,Packed RBC,85,2,12,0,1
+2023-12-20,Platelets,34,2,12,0,1
+2023-12-21,Cryoprecipitate,12,3,12,0,1
+2023-12-21,Fresh Frozen Plasma,33,3,12,0,1
+2023-12-21,Packed RBC,112,3,12,0,1
+2023-12-21,Platelets,60,3,12,0,1
+2023-12-22,Cryoprecipitate,18,4,12,0,1
+2023-12-22,Fresh Frozen Plasma,23,4,12,0,1
+2023-12-22,Packed RBC,239,4,12,0,1
+2023-12-22,Platelets,40,4,12,0,1
+2023-12-23,Cryoprecipitate,10,5,12,1,1
+2023-12-23,Fresh Frozen Plasma,34,5,12,1,1
+2023-12-23,Packed RBC,98,5,12,1,1
+2023-12-23,Platelets,28,5,12,1,1
+2023-12-24,Cryoprecipitate,11,6,12,1,1
+2023-12-24,Fresh Frozen Plasma,19,6,12,1,1
+2023-12-24,Packed RBC,97,6,12,1,1
+2023-12-24,Platelets,27,6,12,1,1
+2023-12-25,Cryoprecipitate,11,0,12,0,1
+2023-12-25,Fresh Frozen Plasma,44,0,12,0,1
+2023-12-25,Packed RBC,129,0,12,0,1
+2023-12-25,Platelets,49,0,12,0,1
+2023-12-26,Cryoprecipitate,19,1,12,0,1
+2023-12-26,Fresh Frozen Plasma,28,1,12,0,1
+2023-12-26,Packed RBC,82,1,12,0,1
+2023-12-26,Platelets,35,1,12,0,1
+2023-12-27,Cryoprecipitate,15,2,12,0,1
+2023-12-27,Fresh Frozen Plasma,54,2,12,0,1
+2023-12-27,Packed RBC,145,2,12,0,1
+2023-12-27,Platelets,42,2,12,0,1
+2023-12-28,Cryoprecipitate,17,3,12,0,1
+2023-12-28,Fresh Frozen Plasma,38,3,12,0,1
+2023-12-28,Packed RBC,121,3,12,0,1
+2023-12-28,Platelets,54,3,12,0,1
+2023-12-29,Cryoprecipitate,15,4,12,0,1
+2023-12-29,Fresh Frozen Plasma,33,4,12,0,1
+2023-12-29,Packed RBC,86,4,12,0,1
+2023-12-29,Platelets,31,4,12,0,1
+2023-12-30,Cryoprecipitate,14,5,12,1,1
+2023-12-30,Fresh Frozen Plasma,26,5,12,1,1
+2023-12-30,Packed RBC,83,5,12,1,1
+2023-12-30,Platelets,28,5,12,1,1
+2023-12-31,Cryoprecipitate,10,6,12,1,1
+2023-12-31,Fresh Frozen Plasma,30,6,12,1,1
+2023-12-31,Packed RBC,90,6,12,1,1
+2023-12-31,Platelets,33,6,12,1,1

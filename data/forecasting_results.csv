@@ -1,0 +1,4 @@
+model,MAE,RMSE,MAPE,R2
+SARIMA,22.19,35.65,12.4,0.2
+Random Forest,19.68,29.61,12.14,0.45
+Gradient Boosting,22.11,33.91,13.75,0.28
