@@ -61,25 +61,49 @@ blood-supply-management/
 
 ---
 
-## Installation & Setup
-
-```bash
-# Clone repository
-git clone https://github.com/Manasvi-247/blood-supply-management-ml.git
-cd blood-supply-management-ml
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run notebooks
-jupyter lab notebooks/
-```
+## Dependencies
 
 ### Requirements
 - Python 3.8+
 - pandas, numpy, matplotlib, seaborn
 - scikit-learn, statsmodels
 - prophet (optional)
+
+### Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+## How to Run the Project
+
+### Step 1: Clone Repository
+```bash
+git clone https://github.com/Manasvi-247/blood-supply-management-ml.git
+cd blood-supply-management-ml
+```
+
+### Step 2: Download Data
+Download the CSV files from [Google Drive](https://drive.google.com/drive/folders/1YCR5Gx2r8faHEW5MoG0KJKrkmc40PyGs?usp=sharing) and place them in the `data/` folder.
+
+### Step 3: Run Notebooks
+Run the notebooks in order:
+```bash
+jupyter lab notebooks/
+```
+
+| Notebook | Description |
+|----------|-------------|
+| `01_data_exploration.ipynb` | EDA and visualization |
+| `02_demand_forecasting.ipynb` | Time series forecasting (SARIMA, Prophet, ML) |
+| `03_donor_segmentation.ipynb` | RFM analysis and K-Means clustering |
+| `04_insights_recommendations.ipynb` | Business insights and recommendations |
+| `05_recommender_system.ipynb` | Hybrid donor-campaign recommender |
+
+### Step 4: View Reports
+- **PDF Report:** Open `report/report.pdf`
+- **HTML Report:** Open `report/report.html` in browser
 
 ---
 
