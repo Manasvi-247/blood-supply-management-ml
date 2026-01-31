@@ -1,26 +1,31 @@
 # Intelligent Blood Supply Management
 
-**Demand Forecasting and Donor Segmentation for Inventory Optimization**
+**Demand Forecasting, Donor Segmentation & Recommender System for Inventory Optimization**
 
-Team: **IDGAF** (Section A & B)
+Team: **IDGAF** | Section: A & B
 
 ---
 
 ## Project Overview
 
-This project addresses the critical challenge of blood shortage and wastage in healthcare through:
+This project addresses the critical challenge of **blood shortage and wastage** in healthcare through advanced ML techniques:
 
-1. **Demand Forecasting** - Predicting blood demand using time-series analysis (SARIMA, Prophet, ML)
-2. **Donor Segmentation** - Clustering donors using RFM metrics (K-Means)
-3. **Recommender System** - Donor-Campaign matching for targeted outreach
-4. **Anomaly Detection** - Change point detection in demand patterns
+| Component | Technique | Domain |
+|-----------|-----------|--------|
+| **Demand Forecasting** | SARIMA, Prophet, Random Forest, Gradient Boosting | Time Series |
+| **Donor Segmentation** | RFM Analysis, K-Means Clustering | Unsupervised Learning |
+| **Recommender System** | Hybrid Donor-Campaign Matching | Recommender Systems |
+| **Anomaly Detection** | Change Point Detection (Z-score) | Unsupervised Learning |
 
-### Key Results
+---
+
+## Key Results
 
 | Metric | Target | Achieved |
 |--------|--------|----------|
-| Forecast MAPE | <20% | ✓ |
-| Silhouette Score | >0.35 | ✓ |
+| Forecast MAPE | <20% | **12.14%** |
+| Silhouette Score | >0.35 | **0.41** |
+| Recommender Improvement | - | **+47%** vs random |
 
 ---
 
@@ -29,23 +34,27 @@ This project addresses the critical challenge of blood shortage and wastage in h
 ```
 blood-supply-management/
 ├── data/
-│   ├── uci_transfusion.csv      # UCI real dataset (748 records)
-│   ├── donor_registry.csv       # Synthetic donors (10K records)
-│   ├── rfm_dataset.csv          # RFM features for segmentation
-│   ├── demand_daily.csv         # Daily demand time-series
-│   ├── demand_detailed.csv      # Demand by blood type
-│   └── supply_inventory.csv     # Supply and wastage data
+│   ├── uci_transfusion.csv          # UCI real dataset (748 records)
+│   ├── donor_registry.csv           # Synthetic donors (10K records)
+│   ├── rfm_dataset.csv              # RFM features
+│   ├── demand_daily.csv             # Daily demand (3 years)
+│   ├── demand_detailed.csv          # Demand by blood type
+│   ├── supply_inventory.csv         # Supply and wastage
+│   ├── donor_segments.csv           # Segmented donors
+│   ├── recommendations_C001-C005.csv # Campaign recommendations
+│   └── campaign_metrics.csv         # Campaign performance
 ├── notebooks/
-│   ├── 01_data_exploration.ipynb
-│   ├── 02_demand_forecasting.ipynb
-│   ├── 03_donor_segmentation.ipynb
-│   ├── 04_insights_recommendations.ipynb
-│   └── 05_recommender_system.ipynb
+│   ├── 01_data_exploration.ipynb    # EDA & visualization
+│   ├── 02_demand_forecasting.ipynb  # SARIMA, Prophet, ML models
+│   ├── 03_donor_segmentation.ipynb  # RFM + K-Means clustering
+│   ├── 04_insights_recommendations.ipynb  # Business insights
+│   └── 05_recommender_system.ipynb  # Donor-Campaign recommender
 ├── src/
-│   ├── utils.py                 # Helper functions
-│   └── generate_datasets.py     # Data generation script
+│   ├── utils.py                     # Helper functions
+│   └── generate_datasets.py         # Synthetic data generation
 ├── report/
-│   └── (generated figures)
+│   ├── report.pdf                   # Final report (9 pages)
+│   └── *.png                        # 27 visualizations
 ├── requirements.txt
 └── README.md
 ```
@@ -54,128 +63,118 @@ blood-supply-management/
 
 ## Installation & Setup
 
-### Prerequisites
-- Python 3.8+
-- Jupyter Notebook/Lab
-
-### Install Dependencies
-
 ```bash
+# Clone repository
+git clone https://github.com/Manasvi-247/blood-supply-management-ml.git
+cd blood-supply-management-ml
+
+# Install dependencies
 pip install -r requirements.txt
+
+# Run notebooks
+jupyter lab notebooks/
 ```
 
-### Required Libraries
-- pandas, numpy
-- matplotlib, seaborn, plotly
-- scikit-learn
-- statsmodels
-- prophet (optional, for Prophet forecasting)
-- faker (for data generation)
-
----
-
-## How to Run
-
-### 1. Generate Synthetic Data (if not present)
-
-```bash
-python src/generate_datasets.py
-```
-
-This creates realistic synthetic datasets based on:
-- NBCUS 2019 Survey statistics
-- WHO blood type distributions
-- Nepal BPKIHS wastage study
-
-### 2. Run Notebooks in Order
-
-1. **01_data_exploration.ipynb** - Understand all datasets
-2. **02_demand_forecasting.ipynb** - Train SARIMA, Prophet, ML models
-3. **03_donor_segmentation.ipynb** - RFM analysis and clustering
-4. **04_insights_recommendations.ipynb** - Business insights
-5. **05_recommender_system.ipynb** - Donor-Campaign recommender + anomaly detection
-
-```bash
-jupyter notebook notebooks/
-```
+### Requirements
+- Python 3.8+
+- pandas, numpy, matplotlib, seaborn
+- scikit-learn, statsmodels
+- prophet (optional)
 
 ---
 
 ## Datasets
 
-### 1. UCI Blood Transfusion Dataset (Real Data)
-- **Source:** UCI ML Repository
-- **Records:** 748
-- **Features:** Recency, Frequency, Monetary, Time, Donated (target)
+| Dataset | Records | Type | Source |
+|---------|---------|------|--------|
+| UCI Blood Transfusion | 748 | Real | UCI ML Repository |
+| Donor Registry | 10,000 | Synthetic | NBCUS 2019 stats |
+| Demand Time-Series | 4,380 | Synthetic | 3 years daily |
+| Supply/Inventory | 4,380 | Synthetic | Nepal BPKIHS study |
 
-### 2. Synthetic Donor Registry
-- **Records:** 10,000
-- **Features:** Demographics, donation history, blood type, deferral history
-- **Based on:** NBCUS 2019 statistics
-
-### 3. Demand Time-Series
-- **Period:** 3 years (2021-2023)
-- **Granularity:** Daily
-- **Components:** Packed RBC, Platelets, FFP, Cryoprecipitate
-- **Patterns:** Weekly, seasonal, holiday effects
+**Data Generation Based On:**
+- NBCUS 2019 Survey (US blood collection statistics)
+- WHO blood type distributions
+- Nepal BPKIHS wastage study (7.1% benchmark)
 
 ---
 
 ## Methodology
 
-### Demand Forecasting
-- **SARIMA** - Seasonal ARIMA for time-series decomposition
-- **Prophet** - Facebook's forecasting with automatic seasonality
-- **Random Forest** - Feature-based ML with lag/rolling features
-- **Gradient Boosting** - Ensemble method for demand prediction
+### 1. Time Series Forecasting
 
-### Donor Segmentation
-- **RFM Scoring** - Quintile-based scoring (1-5)
-- **K-Means Clustering** - Optimal K via elbow/silhouette
-- **Segment Labels:** Champions, Loyal, Potential, At-Risk, Hibernating, New
+| Model | MAPE | R² |
+|-------|------|-----|
+| **Random Forest** | **12.14%** | **0.45** |
+| SARIMA | 12.40% | 0.20 |
+| Gradient Boosting | 13.75% | 0.28 |
 
-### Recommender System
-- **Hybrid Approach** - Rule-based filtering + weighted scoring
-- **Donor-Campaign Matching** - Match donors to blood drives based on RFM, blood type, availability
-- **Change Point Detection** - Rolling Z-score for demand anomalies
+**Key Features:** lag_1, rolling_mean_7, day_of_week, seasonal patterns
+
+### 2. Donor Segmentation (Unsupervised)
+
+| Segment | % of Donors | Strategy |
+|---------|-------------|----------|
+| Champions | 11.5% | Retain & Reward |
+| Loyal | 22.3% | Referral Programs |
+| Potential | 28.5% | Nurture & Convert |
+| At Risk | 19.6% | Urgent Reactivation |
+| Hibernating | 18.1% | Last-chance Campaign |
+
+**Clustering:** K-Means with Silhouette Score = 0.41
+
+### 3. Recommender System (Hybrid)
+
+```
+Score = 0.4×RFM + 0.2×Availability + 0.2×Segment_Match + 0.1×Blood_Match + 0.1×Urgency
+```
+
+**Campaigns Generated:**
+- Winter Blood Drive (high demand)
+- O-Negative Emergency (critical shortage)
+- Platelet Donation Week
+- Summer Stock Building
+- Lapsed Donor Reactivation
+
+### 4. Anomaly Detection
+
+- **Method:** Rolling Z-score (window=30, threshold=2.5σ)
+- **Purpose:** Detect demand spikes and operational disruptions
 
 ---
 
 ## Key Findings
 
 ### Demand Patterns
-- **Weekend Effect:** ~30% lower demand (reduced elective surgeries)
-- **Winter Peak:** +15% demand (Dec-Feb: accidents, flu season)
-- **Holiday Spikes:** Diwali, Christmas/New Year periods
+- **Weekend Effect:** 30% lower demand (reduced surgeries)
+- **Winter Peak:** +15% demand (Dec-Feb)
+- **Holiday Spikes:** +20-25% (Diwali, Christmas)
 
-### Inventory Performance
-- **Benchmark:** 92.9% utilization, 7.1% wastage (Nepal BPKIHS)
-- **Platelets:** Highest wastage risk (5-day shelf life)
-- **Packed RBC:** Most demanded component (~55%)
-
-### Donor Segments
-- **Champions:** High frequency, recent donors - retain & reward
-- **At-Risk:** Previously active, now lapsed - urgent reactivation
-- **New Donors:** First-time donors - onboarding & education
+### Simulation Results
+| Strategy | Avg Donations | Improvement |
+|----------|---------------|-------------|
+| Random | ~45 | baseline |
+| RFM-based | ~58 | +29% |
+| Recommender | ~66 | +47% |
 
 ---
 
 ## Business Recommendations
 
-1. **Deploy ML forecasting** for 7-14 day predictions
-2. **Pre-stock before winter** (+15% buffer Dec-Feb)
-3. **Just-in-time ordering** for platelets (5-day expiry)
-4. **Targeted outreach** based on RFM segments
-5. **Prioritize O-negative** collection (universal donor, only 6% of pool)
+1. **Deploy ML forecasting** for 7-14 day demand predictions
+2. **Pre-stock before winter** (+15% buffer in Nov)
+3. **Just-in-time for platelets** (5-day shelf life)
+4. **Targeted outreach** using recommender system (+47% yield)
+5. **Prioritize O-negative** collection (universal donor, only 6%)
 
 ---
 
 ## References
 
-1. NBCUS 2019 - National Blood Collection and Utilization Survey
-2. Nepal BPKIHS Study - Blood component utilization and wastage
-3. UCI ML Repository - Blood Transfusion Service Center Dataset
-4. WHO Blood Type Distribution Standards
+1. NBCUS (2019). National Blood Collection and Utilization Survey
+2. Singh et al. (2023). Blood component wastage at BPKIHS. J Pathology Nepal
+3. UCI ML Repository. Blood Transfusion Service Center Dataset
+4. WHO. Blood Safety and Availability Fact Sheet
 
 ---
 
@@ -193,8 +192,8 @@ jupyter notebook notebooks/
 
 ## License
 
-This project is for educational purposes as part of the Advanced ML course.
+Educational project for Advanced ML Course.
 
 ---
 
-*"Advanced ML is not about prediction accuracy alone. It is about discovering structure, extracting insights, and supporting decision-making in complex data."*
+> *"Advanced ML is not about prediction accuracy alone. It is about discovering structure, extracting insights, and supporting decision-making in complex data."*
